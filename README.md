@@ -1,5 +1,5 @@
 ambuda-gretil
-~~~~~~~~~~~~~
+=============
 
 TEI documents from GRETIL with some adhoc fixes in both the Sanskrit and in the
 underlying document structure.
