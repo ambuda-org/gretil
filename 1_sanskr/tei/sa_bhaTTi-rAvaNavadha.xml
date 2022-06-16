@@ -308,7 +308,7 @@
 <text xml:lang="sa-Latn" xml:id="Bhk">
   <body>
 
-<p>Bhk_1</p>
+<div type="sarga" n="1">
 <lg xml:id="Bhk_1.1">
 <l xml:id="Bhk_1.1-1">abhūn nṛpo vibudha-sakhaḥ paraṃ-tapaḥ śrutā'nvito daśa-ratha ityudāhṛtaḥ,</l>
 <l xml:id="Bhk_1.1-2">guṇair varaṃ bhuvana-hitac-chalena yaṃ sanā-tanaḥ pitaramupāgamat svayam.</l>
@@ -320,7 +320,7 @@
 </lg>
 
 <lg xml:id="Bhk_1.3">
-<l xml:id="Bhk_1.3-1">vasūni toyaṃ ghana-vad vyakārīt, sahā''sanaṃ gotra-bhidā'dhyavātsīt,</l>
+<l xml:id="Bhk_1.3-1">vasūni toyaṃ ghana-vad vyakārīt, sahāsanaṃ gotra-bhidā'dhyavātsīt,</l>
 <l xml:id="Bhk_1.3-2">na tryambakādanyamupāsthitā'sau, yaśāṃsi sarveṣu-bhṛtāṃ nirāstat.</l>
 </lg>
 
@@ -335,7 +335,7 @@
 </lg>
 
 <lg xml:id="Bhk_1.6">
-<l xml:id="Bhk_1.6-1">nirmāṇa-dakṣasya samīhiteṣu sīmeva padmā''sana-kauśalasya</l>
+<l xml:id="Bhk_1.6-1">nirmāṇa-dakṣasya samīhiteṣu sīmeva padmāsana-kauśalasya</l>
 <l xml:id="Bhk_1.6-2">ūrdhva-sphurad-ratna-gabhastibhir yā sthitā'vahasyeva puraṃ maghonaḥ.</l>
 </lg>
 
@@ -360,8 +360,8 @@
 </lg>
 
 <lg xml:id="Bhk_1.11">
-<l xml:id="Bhk_1.11-1">aihiṣṭa taṃ kārayituṃ kṛtā''tmā kratuṃ nṛpaḥ putra-phalaṃ munīndram,</l>
-<l xml:id="Bhk_1.11-2">jñānā''śayas tasya tato vyatānīt sa karmaṭhaḥ karma sutā'nubandham.</l>
+<l xml:id="Bhk_1.11-1">aihiṣṭa taṃ kārayituṃ kṛtātmā kratuṃ nṛpaḥ putra-phalaṃ munīndram,</l>
+<l xml:id="Bhk_1.11-2">jñānāśayas tasya tato vyatānīt sa karmaṭhaḥ karma sutā'nubandham.</l>
 </lg>
 
 <lg xml:id="Bhk_1.12">
@@ -391,11 +391,11 @@
 
 <lg xml:id="Bhk_1.17">
 <l xml:id="Bhk_1.17-1">tato-bhyagād gādhi-sutaḥ kṣitīndraṃ rakṣobhirabhyāhata-karma-vṛttiḥ</l>
-<l xml:id="Bhk_1.17-2">rāmaṃ varītuṃ parirakṣaṇā-rthaṃ, rājā''jihat taṃ madhuparka-pāṇiḥ.</l>
+<l xml:id="Bhk_1.17-2">rāmaṃ varītuṃ parirakṣaṇā-rthaṃ, rājājihat taṃ madhuparka-pāṇiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_1.18">
-<l xml:id="Bhk_1.18-1">aiṣīḥ punar-janma-jayāya yat tvaṃ, rūpā''di-bodhān nyavṛtac ca yat te,</l>
+<l xml:id="Bhk_1.18-1">aiṣīḥ punar-janma-jayāya yat tvaṃ, rūpādi-bodhān nyavṛtac ca yat te,</l>
 <l xml:id="Bhk_1.18-2">tattvānyabuddhāḥ pratinūni yena, dhyānaṃ nṛpas tacchivamityavādīt.</l>
 </lg>
 
@@ -416,7 +416,7 @@
 
 <lg xml:id="Bhk_1.22">
 <l xml:id="Bhk_1.22-1">ghāniṣyate tena mahān vipakṣaḥ, sthāyiṣyate yena raṇe purastāt,</l>
-<l xml:id="Bhk_1.22-2">mā māṃ mahā''tman paribhūr-yogye na mad-vidho nyasyati bhāramagryam.</l>
+<l xml:id="Bhk_1.22-2">mā māṃ mahātman paribhūr-yogye na mad-vidho nyasyati bhāramagryam.</l>
 </lg>
 
 <lg xml:id="Bhk_1.23">
@@ -426,7 +426,7 @@
 
 <lg xml:id="Bhk_1.24">
 <l xml:id="Bhk_1.24-1">āśīrbhirabhyarcya muniḥ kṣitīndraṃ prītaḥ pratasthe punarāśramāya,</l>
-<l xml:id="Bhk_1.24-2">taṃ pṛṣṭha-taḥ praṣṭhamiyāya namro hiṃsreṣu-dīptā''pta-dhanuḥ kumāraḥ.</l>
+<l xml:id="Bhk_1.24-2">taṃ pṛṣṭha-taḥ praṣṭhamiyāya namro hiṃsreṣu-dīptāpta-dhanuḥ kumāraḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_1.25">
@@ -444,8 +444,9 @@
 <l xml:id="Bhk_1.27-2">abhimata-phala-śaṃsī cāru pusphora bāhus, taruṣu cukuvuruccaiḥ pakṣiṇaś cā'nukūlāḥ.</l>
 </lg>
 
+</div>
 
-<p>Bhk_2</p>
+<div type="sarga" n="2">
 <lg xml:id="Bhk_2.1">
 <l xml:id="Bhk_2.1-1">vanaspatīnāṃ sarasāṃ nadīnāṃ tejasvināṃ kāntibhṛtāṃ diśāṃ ca</l>
 <l xml:id="Bhk_2.1-2">niryāya tasyāḥ sa puraḥ samantā cchriyaṃ dadhānāṃ śaradaṃ dadarśa.</l>
@@ -457,22 +458,22 @@
 </lg>
 
 <lg xml:id="Bhk_2.3">
-<l xml:id="Bhk_2.3-1">bimbā''gatais tīra-vanaiḥ samṛddhiṃ nijāṃ vilokyā'pahṛtāṃ payobhiḥ</l>
-<l xml:id="Bhk_2.3-2">kūlāni sā''marṣatayeva tenuḥ saroja-lakṣmīṃ sthala-padma-hāsaiḥ.</l>
+<l xml:id="Bhk_2.3-1">bimbāgatais tīra-vanaiḥ samṛddhiṃ nijāṃ vilokyā'pahṛtāṃ payobhiḥ</l>
+<l xml:id="Bhk_2.3-2">kūlāni sāmarṣatayeva tenuḥ saroja-lakṣmīṃ sthala-padma-hāsaiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_2.4">
 <l xml:id="Bhk_2.4-1">niśā-tuṣārair nayanā'mbu-kalpaiḥ patrā-'nta-paryāgaladaccha-binduḥ</l>
-<l xml:id="Bhk_2.4-2">upārurodeva nadat-pataṅgaḥ kumudvatīṃ tīra-tarur dinā''dau.</l>
+<l xml:id="Bhk_2.4-2">upārurodeva nadat-pataṅgaḥ kumudvatīṃ tīra-tarur dinādau.</l>
 </lg>
 
 <lg xml:id="Bhk_2.5">
 <l xml:id="Bhk_2.5-1">vanāni toyāni ca netra-kalpaiḥ puṣpaiḥ sarojaiś ca nilīna-bhṛṅgaiḥ</l>
-<l xml:id="Bhk_2.5-2">parasparāṃ vismayavanti lakṣmī- mālokayāñcakrurivā''dareṇa.</l>
+<l xml:id="Bhk_2.5-2">parasparāṃ vismayavanti lakṣmī- mālokayāñcakrurivādareṇa.</l>
 </lg>
 
 <lg xml:id="Bhk_2.6">
-<l xml:id="Bhk_2.6-1">prabhāta-vātāha''ti-kampitā''kṛtiḥ kumudvatī-reṇu-piśaṅga-vigraham</l>
+<l xml:id="Bhk_2.6-1">prabhāta-vātāhati-kampitākṛtiḥ kumudvatī-reṇu-piśaṅga-vigraham</l>
 <l xml:id="Bhk_2.6-2">nirāsa bhṛṅgaṃ kupiteva padminī, na māninī saṃsahate 'nya-saṅgamam.</l>
 </lg>
 
@@ -482,7 +483,7 @@
 </lg>
 
 <lg xml:id="Bhk_2.8">
-<l xml:id="Bhk_2.8-1">girer nitambe marutā vibhinnaṃ toyā'vaśeṣeṇa himā''bhamabhram</l>
+<l xml:id="Bhk_2.8-1">girer nitambe marutā vibhinnaṃ toyā'vaśeṣeṇa himābhamabhram</l>
 <l xml:id="Bhk_2.8-2">sarin-mukhā'bhyuccayamādadhānaṃ śailā'dhipasyā'nucakāra lakṣmīm.</l>
 </lg>
 
@@ -508,7 +509,7 @@
 
 <lg xml:id="Bhk_2.13">
 <l xml:id="Bhk_2.13-1">dig-vyāpinīr locana-lobhanīyā mṛjā'nvayāḥ snehamiva sravantīḥ</l>
-<l xml:id="Bhk_2.13-2">ṛjvā''yatāḥ śasya-viśeṣa-paṅktīs tutoṣa paśyan vitṛṇā'ntarālāḥ.</l>
+<l xml:id="Bhk_2.13-2">ṛjvāyatāḥ śasya-viśeṣa-paṅktīs tutoṣa paśyan vitṛṇā'ntarālāḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_2.14">
@@ -547,22 +548,22 @@
 </lg>
 
 <lg xml:id="Bhk_2.21">
-<l xml:id="Bhk_2.21-1">vidyāmathainaṃ vijayāṃ jayāṃ ca rakṣo-gaṇaṃ kṣipnuma-vikṣatā''tmā</l>
+<l xml:id="Bhk_2.21-1">vidyāmathainaṃ vijayāṃ jayāṃ ca rakṣo-gaṇaṃ kṣipnuma-vikṣatātmā</l>
 <l xml:id="Bhk_2.21-2">adhyāpipad gādhi-suto yathāvan nighātayiṣyan yudhi yātudhānān.</l>
 </lg>
 
 <lg xml:id="Bhk_2.22">
-<l xml:id="Bhk_2.22-1">āyodhane sthāyukamastrajāta- mamoghamabhyarṇa-mahā''havāya</l>
+<l xml:id="Bhk_2.22-1">āyodhane sthāyukamastrajāta- mamoghamabhyarṇa-mahāhavāya</l>
 <l xml:id="Bhk_2.22-2">dadau vadhāya kṣaṇadācarāṇāṃ tasmai muniḥ śreyasi jāgarūkaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_2.23">
 <l xml:id="Bhk_2.23-1">taṃ vipra-darśaṃ kṛta-ghāta-yatnā yāntaṃ vane rātricarī ḍuḍhauke,</l>
-<l xml:id="Bhk_2.23-2">jighāṃsu-vedaṃ dhṛta-bhāsurā'stram tāṃ tāḍakā''khyāṃ nijaghāna rāmaḥ.</l>
+<l xml:id="Bhk_2.23-2">jighāṃsu-vedaṃ dhṛta-bhāsurā'stram tāṃ tāḍakākhyāṃ nijaghāna rāmaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_2.24">
-<l xml:id="Bhk_2.24-1">athā ''luloke huta-dhūma-ketu- śikhā'ñjana-snigdha-samṛddha-śākham</l>
+<l xml:id="Bhk_2.24-1">athāluloke huta-dhūma-ketu- śikhā'ñjana-snigdha-samṛddha-śākham</l>
 <l xml:id="Bhk_2.24-2">tapovanaṃ prādhyayanā'bhibhūta- samuccarac-cāru-pataktri-śiñjam.</l>
 </lg>
 
@@ -573,7 +574,7 @@
 
 <lg xml:id="Bhk_2.26">
 <l xml:id="Bhk_2.26-1">apūpujan viṣṭara-pādya-mālyai- rātithya-niṣṇā vana-vāsi-mukhyāḥ,</l>
-<l xml:id="Bhk_2.26-2">pratyagrahīṣṭāṃ madhuparka-miśraṃ tāvāsanā''di kṣiti-pālaputrau.</l>
+<l xml:id="Bhk_2.26-2">pratyagrahīṣṭāṃ madhuparka-miśraṃ tāvāsanādi kṣiti-pālaputrau.</l>
 </lg>
 
 <lg xml:id="Bhk_2.27">
@@ -593,7 +594,7 @@
 
 <lg xml:id="Bhk_2.30">
 <l xml:id="Bhk_2.30-1">āpiṅga-rūkṣordhva-śirasya-bālaiḥ śirāla-jaṅghair giri-kūṭa-daghnaiḥ</l>
-<l xml:id="Bhk_2.30-2">tataḥ kṣapā'ṭaiḥ pṛthu-piṅgalā'kṣaiḥ khaṃ prāvṛṣeṇyairiva cā''naśe'bdaiḥ.</l>
+<l xml:id="Bhk_2.30-2">tataḥ kṣapā'ṭaiḥ pṛthu-piṅgalā'kṣaiḥ khaṃ prāvṛṣeṇyairiva cānaśe'bdaiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_2.31">
@@ -633,7 +634,7 @@
 
 <lg xml:id="Bhk_2.38">
 <l xml:id="Bhk_2.38-1">mahīyyamānā bhavatā 'timātraṃ surā'dhvare ghasmara-jitvareṇa</l>
-<l xml:id="Bhk_2.38-2">divo'pi vajrā''yudha-bhūṣaṇāyā hriṇīyate vīra-vatī na bhūmiḥ.</l>
+<l xml:id="Bhk_2.38-2">divo'pi vajrāyudha-bhūṣaṇāyā hriṇīyate vīra-vatī na bhūmiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_2.39">
@@ -648,7 +649,7 @@
 
 <lg xml:id="Bhk_2.41">
 <l xml:id="Bhk_2.41-1">etau sma mitrā-varuṇau kimetau, kimaśvinau soma-rasaṃ pipāsū,</l>
-<l xml:id="Bhk_2.41-2">janaṃ samastaṃ janakā''śrama-sthaṃ rūpeṇa tāvaujihatāṃ nṛ-siṃhau.</l>
+<l xml:id="Bhk_2.41-2">janaṃ samastaṃ janakāśrama-sthaṃ rūpeṇa tāvaujihatāṃ nṛ-siṃhau.</l>
 </lg>
 
 <lg xml:id="Bhk_2.42">
@@ -678,7 +679,7 @@
 
 <lg xml:id="Bhk_2.47">
 <l xml:id="Bhk_2.47-1">hiraṇmayī sāla-lateva jaṅgamā cyutā divaḥ sthāsnurivā'cira-prabhā</l>
-<l xml:id="Bhk_2.47-2">śaśāṅkaṃ-kānteradhidevatā''kṛtiḥ sutā dade tasya sutāya maithilī.</l>
+<l xml:id="Bhk_2.47-2">śaśāṅkaṃ-kānteradhidevatākṛtiḥ sutā dade tasya sutāya maithilī.</l>
 </lg>
 
 <lg xml:id="Bhk_2.48">
@@ -688,7 +689,7 @@
 
 <lg xml:id="Bhk_2.49">
 <l xml:id="Bhk_2.49-1">su-prātamāsādita-saṃmadaṃ tad vandārubhiḥ saṃstutamabhyayodhyam</l>
-<l xml:id="Bhk_2.49-2">aśvīya-rājanyaka-hāstikā''ḍhya- magāt sa-rājaṃ balamadhvanīnam.</l>
+<l xml:id="Bhk_2.49-2">aśvīya-rājanyaka-hāstikāḍhya- magāt sa-rājaṃ balamadhvanīnam.</l>
 </lg>
 
 <lg xml:id="Bhk_2.50">
@@ -703,7 +704,7 @@
 
 <lg xml:id="Bhk_2.52">
 <l xml:id="Bhk_2.52-1">aneka-śo nirjita-rājakas tvaṃ, pit natārpsīr nṛpa-rakta-toyaiḥ,</l>
-<l xml:id="Bhk_2.52-2">saṃkṣipya saṃrambhama-sadū-vipakṣaṃ, kā ''sthā 'rbhake 'smiṃstava rāma ! rāme.</l>
+<l xml:id="Bhk_2.52-2">saṃkṣipya saṃrambhama-sadū-vipakṣaṃ, kāsthā 'rbhake 'smiṃstava rāma ! rāme.</l>
 </lg>
 
 <lg xml:id="Bhk_2.53">
@@ -720,12 +721,12 @@
 <l xml:id="Bhk_2.55-1">atha puru-java-yogān nedayad dūra-saṃsthaṃ davayadati-rayeṇa prāptamurvī-vibhāgam</l>
 <l xml:id="Bhk_2.55-2">klama-rahitamacetan nīrajīkārita-kṣmāṃ, balamupahita-śobhāṃ tūrṇamāyādayodhyām.</l>
 </lg>
+</div>
 
-
-<p>Bhk_3</p>
+<div type="sarga" n="3">
 <lg xml:id="Bhk_3.1">
 <l xml:id="Bhk_3.1-1">vadhena saṃkhye piśitā'śanānāṃ kṣatrā'ntakasyā 'bhibhavena caiva</l>
-<l xml:id="Bhk_3.1-2">āḍhyaṃbhaviṣṇur yaśasā kumāraḥ priyaṃbhaviṣṇur na sa yasya nā''sīt.</l>
+<l xml:id="Bhk_3.1-2">āḍhyaṃbhaviṣṇur yaśasā kumāraḥ priyaṃbhaviṣṇur na sa yasya nāsīt.</l>
 </lg>
 
 <lg xml:id="Bhk_3.2">
@@ -749,7 +750,7 @@
 </lg>
 
 <lg xml:id="Bhk_3.6">
-<l xml:id="Bhk_3.6-1">mātāmahā''vāsamupeyivāṃsaṃ mohāda-pṛṣṭvā bharataṃ tadānīm</l>
+<l xml:id="Bhk_3.6-1">mātāmahāvāsamupeyivāṃsaṃ mohāda-pṛṣṭvā bharataṃ tadānīm</l>
 <l xml:id="Bhk_3.6-2">tat kekayī soḍhuma-śaknuvānā vavāra rāmasya vana-prayāṇam.</l>
 </lg>
 
@@ -809,7 +810,7 @@
 </lg>
 
 <lg xml:id="Bhk_3.18">
-<l xml:id="Bhk_3.18-1">sūto 'pi gaṅgā-salilaiḥ pavitvā sahā''śvamātmānamanalpa-manyuḥ</l>
+<l xml:id="Bhk_3.18-1">sūto 'pi gaṅgā-salilaiḥ pavitvā sahāśvamātmānamanalpa-manyuḥ</l>
 <l xml:id="Bhk_3.18-2">sa-sītayo rāghavayoradhīyan śvasan kaduṣṇaṃ puramāviveśa.</l>
 </lg>
 
@@ -819,7 +820,7 @@
 </lg>
 
 <lg xml:id="Bhk_3.20">
-<l xml:id="Bhk_3.20-1">vilokya rāmeṇa vinā sumantra- macyoṣṭa satvān nṛ-patiś cyutā''śaḥ</l>
+<l xml:id="Bhk_3.20-1">vilokya rāmeṇa vinā sumantra- macyoṣṭa satvān nṛ-patiś cyutāśaḥ</l>
 <l xml:id="Bhk_3.20-2">madhūni naiṣīd vyalipan na gandhair, mano-rame na vyavasiṣṭa vastre.</l>
 </lg>
 
@@ -835,7 +836,7 @@
 
 <lg xml:id="Bhk_3.23">
 <l xml:id="Bhk_3.23-1">tāḥ sāntvayantī bharata-pratīkṣā taṃ bandhu-tā nyakṣipadāśu taile,</l>
-<l xml:id="Bhk_3.23-2">dūtāṃśca rājā''tmajamāninīṣūn prāsthāpayan mantri-matena yūnaḥ.</l>
+<l xml:id="Bhk_3.23-2">dūtāṃśca rājātmajamāninīṣūn prāsthāpayan mantri-matena yūnaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_3.24">
@@ -874,7 +875,7 @@
 </lg>
 
 <lg xml:id="Bhk_3.31">
-<l xml:id="Bhk_3.31-1">nṛpā''tmajau cikliśatuḥ sa-sītau, mamāra rājā, vi-dhavā bhavatyaḥ,</l>
+<l xml:id="Bhk_3.31-1">nṛpātmajau cikliśatuḥ sa-sītau, mamāra rājā, vi-dhavā bhavatyaḥ,</l>
 <l xml:id="Bhk_3.31-2">śocyā vayaṃ, bhūra-nṛpā, laghutvaṃ kekayyupajñaṃ bata bahvanartham.</l>
 </lg>
 
@@ -885,12 +886,12 @@
 
 <lg xml:id="Bhk_3.33">
 <l xml:id="Bhk_3.33-1">taṃ susthayantaḥ sacivā narendraṃ didhakṣayantaḥ samudūhurārāt</l>
-<l xml:id="Bhk_3.33-2">antyā''hutiṃ hāvayituṃ sa-viprāś cicīṣayanto'dhvara-pātra-jātam.</l>
+<l xml:id="Bhk_3.33-2">antyāhutiṃ hāvayituṃ sa-viprāś cicīṣayanto'dhvara-pātra-jātam.</l>
 </lg>
 
 <lg xml:id="Bhk_3.34">
 <l xml:id="Bhk_3.34-1">udakṣipan paṭṭa-dukūla-ketū- navādayan veṇu-mṛdaṅga-kāṃsyam,</l>
-<l xml:id="Bhk_3.34-2">kambūṃś ca tārānadhaman samantāt, tathā''nayan kuṅkuma-candanāni.</l>
+<l xml:id="Bhk_3.34-2">kambūṃś ca tārānadhaman samantāt, tathānayan kuṅkuma-candanāni.</l>
 </lg>
 
 <lg xml:id="Bhk_3.35">
@@ -914,7 +915,7 @@
 </lg>
 
 <lg xml:id="Bhk_3.39">
-<l xml:id="Bhk_3.39-1">saṃprāpya tīraṃ tamasā''pagāyā gaṅgā'mbu-samparka-viśuddhi-bhājaḥ</l>
+<l xml:id="Bhk_3.39-1">saṃprāpya tīraṃ tamasāpagāyā gaṅgā'mbu-samparka-viśuddhi-bhājaḥ</l>
 <l xml:id="Bhk_3.39-2">vigāhituṃ yāmunamabmu puṇyaṃ yayur niruddha-śramavṛttayas te.</l>
 </lg>
 
@@ -935,7 +936,7 @@
 
 <lg xml:id="Bhk_3.43">
 <l xml:id="Bhk_3.43-1">ājñāṃ pratīṣur, vinayādupāsthur, jaguḥ sarāgaṃ, nanṛtuḥ sa-hāvam,</l>
-<l xml:id="Bhk_3.43-2">sa-vibhramaṃ nemurudāramucus tilottamā''dyā vanitāśca tasmin.</l>
+<l xml:id="Bhk_3.43-2">sa-vibhramaṃ nemurudāramucus tilottamādyā vanitāśca tasmin.</l>
 </lg>
 
 <lg xml:id="Bhk_3.44">
@@ -1003,8 +1004,9 @@
 <l xml:id="Bhk_3.56-2">cyuta-nikhila-viśaṅkaḥ pūjyamāno janaughaiḥ sakala-bhuvana-rājyaṃ kārayā 'sman-matena"</l>
 </lg>
 
+</div>
 
-<p>Bhk_4</p>
+<div type="sarga" n="4">
 <lg xml:id="Bhk_4.1">
 <l xml:id="Bhk_4.1-1">nivṛtte bharate dhī-mānatre rāmas tapo-vanam</l>
 <l xml:id="Bhk_4.1-2">prapede, pūjitas tasmin daṇḍakāraṇyamīyivān.</l>
@@ -1017,17 +1019,17 @@
 
 <lg xml:id="Bhk_4.3">
 <l xml:id="Bhk_4.3-1">avāk-śirasamut-pādaṃ kṛtāntenā 'pi dur-damam</l>
-<l xml:id="Bhk_4.3-2">bhaṅktvā bhujau virādhā''khyaṃ taṃ tau bhuvi nicakhnatuḥ.</l>
+<l xml:id="Bhk_4.3-2">bhaṅktvā bhujau virādhākhyaṃ taṃ tau bhuvi nicakhnatuḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_4.4">
-<l xml:id="Bhk_4.4-1">āṃhiṣātāṃ raghu-vyāghrau śarabhaṅgā''śramaṃ tataḥ</l>
+<l xml:id="Bhk_4.4-1">āṃhiṣātāṃ raghu-vyāghrau śarabhaṅgāśramaṃ tataḥ</l>
 <l xml:id="Bhk_4.4-2">adhyāsitaṃ śriyā brāhmyā śaraṇyaṃ śaraṇaiṣiṇām.</l>
 </lg>
 
 <lg xml:id="Bhk_4.5">
 <l xml:id="Bhk_4.5-1">puro rāmasya juhavāñcakāra jvalane vapuḥ</l>
-<l xml:id="Bhk_4.5-2">śarabhaṅgaḥ pradiśyā''rāt sutīkṣṇa-muniḥ-ketanam</l>
+<l xml:id="Bhk_4.5-2">śarabhaṅgaḥ pradiśyārāt sutīkṣṇa-muniḥ-ketanam</l>
 </lg>
 
 <lg xml:id="Bhk_4.6">
@@ -1037,7 +1039,7 @@
 
 <lg xml:id="Bhk_4.7">
 <l xml:id="Bhk_4.7-1">tasmin kṛśānu-sād-bhūte sutīkṣṇa-muni-sannidhau</l>
-<l xml:id="Bhk_4.7-2">uvāsa parṇa-śālāyāṃ bhramannaniśamā''śramān,</l>
+<l xml:id="Bhk_4.7-2">uvāsa parṇa-śālāyāṃ bhramannaniśamāśramān,</l>
 </lg>
 
 <lg xml:id="Bhk_4.8">
@@ -1056,13 +1058,13 @@
 </lg>
 
 <lg xml:id="Bhk_4.11">
-<l xml:id="Bhk_4.11-1">hitvā''śitaṅgavīnāni phalair yeṣvāśitambhavam,</l>
+<l xml:id="Bhk_4.11-1">hitvāśitaṅgavīnāni phalair yeṣvāśitambhavam,</l>
 <l xml:id="Bhk_4.11-2">teṣvasau dandaśūkā'rir vaneśvānabhra nir-bhayaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_4.12">
 <l xml:id="Bhk_4.12-1">vrātīna-vyāla-dīprā'straḥ sutvanaḥ paripūjayan</l>
-<l xml:id="Bhk_4.12-2">parṣadvalān mahā-brahmairāṭa naikaṭikā''śramān.</l>
+<l xml:id="Bhk_4.12-2">parṣadvalān mahā-brahmairāṭa naikaṭikāśramān.</l>
 </lg>
 
 <lg xml:id="Bhk_4.13">
@@ -1092,7 +1094,7 @@
 
 <lg xml:id="Bhk_4.18">
 <l xml:id="Bhk_4.18-1">un-nasaṃ dadhatī vaktraṃ śuddha-dal-lola-kuṇḍalam</l>
-<l xml:id="Bhk_4.18-2">kurvāṇā paśyataḥ śaṃyūn sragviṇī su-hasā''nanā</l>
+<l xml:id="Bhk_4.18-2">kurvāṇā paśyataḥ śaṃyūn sragviṇī su-hasānanā</l>
 </lg>
 
 <lg xml:id="Bhk_4.19">
@@ -1102,7 +1104,7 @@
 
 <lg xml:id="Bhk_4.20">
 <l xml:id="Bhk_4.20-1">"saumitre ! māmupāyaṃsthāḥ kamrāmicchur vaśaṃ-vadām</l>
-<l xml:id="Bhk_4.20-2">tvad-bhogīnāṃ saha-carīma-śaṅkaḥ puruṣā''yuṣam."</l>
+<l xml:id="Bhk_4.20-2">tvad-bhogīnāṃ saha-carīma-śaṅkaḥ puruṣāyuṣam."</l>
 </lg>
 
 <lg xml:id="Bhk_4.21">
@@ -1116,7 +1118,7 @@
 </lg>
 
 <lg xml:id="Bhk_4.23">
-<l xml:id="Bhk_4.23-1">ugraṃ-paśyā''kulo 'raṇye śālīna-tva-vivarjitā</l>
+<l xml:id="Bhk_4.23-1">ugraṃ-paśyākulo 'raṇye śālīna-tva-vivarjitā</l>
 <l xml:id="Bhk_4.23-2">kāmuka-prārthanā-paṭvī pativatnī kathaṃ na vā.</l>
 </lg>
 
@@ -1142,7 +1144,7 @@
 
 <lg xml:id="Bhk_4.28">
 <l xml:id="Bhk_4.28-1">tato vāvṛtyamānā 'sau rāma-śālāṃ nyavikṣata,</l>
-<l xml:id="Bhk_4.28-2">"māmupāyaṃsta rāme"ti vadantī sā''daraṃ vacaḥ</l>
+<l xml:id="Bhk_4.28-2">"māmupāyaṃsta rāme"ti vadantī sādaraṃ vacaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_4.29">
@@ -1152,7 +1154,7 @@
 
 <lg xml:id="Bhk_4.30">
 <l xml:id="Bhk_4.30-1">lakṣmaṇaṃ 'sā vṛṣasyantī mahokṣaṃ gaurivā 'gamat</l>
-<l xml:id="Bhk_4.30-2">manmathā''yudha-sampāta-vyathyamāna-matiḥ punaḥ.</l>
+<l xml:id="Bhk_4.30-2">manmathāyudha-sampāta-vyathyamāna-matiḥ punaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_4.31">
@@ -1192,7 +1194,7 @@
 
 <lg xml:id="Bhk_4.38">
 <l xml:id="Bhk_4.38-1">"śvaḥśreyasamavāptāsi" bhrātṛbhyāṃ pratyabhāṇi sā</l>
-<l xml:id="Bhk_4.38-2">prāṇivas tava mānā'rthaṃ, vrajā''śvasihi, mā rudaḥ.</l>
+<l xml:id="Bhk_4.38-2">prāṇivas tava mānā'rthaṃ, vrajāśvasihi, mā rudaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_4.39">
@@ -1230,8 +1232,9 @@
 <l xml:id="Bhk_4.45-2">bhayamupanidadhe sa rākṣasānām a-khila-kula-kṣaya-pūrva-liṅga-tulyaḥ.</l>
 </lg>
 
+</div>
 
-<p>Bhk_5</p>
+<div type="sarga" n="5">
 <lg xml:id="Bhk_5.1">
 <l xml:id="Bhk_5.1-1">nirākariṣṇū vartiṣṇū vardhiṣṇū parato raṇam</l>
 <l xml:id="Bhk_5.1-2">utpatiṣṇū sahiṣṇū ca ceratuḥ khara-dūṣaṇau.</l>
@@ -1243,7 +1246,7 @@
 </lg>
 
 <lg xml:id="Bhk_5.3">
-<l xml:id="Bhk_5.3-1">atha tīkṣṇā''yasair bānairadhi-marma raghūttamau</l>
+<l xml:id="Bhk_5.3-1">atha tīkṣṇāyasair bānairadhi-marma raghūttamau</l>
 <l xml:id="Bhk_5.3-2">vyādhaṃ vyādhama-mūḍhau tau yama-sāc-cakratur dviṣau.</l>
 </lg>
 
@@ -1278,7 +1281,7 @@
 </lg>
 
 <lg xml:id="Bhk_5.10">
-<l xml:id="Bhk_5.10-1">vṛtas tvaṃ pātre-samitaiḥ khaṭvā''rūḍhaḥ pramāda-vān</l>
+<l xml:id="Bhk_5.10-1">vṛtas tvaṃ pātre-samitaiḥ khaṭvārūḍhaḥ pramāda-vān</l>
 <l xml:id="Bhk_5.10-2">pāna-śauṇḍaḥ śriyaṃ netā nā 'tyantīna-tvamunmanāḥ</l>
 </lg>
 
@@ -1323,8 +1326,8 @@
 </lg>
 
 <lg xml:id="Bhk_5.19">
-<l xml:id="Bhk_5.19-1">nā''syaṃ paśyati yas tasyā, niṃste danta-cchadaṃ na vā,</l>
-<l xml:id="Bhk_5.19-2">saṃśṛṇoti na coktāni, mithyā''sau nihitendriyaḥ.</l>
+<l xml:id="Bhk_5.19-1">nāsyaṃ paśyati yas tasyā, niṃste danta-cchadaṃ na vā,</l>
+<l xml:id="Bhk_5.19-2">saṃśṛṇoti na coktāni, mithyāsau nihitendriyaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_5.20">
@@ -1354,11 +1357,11 @@
 
 <lg xml:id="Bhk_5.25">
 <l xml:id="Bhk_5.25-1">virugṇo-dagra-ghārā'gnaḥ kuliśo mama vakṣasi</l>
-<l xml:id="Bhk_5.25-2">a-bhinnaṃ śata-dhā ''tmānaṃ manyate balinaṃ balī.</l>
+<l xml:id="Bhk_5.25-2">a-bhinnaṃ śata-dhātmānaṃ manyate balinaṃ balī.</l>
 </lg>
 
 <lg xml:id="Bhk_5.26">
-<l xml:id="Bhk_5.26-1">kṛtvā laṅkādrumā''lānamahamairāvataṃ gajam</l>
+<l xml:id="Bhk_5.26-1">kṛtvā laṅkādrumālānamahamairāvataṃ gajam</l>
 <l xml:id="Bhk_5.26-2">bandhane 'nupayogi-tvān nataṃ tṛṇa-vadatyajam.</l>
 </lg>
 
@@ -1379,12 +1382,12 @@
 
 <lg xml:id="Bhk_5.30">
 <l xml:id="Bhk_5.30-1">utpatya khaṃ daśa-grīvo mano-yāyī śitā'stra-bhṛt</l>
-<l xml:id="Bhk_5.30-2">samudra-savidhā''vāsaṃ mārīcaṃ prati cakrame.</l>
+<l xml:id="Bhk_5.30-2">samudra-savidhāvāsaṃ mārīcaṃ prati cakrame.</l>
 </lg>
 
 <lg xml:id="Bhk_5.31">
 <l xml:id="Bhk_5.31-1">sampatya tat-sanīḍe-sau taṃ vṛttāntamaṣiṣravat,</l>
-<l xml:id="Bhk_5.31-2">trasnunā'tha śrutā'rthena tenā'gādi daśā''nanaḥ.</l>
+<l xml:id="Bhk_5.31-2">trasnunā'tha śrutā'rthena tenā'gādi daśānanaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_5.32">
@@ -1398,7 +1401,7 @@
 </lg>
 
 <lg xml:id="Bhk_5.34">
-<l xml:id="Bhk_5.34-1">yamā''sya-dṛśvarī tasya tāḍakā vetti vikramam.</l>
+<l xml:id="Bhk_5.34-1">yamāsya-dṛśvarī tasya tāḍakā vetti vikramam.</l>
 <l xml:id="Bhk_5.34-2">śūraṃ-manyo raṇāc cā'haṃ nirastaḥ siṃha-nardinā.</l>
 </lg>
 
@@ -1419,7 +1422,7 @@
 
 <lg xml:id="Bhk_5.38">
 <l xml:id="Bhk_5.38-1">sukha-jātaḥ surā-pīto nṛ-jagdho mālya-dhārayaḥ</l>
-<l xml:id="Bhk_5.38-2">adhi-laṅkaṃ striyo dīvya, mā ''rabdhā bali-vigraham."</l>
+<l xml:id="Bhk_5.38-2">adhi-laṅkaṃ striyo dīvya, mārabdhā bali-vigraham."</l>
 </lg>
 
 <lg xml:id="Bhk_5.39">
@@ -1443,7 +1446,7 @@
 </lg>
 
 <lg xml:id="Bhk_5.43">
-<l xml:id="Bhk_5.43-1">vana-tāpasa-ke vīrau vipakṣe galitā''darau</l>
+<l xml:id="Bhk_5.43-1">vana-tāpasa-ke vīrau vipakṣe galitādarau</l>
 <l xml:id="Bhk_5.43-2">kiṃ citraṃ yadi sā'vajñau mamratuḥ khara-dūṣaṇau.</l>
 </lg>
 
@@ -1603,13 +1606,13 @@
 </lg>
 
 <lg xml:id="Bhk_5.75">
-<l xml:id="Bhk_5.75-1">kaḥ. paṇḍitāyamānas tvā- mādāyā''miṣa-sannibhām</l>
+<l xml:id="Bhk_5.75-1">kaḥ. paṇḍitāyamānas tvā- mādāyāmiṣa-sannibhām</l>
 <l xml:id="Bhk_5.75-2">trasyan vairāyamāṇebhyaḥ śūnyamanvavasad vanam."</l>
 </lg>
 
 <lg xml:id="Bhk_5.76">
-<l xml:id="Bhk_5.76-1">ojāyamānā tasyā 'rdhyaṃ praṇīya janakā''tmajā</l>
-<l xml:id="Bhk_5.76-2">uvāca daśamūrdhānaṃ sā''darā gadgadaṃ vacaḥ</l>
+<l xml:id="Bhk_5.76-1">ojāyamānā tasyā 'rdhyaṃ praṇīya janakātmajā</l>
+<l xml:id="Bhk_5.76-2">uvāca daśamūrdhānaṃ sādarā gadgadaṃ vacaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_5.77">
@@ -1643,8 +1646,8 @@
 </lg>
 
 <lg xml:id="Bhk_5.83">
-<l xml:id="Bhk_5.83-1">athā ''yasyan kaṣāyā'kṣaḥ syanna-sveda-kaṇolbaṇaḥ</l>
-<l xml:id="Bhk_5.83-2">saṃdarṣitā''ntarākūtas tāmavādīd daśānanaḥ,</l>
+<l xml:id="Bhk_5.83-1">athāyasyan kaṣāyā'kṣaḥ syanna-sveda-kaṇolbaṇaḥ</l>
+<l xml:id="Bhk_5.83-2">saṃdarṣitāntarākūtas tāmavādīd daśānanaḥ,</l>
 </lg>
 
 <lg xml:id="Bhk_5.84">
@@ -1669,7 +1672,7 @@
 
 <lg xml:id="Bhk_5.88">
 <l xml:id="Bhk_5.88-1">bhinna-nauka iva dhyāyan mat-to bibhyad yamaḥ svayam</l>
-<l xml:id="Bhk_5.88-2">kṛṣṇi-mānaṃ dadhānena mukhenā ''ste nirudyatiḥ</l>
+<l xml:id="Bhk_5.88-2">kṛṣṇi-mānaṃ dadhānena mukhenāste nirudyatiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_5.89">
@@ -1703,7 +1706,7 @@
 </lg>
 
 <lg xml:id="Bhk_5.95">
-<l xml:id="Bhk_5.95-1">trasyantīṃ tāṃ samādāya yato rātriṃ-carā''layam</l>
+<l xml:id="Bhk_5.95-1">trasyantīṃ tāṃ samādāya yato rātriṃ-carālayam</l>
 <l xml:id="Bhk_5.95-2">tūṣṇīṃ-bhūya bhayādāsāṃcakrire mṛgapakṣiṇaḥ</l>
 </lg>
 
@@ -1761,7 +1764,7 @@
 
 <lg xml:id="Bhk_5.105">
 <l xml:id="Bhk_5.105-1">a-sīto rāvaṇaḥ kāsāṃcakre śastrair nirākulaḥ,</l>
-<l xml:id="Bhk_5.105-2">bhūyas taṃ bhedikāṃcakre nakha-tuṇḍā''yudhaḥ kha-gaḥ.</l>
+<l xml:id="Bhk_5.105-2">bhūyas taṃ bhedikāṃcakre nakha-tuṇḍāyudhaḥ kha-gaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_5.106">
@@ -1778,9 +1781,9 @@
 <l xml:id="Bhk_5.108-1">praluṭhitamavanau vilokya kṛttaṃ daśa-vadanaḥ kha-carottamaṃ prahṛṣyan</l>
 <l xml:id="Bhk_5.108-2">ratha-varamadhiruhya bhīma-dhuryaṃ sva-puramagāt parigṛhya rāma-kāntām.</l>
 </lg>
+</div>
 
-
-<p>Bhk_6</p>
+<div type="sarga" n="6">
 <lg xml:id="Bhk_6.1">
 <l xml:id="Bhk_6.1-1">oṣāṃcakāra kāmā'gnir daśā-vaktramahar-niśam.</l>
 <l xml:id="Bhk_6.1-2">vidāṃcakāra vaidehīṃ rāmādanya-nirutsukām.</l>
@@ -1827,7 +1830,7 @@
 
 <lg xml:id="Bhk_6.9">
 <l xml:id="Bhk_6.9-1">saṃdṛśya śaraṇaṃ śūnyaṃ bhikṣamāṇo vanaṃ priyām</l>
-<l xml:id="Bhk_6.9-2">prāṇān duhannivā ''tmānaṃ śokaṃ cittamavārudhat.</l>
+<l xml:id="Bhk_6.9-2">prāṇān duhannivātmānaṃ śokaṃ cittamavārudhat.</l>
 </lg>
 
 <lg xml:id="Bhk_6.10">
@@ -1843,7 +1846,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.12">
-<l xml:id="Bhk_6.12-1">ihā ''siṣṭhā 'śayiṣṭeha sā, sa-khelamito 'gamat,</l>
+<l xml:id="Bhk_6.12-1">ihāsiṣṭhā 'śayiṣṭeha sā, sa-khelamito 'gamat,</l>
 <l xml:id="Bhk_6.12-2">aglāsīt saṃsmarannitthaṃ maithilyā bharatā'grajaḥ.</l>
 </lg>
 
@@ -1853,7 +1856,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.14">
-<l xml:id="Bhk_6.14-1">aikṣiṣmahi muhuḥ suptāṃ yāṃ mṛtā ''śaṅkayā vayam,</l>
+<l xml:id="Bhk_6.14-1">aikṣiṣmahi muhuḥ suptāṃ yāṃ mṛtāśaṅkayā vayam,</l>
 <l xml:id="Bhk_6.14-2">a-kāle durmaramaho, yaj jīvāmas tayā vinā,</l>
 </lg>
 
@@ -1885,7 +1888,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.20">
-<l xml:id="Bhk_6.20-1">lakṣmaṇā ''cakṣva, yadyākhyat sā kiñcit kopa-kāraṇam,</l>
+<l xml:id="Bhk_6.20-1">lakṣmaṇācakṣva, yadyākhyat sā kiñcit kopa-kāraṇam,</l>
 <l xml:id="Bhk_6.20-2">doṣe pratisamādhāna majñāte kriyatāṃ katham.</l>
 </lg>
 
@@ -1905,7 +1908,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.24">
-<l xml:id="Bhk_6.24-1">tathā '' rto 'pi kriyāṃ dharmyāṃ sa kāle nā 'mucat kvacit,</l>
+<l xml:id="Bhk_6.24-1">tathā rto 'pi kriyāṃ dharmyāṃ sa kāle nā 'mucat kvacit,</l>
 <l xml:id="Bhk_6.24-2">mahatāṃ hi kriyā nityā chidre naivā 'vasīdati.</l>
 </lg>
 
@@ -1956,11 +1959,11 @@
 
 <lg xml:id="Bhk_6.34">
 <l xml:id="Bhk_6.34-1">adohīva viṣādo 'sya, samaruddheva vikramaḥ,</l>
-<l xml:id="Bhk_6.34-2">samabhāvi ca kopena, nyaśvasīc cā''yataṃ muhuḥ.</l>
+<l xml:id="Bhk_6.34-2">samabhāvi ca kopena, nyaśvasīc cāyataṃ muhuḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_6.35">
-<l xml:id="Bhk_6.35-1">athā ''lambya dhanū rāmo jagarja gaja-vikramaḥ,</l>
+<l xml:id="Bhk_6.35-1">athālambya dhanū rāmo jagarja gaja-vikramaḥ,</l>
 <l xml:id="Bhk_6.35-2">"ruṇadhmi savitur mārgaṃ, bhinadmi kula-parvatān.</l>
 </lg>
 
@@ -2091,7 +2094,7 @@
 
 <lg xml:id="Bhk_6.60">
 <l xml:id="Bhk_6.60-1">vasānāṃ valkale śūddhe vipūyaiḥ kṛta-mekhalām</l>
-<l xml:id="Bhk_6.60-2">kṣāmāmañjana-piṇḍā''bhā daṇdinīmajinā ''starām</l>
+<l xml:id="Bhk_6.60-2">kṣāmāmañjana-piṇḍābhā daṇdinīmajināstarām</l>
 </lg>
 
 <lg xml:id="Bhk_6.61">
@@ -2101,7 +2104,7 @@
 
 <lg xml:id="Bhk_6.62">
 <l xml:id="Bhk_6.62-1">dharma-kṛtya-ratāṃ nityama-kṛṣya-phala-bhojanām</l>
-<l xml:id="Bhk_6.62-2">dṛṣṭvā tāmamucad rāmo yugyā''yāta iva śramam.</l>
+<l xml:id="Bhk_6.62-2">dṛṣṭvā tāmamucad rāmo yugyāyāta iva śramam.</l>
 </lg>
 
 <lg xml:id="Bhk_6.63">
@@ -2116,7 +2119,7 @@
 
 <lg xml:id="Bhk_6.65">
 <l xml:id="Bhk_6.65-1">ācāmyaṃ saṃdhyayoḥ kaccit satyak te na prahīyate,</l>
-<l xml:id="Bhk_6.65-2">kaccidagnimivā ''nāyyaṃ kāle saṃmanyase 'tithim.</l>
+<l xml:id="Bhk_6.65-2">kaccidagnimivānāyyaṃ kāle saṃmanyase 'tithim.</l>
 </lg>
 
 <lg xml:id="Bhk_6.66">
@@ -2137,13 +2140,13 @@
 </lg>
 
 <lg xml:id="Bhk_6.69">
-<l xml:id="Bhk_6.69-1">nā ''yasyasi tapasyantī, gurūn samyagatūtuṣaḥ</l>
+<l xml:id="Bhk_6.69-1">nāyasyasi tapasyantī, gurūn samyagatūtuṣaḥ</l>
 <l xml:id="Bhk_6.69-2">yamān nodavijiṣṭhās tvaṃ, nijāya tapase 'tuṣaḥ"</l>
 </lg>
 
 <lg xml:id="Bhk_6.70">
-<l xml:id="Bhk_6.70-1">athā'rdhyaṃ madhuparkā''dyamupanīyā ''darādasau</l>
-<l xml:id="Bhk_6.70-2">arcayitvā phalairarcyau sarvatrā ''khyadanāmayam.</l>
+<l xml:id="Bhk_6.70-1">athā'rdhyaṃ madhuparkādyamupanīyādarādasau</l>
+<l xml:id="Bhk_6.70-2">arcayitvā phalairarcyau sarvatrākhyadanāmayam.</l>
 </lg>
 
 
@@ -2159,7 +2162,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.73">
-<l xml:id="Bhk_6.73-1">"bhṛṅgā''lī-kokila-kruṅbhir vāśanaiḥ paśya lakṣmaṇa !</l>
+<l xml:id="Bhk_6.73-1">"bhṛṅgālī-kokila-kruṅbhir vāśanaiḥ paśya lakṣmaṇa !</l>
 <l xml:id="Bhk_6.73-2">rocanair bhūṣitāṃ pampā- masmākaṃ hṛdayāvidham</l>
 </lg>
 
@@ -2194,7 +2197,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.80">
-<l xml:id="Bhk_6.80-1">avaśyāya-kaṇā''srāvāś cāru-muktā-phala-tviṣaḥ</l>
+<l xml:id="Bhk_6.80-1">avaśyāya-kaṇāsrāvāś cāru-muktā-phala-tviṣaḥ</l>
 <l xml:id="Bhk_6.80-2">kurvanti citta-saṃsrāvaṃ calat-parṇā'gra-saṃbhṛtāḥ</l>
 </lg>
 
@@ -2209,12 +2212,12 @@
 </lg>
 
 <lg xml:id="Bhk_6.83">
-<l xml:id="Bhk_6.83-1">samāviṣṭaṃ graheṇeva grāheṇevā ''ttamarṇave</l>
+<l xml:id="Bhk_6.83-1">samāviṣṭaṃ graheṇeva grāheṇevāttamarṇave</l>
 <l xml:id="Bhk_6.83-2">dṛṣṭvā gṛhān smarasyeva vanā'ntān mama mānasam</l>
 </lg>
 
 <lg xml:id="Bhk_6.84">
-<l xml:id="Bhk_6.84-1">vātā''hati-calac-chākhā nartakā iva śākhinaḥ</l>
+<l xml:id="Bhk_6.84-1">vātāhati-calac-chākhā nartakā iva śākhinaḥ</l>
 <l xml:id="Bhk_6.84-2">duḥsahā hī parikṣiptāḥ kvaṇadbhirali-gāthakaiḥ.</l>
 </lg>
 
@@ -2244,13 +2247,13 @@
 </lg>
 
 <lg xml:id="Bhk_6.90">
-<l xml:id="Bhk_6.90-1">surā-pairiva ghūrṇadbhiḥ śākhibhiḥ pavanā''hataiḥ</l>
+<l xml:id="Bhk_6.90-1">surā-pairiva ghūrṇadbhiḥ śākhibhiḥ pavanāhataiḥ</l>
 <l xml:id="Bhk_6.90-2">ṛṣyamūkamagād bhṛṅgaiḥ pragītaṃ sāma-gairiva.</l>
 </lg>
 
 <lg xml:id="Bhk_6.91">
 <l xml:id="Bhk_6.91-1">taṃ mano-haramāgatya giriṃ varma-harau kapiḥ</l>
-<l xml:id="Bhk_6.91-2">vīrau sukhā ''haro 'vocad bhikṣur bhikṣārha-vigrahaḥ.</l>
+<l xml:id="Bhk_6.91-2">vīrau sukhāharo 'vocad bhikṣur bhikṣārha-vigrahaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_6.92">
@@ -2264,7 +2267,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.94">
-<l xml:id="Bhk_6.94-1">satvamejaya-siṃhā''ḍhyān stanaṃ-dhāya-sama-tviṣau</l>
+<l xml:id="Bhk_6.94-1">satvamejaya-siṃhāḍhyān stanaṃ-dhāya-sama-tviṣau</l>
 <l xml:id="Bhk_6.94-2">kathaṃ nāḍiṃdhamān mārgānāgatau viṣamopalān.</l>
 </lg>
 
@@ -2385,7 +2388,7 @@
 
 <lg xml:id="Bhk_6.118">
 <l xml:id="Bhk_6.118-1">guhāyā niragād vālī siṃho mṛgamiva dyuvan</l>
-<l xml:id="Bhk_6.118-2">bhrātaraṃ yuṅ bhiyaḥ saṃkhye ghoṣeṇā ''pūrayan diśaḥ</l>
+<l xml:id="Bhk_6.118-2">bhrātaraṃ yuṅ bhiyaḥ saṃkhye ghoṣeṇāpūrayan diśaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_6.119">
@@ -2395,12 +2398,12 @@
 
 <lg xml:id="Bhk_6.120">
 <l xml:id="Bhk_6.120-1">ṛṣyamūkamagāt klantaḥ kapir mṛga-sadṛg drutam</l>
-<l xml:id="Bhk_6.120-2">kiṣkindhā'drisadā''tyarthaṃ niṣpiṣṭaḥ koṣṇamucchvasan.</l>
+<l xml:id="Bhk_6.120-2">kiṣkindhā'drisadātyarthaṃ niṣpiṣṭaḥ koṣṇamucchvasan.</l>
 </lg>
 
 <lg xml:id="Bhk_6.121">
 <l xml:id="Bhk_6.121-1">kṛtvā vāli-druhaṃ rāmo mālayā sa-viśeṣaṇam.</l>
-<l xml:id="Bhk_6.121-2">aṅgada-svaṃ punar hantuṃ kapighnā''hvāyayad raṇe.</l>
+<l xml:id="Bhk_6.121-2">aṅgada-svaṃ punar hantuṃ kapighnāhvāyayad raṇe.</l>
 </lg>
 
 <lg xml:id="Bhk_6.122">
@@ -2410,7 +2413,7 @@
 
 <lg xml:id="Bhk_6.123">
 <l xml:id="Bhk_6.123-1">vālinaṃ patitaṃ dṛṣṭvā vānarā ripu-ghātinam</l>
-<l xml:id="Bhk_6.123-2">bāndhavā''krośino bhejuranāthāḥ kakubho daśa</l>
+<l xml:id="Bhk_6.123-2">bāndhavākrośino bhejuranāthāḥ kakubho daśa</l>
 </lg>
 
 <lg xml:id="Bhk_6.124">
@@ -2434,7 +2437,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.128">
-<l xml:id="Bhk_6.128-1">agni-cit soma-sud rājā ratha-cakra-cidā''diṣu</l>
+<l xml:id="Bhk_6.128-1">agni-cit soma-sud rājā ratha-cakra-cidādiṣu</l>
 <l xml:id="Bhk_6.128-2">analeṣviṣṭavān kasmān na tvayā 'pekṣitaḥ pitā.</l>
 </lg>
 
@@ -2450,7 +2453,7 @@
 
 <lg xml:id="Bhk_6.131">
 <l xml:id="Bhk_6.131-1">pañca pañcanakhā bhakṣyā ye proktāḥ kṛta-jair dvijaiḥ,</l>
-<l xml:id="Bhk_6.131-2">kauśalyā-ja ! śaśā''dīnāṃ teṣāṃ naiko 'pyahaṃ kapiḥ.</l>
+<l xml:id="Bhk_6.131-2">kauśalyā-ja ! śaśādīnāṃ teṣāṃ naiko 'pyahaṃ kapiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_6.132">
@@ -2504,7 +2507,7 @@
 </lg>
 
 <lg xml:id="Bhk_6.142">
-<l xml:id="Bhk_6.142-1">tasya nirvartya kartavyaṃ sugrīvo rāghavā''jñayā</l>
+<l xml:id="Bhk_6.142-1">tasya nirvartya kartavyaṃ sugrīvo rāghavājñayā</l>
 <l xml:id="Bhk_6.142-2">kiṣkindhā'dri-guhāṃ gantuṃ manaḥ praṇidadhe drutam</l>
 </lg>
 
@@ -2512,11 +2515,11 @@
 <l xml:id="Bhk_6.143-1">nāma-grāhaṃ kapibhiraśanaiḥ stūyamānaḥ samantā- danvag-bhāvaṃ raghu-vṛṣabhayor vānarendro virājan</l>
 <l xml:id="Bhk_6.143-2">abhyarṇe 'mbhaḥ-patana-samaye parṇalībhūta-sānuṃ kiṣkindhādriṃ nyaviśata madhu-kṣība-guñjad-dvirepham.</l>
 </lg>
+</div>
 
-
-<p>Bhk_7</p>
+<div type="sarga" n="7">
 <lg xml:id="Bhk_7.1">
-<l xml:id="Bhk_7.1-1">tataḥ kartā vanā''kampaṃ vavau varṣā-prabhañjanaḥ,</l>
+<l xml:id="Bhk_7.1-1">tataḥ kartā vanākampaṃ vavau varṣā-prabhañjanaḥ,</l>
 <l xml:id="Bhk_7.1-2">nabhaḥ pūrayitāraś ca samunnemuḥ payo-dharāḥ.</l>
 </lg>
 
@@ -2597,7 +2600,7 @@
 
 <lg xml:id="Bhk_7.17">
 <l xml:id="Bhk_7.17-1">nā 'vaityāpyāyitāraṃ kiṃ kamalāni raviṃ kapiḥ</l>
-<l xml:id="Bhk_7.17-2">dīpitāraṃ dinā''rambhe nirasta-dhvānta-saṃcayam.</l>
+<l xml:id="Bhk_7.17-2">dīpitāraṃ dinārambhe nirasta-dhvānta-saṃcayam.</l>
 </lg>
 
 <lg xml:id="Bhk_7.18">
@@ -2606,7 +2609,7 @@
 </lg>
 
 <lg xml:id="Bhk_7.19">
-<l xml:id="Bhk_7.19-1">jalpākībhiḥ sahā ''sīnaḥ strībhiḥ prajavinā tvayā</l>
+<l xml:id="Bhk_7.19-1">jalpākībhiḥ sahāsīnaḥ strībhiḥ prajavinā tvayā</l>
 <l xml:id="Bhk_7.19-2">gatvā lakṣmaṇa ! vaktavyo jayinā niṣṭhuraṃ vacaḥ</l>
 </lg>
 
@@ -2679,12 +2682,12 @@
 
 <lg xml:id="Bhk_7.33">
 <l xml:id="Bhk_7.33-1">kāryaṃ sāra-nibhaṃ dṛṣṭvā vānarāṇāṃ samāgamam</l>
-<l xml:id="Bhk_7.33-2">avain nāśaṃ daśā''syasya nirvṛttamiva rāghavaḥ.</l>
+<l xml:id="Bhk_7.33-2">avain nāśaṃ daśāsyasya nirvṛttamiva rāghavaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_7.34">
 <l xml:id="Bhk_7.34-1">tataḥ kapi-samāhārame'kaniścāyamāgatam</l>
-<l xml:id="Bhk_7.34-2">upādhyāya'ivā''yāmaṃ sugrīvo'dhyāpipad diśām</l>
+<l xml:id="Bhk_7.34-2">upādhyāya'ivāyāmaṃ sugrīvo'dhyāpipad diśām</l>
 </lg>
 
 <lg xml:id="Bhk_7.35">
@@ -2728,13 +2731,13 @@
 </lg>
 
 <lg xml:id="Bhk_7.43">
-<l xml:id="Bhk_7.43-1">sāṃrāviṇaṃ na kartavyaṃ, yāvan nā''yāti darśanam,</l>
+<l xml:id="Bhk_7.43-1">sāṃrāviṇaṃ na kartavyaṃ, yāvan nāyāti darśanam,</l>
 <l xml:id="Bhk_7.43-2">saṃdṛṣṭāyāṃ tu vaidehyāṃ nigrāho vo'rthavānareḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_7.44">
 <l xml:id="Bhk_7.44-1">pragrāhairiva pātrāṇāmanveṣyā maithilī kṛtaiḥ</l>
-<l xml:id="Bhk_7.44-2">jñātavyā ceṅgitair dhyāyantī rāghavā''gamam.</l>
+<l xml:id="Bhk_7.44-2">jñātavyā ceṅgitair dhyāyantī rāghavāgamam.</l>
 </lg>
 
 <lg xml:id="Bhk_7.45">
@@ -2748,8 +2751,8 @@
 </lg>
 
 <lg xml:id="Bhk_7.47">
-<l xml:id="Bhk_7.47-1">ucchrāya-vān ghanā''rāvo vānaraṃ jaladā'ravam</l>
-<l xml:id="Bhk_7.47-2">dūrā''plāvaṃ hanū-mantaṃ rāmaḥ proce gajā''plavaḥ</l>
+<l xml:id="Bhk_7.47-1">ucchrāya-vān ghanārāvo vānaraṃ jaladā'ravam</l>
+<l xml:id="Bhk_7.47-2">dūrāplāvaṃ hanū-mantaṃ rāmaḥ proce gajāplavaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_7.48">
@@ -2759,7 +2762,7 @@
 
 <lg xml:id="Bhk_7.49">
 <l xml:id="Bhk_7.49-1">vaṇik pragrāha-vān yadvat kāle carati siddhaye,</l>
-<l xml:id="Bhk_7.49-2">deśā'pekṣās tathā yūyaṃ yātā ''dāyā'ṅgulīyakam."</l>
+<l xml:id="Bhk_7.49-2">deśā'pekṣās tathā yūyaṃ yātādāyā'ṅgulīyakam."</l>
 </lg>
 
 <lg xml:id="Bhk_7.50">
@@ -2774,7 +2777,7 @@
 
 <lg xml:id="Bhk_7.52">
 <l xml:id="Bhk_7.52-1">prācīṃ tāvadbhira-vyagraḥ kapibhir vinato yayau</l>
-<l xml:id="Bhk_7.52-2">a-pragrāhairivā''dityo vājibhir-dūra-pātibhiḥ.</l>
+<l xml:id="Bhk_7.52-2">a-pragrāhairivādityo vājibhir-dūra-pātibhiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_7.53">
@@ -2843,7 +2846,7 @@
 </lg>
 
 <lg xml:id="Bhk_7.66">
-<l xml:id="Bhk_7.66-1">"rakṣṇaṃ karoṣi kasmāt tvaṃ, yatnenā ''khyāyatāṃ śubhe !</l>
+<l xml:id="Bhk_7.66-1">"rakṣṇaṃ karoṣi kasmāt tvaṃ, yatnenākhyāyatāṃ śubhe !</l>
 <l xml:id="Bhk_7.66-2">svapne nidhi-vadābhāti tava saṃdarśanaṃ hi naḥ.</l>
 </lg>
 
@@ -2899,7 +2902,7 @@
 
 <lg xml:id="Bhk_7.77">
 <l xml:id="Bhk_7.77-1">a-bhāve bhavatāṃ yo 'smin jīvet, tasyā'stva-jīvaniḥ,"</l>
-<l xml:id="Bhk_7.77-2">ityuktvā sarva evā 'sthur baddhvā yogā''sanāni te.</l>
+<l xml:id="Bhk_7.77-2">ityuktvā sarva evā 'sthur baddhvā yogāsanāni te.</l>
 </lg>
 
 <lg xml:id="Bhk_7.78">
@@ -2913,13 +2916,13 @@
 </lg>
 
 <lg xml:id="Bhk_7.80">
-<l xml:id="Bhk_7.80-1">deha-vraścana-tuṇḍā'graṃ taṃ vilokyā 'śubhā''karam</l>
+<l xml:id="Bhk_7.80-1">deha-vraścana-tuṇḍā'graṃ taṃ vilokyā 'śubhākaram</l>
 <l xml:id="Bhk_7.80-2">pāpa-gocaramātmānamaśocan vānarā muhuḥ</l>
 </lg>
 
 <lg xml:id="Bhk_7.81">
 <l xml:id="Bhk_7.81-1">"jaṭāyuḥ puṇya-kṛt pakṣī daṇḍakāraṇya-sañcaraḥ</l>
-<l xml:id="Bhk_7.81-2">kṛtvā rāghava-kāryaṃ yaḥ svarā''rūḍho 'gni-saṃskṛtaḥ</l>
+<l xml:id="Bhk_7.81-2">kṛtvā rāghava-kāryaṃ yaḥ svarārūḍho 'gni-saṃskṛtaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_7.82">
@@ -2928,8 +2931,8 @@
 </lg>
 
 <lg xml:id="Bhk_7.83">
-<l xml:id="Bhk_7.83-1">hṛdayodaṅka-saṃsthānaṃ kṛtāntā''nāya-sannibham</l>
-<l xml:id="Bhk_7.83-2">śarīrā''khana-tuṇḍā'graṃ prāpyā-'muṃ śarma durlabham.</l>
+<l xml:id="Bhk_7.83-1">hṛdayodaṅka-saṃsthānaṃ kṛtāntānāya-sannibham</l>
+<l xml:id="Bhk_7.83-2">śarīrākhana-tuṇḍā'graṃ prāpyā-'muṃ śarma durlabham.</l>
 </lg>
 
 <lg xml:id="Bhk_7.84">
@@ -2945,7 +2948,7 @@
 <p>atha prakīrṇakāḥ</p>
 <lg xml:id="Bhk_7.86">
 <l xml:id="Bhk_7.86-1">ātmanaḥ paridevadhve kurvanto rāma-saṃkathām,</l>
-<l xml:id="Bhk_7.86-2">samānodaryamasmākaṃ jaṭāyuṃ ca sthuthā ''darāt.</l>
+<l xml:id="Bhk_7.86-2">samānodaryamasmākaṃ jaṭāyuṃ ca sthuthādarāt.</l>
 </lg>
 
 <lg xml:id="Bhk_7.87">
@@ -2999,7 +3002,7 @@
 </lg>
 
 <lg xml:id="Bhk_7.97">
-<l xml:id="Bhk_7.97-1">muṣitvā dhana-daṃ pāpo yāṃ gṛhītvā ''vasad dviṣan,</l>
+<l xml:id="Bhk_7.97-1">muṣitvā dhana-daṃ pāpo yāṃ gṛhītvāvasad dviṣan,</l>
 <l xml:id="Bhk_7.97-2">tāṃ ruditveva śakreṇa yāta laṅkāmupekṣitām.</l>
 </lg>
 
@@ -3025,7 +3028,7 @@
 
 <lg xml:id="Bhk_7.102">
 <l xml:id="Bhk_7.102-1">tataḥ prāsthiṣatā 'drīndraṃ mahendraṃ vānarā drutam</l>
-<l xml:id="Bhk_7.102-2">sarve kilakilāyanto, dhairyaṃ cā''dhiṣatā 'dhikam.</l>
+<l xml:id="Bhk_7.102-2">sarve kilakilāyanto, dhairyaṃ cādhiṣatā 'dhikam.</l>
 </lg>
 
 <lg xml:id="Bhk_7.103">
@@ -3050,16 +3053,16 @@
 
 <lg xml:id="Bhk_7.107">
 <l xml:id="Bhk_7.107-1">dyutitvā śaśinā naktaṃ raśmibhiḥ parivardhitam</l>
-<l xml:id="Bhk_7.107-2">meror jetumivā ''bhogamuccair didyotiṣuṃ muhuḥ.</l>
+<l xml:id="Bhk_7.107-2">meror jetumivābhogamuccair didyotiṣuṃ muhuḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_7.108">
 <l xml:id="Bhk_7.108-1">vilokya saliloccayānadhi-samudramabhraṃlihān bhraman-makara bhīṣaṇaṃ samadhigamya cā 'dhaḥ payaḥ</l>
-<l xml:id="Bhk_7.108-2">gamā''gama-sahaṃ drutaṃ kapi-vṛṣāḥ paripraiṣayan gajendra-guru-vikramaṃ taru-mṛgottamaṃ mārutim.</l>
+<l xml:id="Bhk_7.108-2">gamāgama-sahaṃ drutaṃ kapi-vṛṣāḥ paripraiṣayan gajendra-guru-vikramaṃ taru-mṛgottamaṃ mārutim.</l>
 </lg>
+</div>
 
-
-<p>Bhk_8</p>
+<div type="sarga" n="8">
 <lg xml:id="Bhk_8.1">
 <l xml:id="Bhk_8.1-1">āgādhata tato vyoma hanūmānuru-vigrahaḥ,</l>
 <l xml:id="Bhk_8.1-2">atyaśerata tad-vegaṃ na suparṇā'rka-mārutāḥ</l>
@@ -3067,7 +3070,7 @@
 
 <lg xml:id="Bhk_8.2">
 <l xml:id="Bhk_8.2-1">abhāyata yathā'rkeṇa suprātena śaran-mukhe,</l>
-<l xml:id="Bhk_8.2-2">gamyamānaṃ na tenā''sīdagataṃ krāmatā puraḥ.</l>
+<l xml:id="Bhk_8.2-2">gamyamānaṃ na tenāsīdagataṃ krāmatā puraḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_8.3">
@@ -3081,8 +3084,8 @@
 </lg>
 
 <lg xml:id="Bhk_8.5">
-<l xml:id="Bhk_8.5-1">vyatighnantīṃ vyatighnantāṃ rākṣasīṃ pavanā''tmajaḥ</l>
-<l xml:id="Bhk_8.5-2">jaghānā''viśya vadanaṃ niryāt bhittvodaraṃ drutam</l>
+<l xml:id="Bhk_8.5-1">vyatighnantīṃ vyatighnantāṃ rākṣasīṃ pavanātmajaḥ</l>
+<l xml:id="Bhk_8.5-2">jaghānāviśya vadanaṃ niryāt bhittvodaraṃ drutam</l>
 </lg>
 
 <lg xml:id="Bhk_8.6">
@@ -3091,8 +3094,8 @@
 </lg>
 
 <lg xml:id="Bhk_8.7">
-<l xml:id="Bhk_8.7-1">nyavikṣata mahā-grāha-saṃkulaṃ makarā''layam</l>
-<l xml:id="Bhk_8.7-2">saikā bahūnāṃ kurvāṇā nakrāṇāṃ svā''śitambhavam</l>
+<l xml:id="Bhk_8.7-1">nyavikṣata mahā-grāha-saṃkulaṃ makarālayam</l>
+<l xml:id="Bhk_8.7-2">saikā bahūnāṃ kurvāṇā nakrāṇāṃ svāśitambhavam</l>
 </lg>
 
 <lg xml:id="Bhk_8.8">
@@ -3182,7 +3185,7 @@
 
 <lg xml:id="Bhk_8.25">
 <l xml:id="Bhk_8.25-1">draṣṭuṃ prakramamāṇo 'sau sītāmambhonidhes taṭam,</l>
-<l xml:id="Bhk_8.25-2">upākraṃstā ''kulaṃ ghoraiḥ kramamāṇair niśācaraiḥ</l>
+<l xml:id="Bhk_8.25-2">upākraṃstākulaṃ ghoraiḥ kramamāṇair niśācaraiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_8.26">
@@ -3216,13 +3219,13 @@
 </lg>
 
 <lg xml:id="Bhk_8.32">
-<l xml:id="Bhk_8.32-1">yānaiḥ samacarantā 'nye kuñjarā'śva-rathā''dibhiḥ,</l>
+<l xml:id="Bhk_8.32-1">yānaiḥ samacarantā 'nye kuñjarā'śva-rathādibhiḥ,</l>
 <l xml:id="Bhk_8.32-2">saṃprāyacchanta bandībhiranye puṣpa-phalaṃ śubham.</l>
 </lg>
 
 <lg xml:id="Bhk_8.33">
-<l xml:id="Bhk_8.33-1">kopāt kāścit priyaiḥ prattamupāyaṃsata nā''savam,</l>
-<l xml:id="Bhk_8.33-2">prema jijñāsamānābhyas tābhyo''śapsata kāminaḥ</l>
+<l xml:id="Bhk_8.33-1">kopāt kāścit priyaiḥ prattamupāyaṃsata nāsavam,</l>
+<l xml:id="Bhk_8.33-2">prema jijñāsamānābhyas tābhyośapsata kāminaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_8.34">
@@ -3242,7 +3245,7 @@
 
 <lg xml:id="Bhk_8.37">
 <l xml:id="Bhk_8.37-1">śata-sāhasramārakṣaṃ madhyagaṃ rakṣasāṃ kapiḥ</l>
-<l xml:id="Bhk_8.37-2">dadarśa, yaṃ kṛtānto'pi mriyetā''sādya bhīṣaṇam,</l>
+<l xml:id="Bhk_8.37-2">dadarśa, yaṃ kṛtānto'pi mriyetāsādya bhīṣaṇam,</l>
 </lg>
 
 <lg xml:id="Bhk_8.38">
@@ -3262,7 +3265,7 @@
 
 <lg xml:id="Bhk_8.41">
 <l xml:id="Bhk_8.41-1">madhvapāyayata svacchaṃ sotpalaṃ dayitā'ntike</l>
-<l xml:id="Bhk_8.41-2">ātmānaṃ suratā''bhoga-viśrambhotpādanaṃ muhuḥ</l>
+<l xml:id="Bhk_8.41-2">ātmānaṃ suratābhoga-viśrambhotpādanaṃ muhuḥ</l>
 </lg>
 
 <lg xml:id="Bhk_8.42">
@@ -3322,12 +3325,12 @@
 
 <lg xml:id="Bhk_8.53">
 <l xml:id="Bhk_8.53-1">vyaramat pradhanād yasmāt paritrastaḥ sahasra-dṛk,</l>
-<l xml:id="Bhk_8.53-2">kṣaṇaṃ paryaramat tasya darśanān mārutā''tmajaḥ.</l>
+<l xml:id="Bhk_8.53-2">kṣaṇaṃ paryaramat tasya darśanān mārutātmajaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_8.54">
 <l xml:id="Bhk_8.54-1">upāraṃsīc ca saṃpaśyan vānaras taṃ cikīrṣitāt</l>
-<l xml:id="Bhk_8.54-2">ramyaṃ merumivā''dhūta-kānanaṃ śvasanormibhiḥ</l>
+<l xml:id="Bhk_8.54-2">ramyaṃ merumivādhūta-kānanaṃ śvasanormibhiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_8.55">
@@ -3352,7 +3355,7 @@
 
 <lg xml:id="Bhk_8.59">
 <l xml:id="Bhk_8.59-1">cintayannitthamuttuṅgaiḥ prāvayantīṃ divaṃ vanaiḥ</l>
-<l xml:id="Bhk_8.59-2">aśoka-vanikāmārādapaśyat stabakā''citām.</l>
+<l xml:id="Bhk_8.59-2">aśoka-vanikāmārādapaśyat stabakācitām.</l>
 </lg>
 
 <lg xml:id="Bhk_8.60">
@@ -3362,12 +3365,12 @@
 
 <lg xml:id="Bhk_8.61">
 <l xml:id="Bhk_8.61-1">avād vāyuḥ śanair yasyāṃ latāṃ nartayamāna-vat</l>
-<l xml:id="Bhk_8.61-2">nā''yāsayanta saṃtrastā ṛtavo'nyonya-saṃpadaḥ.</l>
+<l xml:id="Bhk_8.61-2">nāyāsayanta saṃtrastā ṛtavo'nyonya-saṃpadaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_8.62">
 <l xml:id="Bhk_8.62-1">jyotsnā 'mṛtaṃ śaśī vasyāṃ vāpīr vikasitotpalāḥ</l>
-<l xml:id="Bhk_8.62-2">apāyayata saṃpūrṇaḥ sadā daśa-mukhā''jñayā.</l>
+<l xml:id="Bhk_8.62-2">apāyayata saṃpūrṇaḥ sadā daśa-mukhājñayā.</l>
 </lg>
 
 <lg xml:id="Bhk_8.63">
@@ -3377,16 +3380,16 @@
 
 <lg xml:id="Bhk_8.64">
 <l xml:id="Bhk_8.64-1">yasyāṃ vāsayate sītāṃ kevalaṃ sma ripuḥ smarāt</l>
-<l xml:id="Bhk_8.64-2">na tvarocayatā ''tmānaṃ caturo vṛddhi-mānapi</l>
+<l xml:id="Bhk_8.64-2">na tvarocayatātmānaṃ caturo vṛddhi-mānapi</l>
 </lg>
 
 <lg xml:id="Bhk_8.65">
 <l xml:id="Bhk_8.65-1">mandāyamāna-gamano haritāyat-taruṃ kapiḥ,</l>
-<l xml:id="Bhk_8.65-2">drumaiḥ śakaśakāyadbhir mārutenā ''ṭa sarvataḥ.</l>
+<l xml:id="Bhk_8.65-2">drumaiḥ śakaśakāyadbhir mārutenāṭa sarvataḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_8.66">
-<l xml:id="Bhk_8.66-1">asyandannindu-maṇayato, vyarucan kumudā''karāḥ,</l>
+<l xml:id="Bhk_8.66-1">asyandannindu-maṇayato, vyarucan kumudākarāḥ,</l>
 <l xml:id="Bhk_8.66-2">aloṭhiṣata vātena prakīrṇaḥ stabakoccayāḥ.</l>
 </lg>
 
@@ -3409,11 +3412,11 @@
 
 <lg xml:id="Bhk_8.70">
 <l xml:id="Bhk_8.70-1">vṛkṣād vṛkṣaṃ parikrāman rāvaṇād bibhyatīṃ bhṛśam</l>
-<l xml:id="Bhk_8.70-2">śatros trāṇama-paśyantīma-dṛśyo janakā''tmajām</l>
+<l xml:id="Bhk_8.70-2">śatros trāṇama-paśyantīma-dṛśyo janakātmajām</l>
 </lg>
 
 <lg xml:id="Bhk_8.71">
-<l xml:id="Bhk_8.71-1">tāṃ parājayamānāṃ sa prīte rakṣyāṃ daśā''nanāt</l>
+<l xml:id="Bhk_8.71-1">tāṃ parājayamānāṃ sa prīte rakṣyāṃ daśānanāt</l>
 <l xml:id="Bhk_8.71-2">antardadhānāṃ rakṣobhyo malināṃ mlāna-mūrdhajām</l>
 </lg>
 
@@ -3424,7 +3427,7 @@
 
 <lg xml:id="Bhk_8.73">
 <l xml:id="Bhk_8.73-1">rocamānaḥ ku-dṛṣṭibhyo rakṣobhyaḥ prattavān śriyam</l>
-<l xml:id="Bhk_8.73-2">ślāghamānaḥ para-strībhyas tatra''gād rākṣasā'dhipaḥ.</l>
+<l xml:id="Bhk_8.73-2">ślāghamānaḥ para-strībhyas tatragād rākṣasā'dhipaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_8.74">
@@ -3565,13 +3568,13 @@
 </lg>
 
 <lg xml:id="Bhk_8.101">
-<l xml:id="Bhk_8.101-1">tās tayā tarjitāḥ sarvā mukhair bhīmā yathā''gatam</l>
+<l xml:id="Bhk_8.101-1">tās tayā tarjitāḥ sarvā mukhair bhīmā yathāgatam</l>
 <l xml:id="Bhk_8.101-2">yayuḥ suṣupsavas talpaṃ bhīmair vacana-karmabhiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_8.102">
-<l xml:id="Bhk_8.102-1">gatāsu tāsu maithilyā saṃjānāno 'nilā''tmajaḥ</l>
-<l xml:id="Bhk_8.102-2">āyātena daśā''syasya saṃsthito 'ntarhitaś ciram</l>
+<l xml:id="Bhk_8.102-1">gatāsu tāsu maithilyā saṃjānāno 'nilātmajaḥ</l>
+<l xml:id="Bhk_8.102-2">āyātena daśāsyasya saṃsthito 'ntarhitaś ciram</l>
 </lg>
 
 <lg xml:id="Bhk_8.103">
@@ -3661,7 +3664,7 @@
 
 <lg xml:id="Bhk_8.120">
 <l xml:id="Bhk_8.120-1">rāvaṇasyeha rokṣyanti kapayo bhīma-vikramāḥ,</l>
-<l xml:id="Bhk_8.120-2">dhṛtyā nāthasva vaidehi !, manyorujjāsayā''tmanaḥ.</l>
+<l xml:id="Bhk_8.120-2">dhṛtyā nāthasva vaidehi !, manyorujjāsayātmanaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_8.121">
@@ -3695,7 +3698,7 @@
 </lg>
 
 <lg xml:id="Bhk_8.127">
-<l xml:id="Bhk_8.127-1">"kṛtvā karma yathā''diṣṭaṃ pūrva-kāryā'virodhi yaḥ</l>
+<l xml:id="Bhk_8.127-1">"kṛtvā karma yathādiṣṭaṃ pūrva-kāryā'virodhi yaḥ</l>
 <l xml:id="Bhk_8.127-2">karotyabhyadhikaṃ kṛtyaṃ, tamāhur dūtamuttamam.</l>
 </lg>
 
@@ -3716,13 +3719,13 @@
 
 <lg xml:id="Bhk_8.131">
 <l xml:id="Bhk_8.131-1">vilulita-puṣpa-reṇu-kapiśaṃ praśānta-kalikā-palāśa-kusumaṃ kusuma-nipāta-vicitra-vasudhaṃ sa-śabda-nipatad drumotka-śakunam</l>
-<l xml:id="Bhk_8.131-2">śakuna-nināda-nādi-kakub vilola-vipalāyamāna-hariṇaṃ hariṇa-vilocanā'dhivasatiṃ babhañja pavanā''tmajo ripu-vanam.</l>
+<l xml:id="Bhk_8.131-2">śakuna-nināda-nādi-kakub vilola-vipalāyamāna-hariṇaṃ hariṇa-vilocanā'dhivasatiṃ babhañja pavanātmajo ripu-vanam.</l>
 </lg>
+</div>
 
-
-<p>Bhk_9</p>
+<div type="sarga" n="9">
 <lg xml:id="Bhk_9.1">
-<l xml:id="Bhk_9.1-1">dru-bhaṅga-dhvani-saṃvignāḥ kuvad-pakṣi-kulā ''kulāḥ</l>
+<l xml:id="Bhk_9.1-1">dru-bhaṅga-dhvani-saṃvignāḥ kuvad-pakṣi-kulākulāḥ</l>
 <l xml:id="Bhk_9.1-2">akārṣuḥ kṣaṇadā-caryo rāvaṇasya nivedanam.</l>
 </lg>
 
@@ -3785,7 +3788,7 @@
 
 <lg xml:id="Bhk_9.13">
 <l xml:id="Bhk_9.13-1">tāṃś cetavyān kṣitau śritvā vānaras toraṇaṃ yutān</l>
-<l xml:id="Bhk_9.13-2">jaghānā''dhūya parighaṃ vijighṛkṣūn samāgatān.</l>
+<l xml:id="Bhk_9.13-2">jaghānādhūya parighaṃ vijighṛkṣūn samāgatān.</l>
 </lg>
 
 <lg xml:id="Bhk_9.14">
@@ -3794,7 +3797,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.15">
-<l xml:id="Bhk_9.15-1">"ekena bahavaḥ śūrāḥ sā''viṣkārāḥ pramatta-vat</l>
+<l xml:id="Bhk_9.15-1">"ekena bahavaḥ śūrāḥ sāviṣkārāḥ pramatta-vat</l>
 <l xml:id="Bhk_9.15-2">vaimukhyaṃ cakṛme" tyuccairūcur daśa-mukhā'ntike.</l>
 </lg>
 
@@ -3809,7 +3812,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.18">
-<l xml:id="Bhk_9.18-1">tān dṛṣṭvā 'tidṛḍhān dhṛṣṭān prāptān parivṛḍhā''jñayā</l>
+<l xml:id="Bhk_9.18-1">tān dṛṣṭvā 'tidṛḍhān dhṛṣṭān prāptān parivṛḍhājñayā</l>
 <l xml:id="Bhk_9.18-2">kaṣṭaṃ vinardataḥ krūrān śastra-ghuṣṭa-karān kapiḥ</l>
 </lg>
 
@@ -3819,7 +3822,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.20">
-<l xml:id="Bhk_9.20-1">damitā'riḥ praśāntaujā nādā''pūrita-diṅmukhaḥ</l>
+<l xml:id="Bhk_9.20-1">damitā'riḥ praśāntaujā nādāpūrita-diṅmukhaḥ</l>
 <l xml:id="Bhk_9.20-2">jaghāna ruṣito ruṣṭāṃs tvaritas tūrṇamāgatān.</l>
 </lg>
 
@@ -3839,7 +3842,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.24">
-<l xml:id="Bhk_9.24-1">āvarītumivā ''kāśaṃ varituṃ vīnivotthitam</l>
+<l xml:id="Bhk_9.24-1">āvarītumivākāśaṃ varituṃ vīnivotthitam</l>
 <l xml:id="Bhk_9.24-2">vanaṃ prabhañjana-suto nā 'dayiṣṭa vināśayan.</l>
 </lg>
 
@@ -3869,7 +3872,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.30">
-<l xml:id="Bhk_9.30-1">niṣkoṣitavyān niṣkoṣṭuṃ prāṇān daśamukhā''tmajāt</l>
+<l xml:id="Bhk_9.30-1">niṣkoṣitavyān niṣkoṣṭuṃ prāṇān daśamukhātmajāt</l>
 <l xml:id="Bhk_9.30-2">ādāya parighaṃ tasthau vanān niṣkuṣita-drumaḥ</l>
 </lg>
 
@@ -3910,7 +3913,7 @@
 
 <lg xml:id="Bhk_9.38">
 <l xml:id="Bhk_9.38-1">māyābhiḥ su-ciraṃ kliṣṭvā rākṣaso 'kliśita-kriyam</l>
-<l xml:id="Bhk_9.38-2">saṃprāpya vānaraṃ bhūmau papāta parighā''hataḥ.</l>
+<l xml:id="Bhk_9.38-2">saṃprāpya vānaraṃ bhūmau papāta parighāhataḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_9.39">
@@ -3964,7 +3967,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.49">
-<l xml:id="Bhk_9.49-1">sa tvaṃ haniṣyan dur-buddhiṃ kapiṃ vraja mamā ''jñayā,</l>
+<l xml:id="Bhk_9.49-1">sa tvaṃ haniṣyan dur-buddhiṃ kapiṃ vraja mamājñayā,</l>
 <l xml:id="Bhk_9.49-2">mā nā 'ñjī rākṣasīr māyāḥ, prastāvīr mā na vikramam.</l>
 </lg>
 
@@ -3975,7 +3978,7 @@
 
 <lg xml:id="Bhk_9.51">
 <l xml:id="Bhk_9.51-1">anaṃsīc caraṇau tasya mandirādindrajid vrajan,</l>
-<l xml:id="Bhk_9.51-2">avāpya cā''śiṣas tasmādāyāsīt prītimuttamām</l>
+<l xml:id="Bhk_9.51-2">avāpya cāśiṣas tasmādāyāsīt prītimuttamām</l>
 </lg>
 
 <lg xml:id="Bhk_9.52">
@@ -3994,12 +3997,12 @@
 </lg>
 
 <lg xml:id="Bhk_9.55">
-<l xml:id="Bhk_9.55-1">roditi smeva cā ''yāti tasmin pakṣi-gaṇaḥ śucā</l>
-<l xml:id="Bhk_9.55-2">mukta-kaṇṭhaṃ hatān vṛkṣān bandhūn bandhorivā ''game</l>
+<l xml:id="Bhk_9.55-1">roditi smeva cāyāti tasmin pakṣi-gaṇaḥ śucā</l>
+<l xml:id="Bhk_9.55-2">mukta-kaṇṭhaṃ hatān vṛkṣān bandhūn bandhorivāgame</l>
 </lg>
 
 <lg xml:id="Bhk_9.56">
-<l xml:id="Bhk_9.56-1">āśvasīdiva cā ''yāti tad vega-pavanā''hatam</l>
+<l xml:id="Bhk_9.56-1">āśvasīdiva cāyāti tad vega-pavanāhatam</l>
 <l xml:id="Bhk_9.56-2">vicitra-stabakodbhāsi vanaṃ lulita-pallavam</l>
 </lg>
 
@@ -4016,7 +4019,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.59">
-<l xml:id="Bhk_9.59-1">vānaraḥ kula-śailā''bhaḥ prasahyā ''yudha-śīkaram</l>
+<l xml:id="Bhk_9.59-1">vānaraḥ kula-śailābhaḥ prasahyāyudha-śīkaram</l>
 <l xml:id="Bhk_9.59-2">rakṣas-pāśān yaśas-kāmyaṃs tamas-kalpānadudruvat.</l>
 </lg>
 
@@ -4078,7 +4081,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.71">
-<l xml:id="Bhk_9.71-1">abhiṣyantaḥ kapiṃ krodhādabhyaṣiñcannivā ''tmanaḥ</l>
+<l xml:id="Bhk_9.71-1">abhiṣyantaḥ kapiṃ krodhādabhyaṣiñcannivātmanaḥ</l>
 <l xml:id="Bhk_9.71-2">saṃprahāra-samudbhūtai raktaiḥ koṣṇairaruś-cyutaiḥ.</l>
 </lg>
 
@@ -4113,18 +4116,18 @@
 </lg>
 
 <lg xml:id="Bhk_9.78">
-<l xml:id="Bhk_9.78-1">"gatamaṅguli-ṣaṅgaṃ tvāṃ bhīru-ṣṭhānādihā ''gatam</l>
+<l xml:id="Bhk_9.78-1">"gatamaṅguli-ṣaṅgaṃ tvāṃ bhīru-ṣṭhānādihāgatam</l>
 <l xml:id="Bhk_9.78-2">khādiṣyāma" iti procur nayanto mārutiṃ dviṣaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_9.79">
-<l xml:id="Bhk_9.79-1">"agniṣṭomādi-saṃstheṣu jyotiṣṭomā''diṣu dvijān</l>
+<l xml:id="Bhk_9.79-1">"agniṣṭomādi-saṃstheṣu jyotiṣṭomādiṣu dvijān</l>
 <l xml:id="Bhk_9.79-2">yo 'rakṣīt, tasya dūto 'yaṃ mānuṣasyeti cā'vadan.</l>
 </lg>
 
 <lg xml:id="Bhk_9.80">
 <l xml:id="Bhk_9.80-1">"nāsāṃ mātṛ-ṣvaseyyāś ca rāvaṇasya lulāva yaḥ,</l>
-<l xml:id="Bhk_9.80-2">mātuḥ svasuś ca tanayān kharā''dīn vijaghāna yaḥ</l>
+<l xml:id="Bhk_9.80-2">mātuḥ svasuś ca tanayān kharādīn vijaghāna yaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_9.81">
@@ -4149,11 +4152,11 @@
 
 <lg xml:id="Bhk_9.85">
 <l xml:id="Bhk_9.85-1">su-ṣāmnīṃ sarva-tejassu tanvīṃ jyotiṣṭamāṃ śubhām</l>
-<l xml:id="Bhk_9.85-2">niṣṭapantīmivā ''tmānaṃ jyotiḥsāt-kurvatīṃ vanam</l>
+<l xml:id="Bhk_9.85-2">niṣṭapantīmivātmānaṃ jyotiḥsāt-kurvatīṃ vanam</l>
 </lg>
 
 <lg xml:id="Bhk_9.86">
-<l xml:id="Bhk_9.86-1">madhusād-bhūta-kiñjalka-piñjara-bhramarā''kulām</l>
+<l xml:id="Bhk_9.86-1">madhusād-bhūta-kiñjalka-piñjara-bhramarākulām</l>
 <l xml:id="Bhk_9.86-2">ullasat-kusumāṃ puṇyāṃ hema-ratna-latāmiva</l>
 </lg>
 
@@ -4168,13 +4171,13 @@
 </lg>
 
 <lg xml:id="Bhk_9.89">
-<l xml:id="Bhk_9.89-1">a-pratistabdha-vikrāntama-nistabdho mahā''have,</l>
+<l xml:id="Bhk_9.89-1">a-pratistabdha-vikrāntama-nistabdho mahāhave,</l>
 <l xml:id="Bhk_9.89-2">visoḍhavantamastrāṇi vyatastambhad ghana-dhvaniḥ"</l>
 </lg>
 
 <lg xml:id="Bhk_9.90">
 <l xml:id="Bhk_9.90-1">te vijñāyā 'bhisoṣyanataṃ raktai rakṣāṃsi sa-vyathāḥ</l>
-<l xml:id="Bhk_9.90-2">anyairapyāyataṃ nehur varatrā-śṛṅkhalā''dibhiḥ</l>
+<l xml:id="Bhk_9.90-2">anyairapyāyataṃ nehur varatrā-śṛṅkhalādibhiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_9.91">
@@ -4190,12 +4193,12 @@
 </lg>
 
 <lg xml:id="Bhk_9.93">
-<l xml:id="Bhk_9.93-1">bahudhā bhinna-marmāṇo bhīmāḥ kharaṇasā''dayaḥ</l>
+<l xml:id="Bhk_9.93-1">bahudhā bhinna-marmāṇo bhīmāḥ kharaṇasādayaḥ</l>
 <l xml:id="Bhk_9.93-2">agre-vaṇaṃ vartamāne pratīcyāṃ candra-maṇḍale</l>
 </lg>
 
 <lg xml:id="Bhk_9.94">
-<l xml:id="Bhk_9.94-1">"nirvaṇaṃ kṛtamudyānamanenā ''mravaṇā''dibhiḥ</l>
+<l xml:id="Bhk_9.94-1">"nirvaṇaṃ kṛtamudyānamanenāmravaṇādibhiḥ</l>
 <l xml:id="Bhk_9.94-2">devadāru-vanāmiśrai" rityūcur vānara-dviṣaḥ.</l>
 </lg>
 
@@ -4206,7 +4209,7 @@
 
 <lg xml:id="Bhk_9.96">
 <l xml:id="Bhk_9.96-1">surā-pāṇa-parikṣībaṃ ripu-darpa-harodayam</l>
-<l xml:id="Bhk_9.96-2">para-strī-vāhinaṃ prāyuḥ sā''viṣkāraṃ surā-piṇaḥ.</l>
+<l xml:id="Bhk_9.96-2">para-strī-vāhinaṃ prāyuḥ sāviṣkāraṃ surā-piṇaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_9.97">
@@ -4235,7 +4238,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.102">
-<l xml:id="Bhk_9.102-1">prāghāniṣata rakṣāṃsi yenā ''ptāni vane mama,</l>
+<l xml:id="Bhk_9.102-1">prāghāniṣata rakṣāṃsi yenāptāni vane mama,</l>
 <l xml:id="Bhk_9.102-2">na prahaṇmaḥ kathaṃ pāpaṃ vada pūrvā'pakāriṇam.</l>
 </lg>
 
@@ -4250,7 +4253,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.105">
-<l xml:id="Bhk_9.105-1">kaḥ kṛtvā rāvaṇā''marṣa-prakopaṇamavadya-dhīḥ</l>
+<l xml:id="Bhk_9.105-1">kaḥ kṛtvā rāvaṇāmarṣa-prakopaṇamavadya-dhīḥ</l>
 <l xml:id="Bhk_9.105-2">śakto jagati śākro 'pi kartumāyuḥ-pragopaṇam.</l>
 </lg>
 
@@ -4266,12 +4269,12 @@
 
 <lg xml:id="Bhk_9.108">
 <l xml:id="Bhk_9.108-1">duṣpānaḥ punaretena kapinā bhṛṅga-saṃbhṛtaḥ</l>
-<l xml:id="Bhk_9.108-2">pranaṣṭa-vinayenā 'gryaḥ svāduḥ puṣpā''savo vane"</l>
+<l xml:id="Bhk_9.108-2">pranaṣṭa-vinayenā 'gryaḥ svāduḥ puṣpāsavo vane"</l>
 </lg>
 
 <lg xml:id="Bhk_9.109">
 <l xml:id="Bhk_9.109-1">roṣa-bhīma-mukhenaivaṃ kṣubhnatokte, plavaṅgamaḥ</l>
-<l xml:id="Bhk_9.109-2">proce sā''nunayaṃ vākyaṃ rāvaṇaṃ svā'rtha-siddhaye</l>
+<l xml:id="Bhk_9.109-2">proce sānunayaṃ vākyaṃ rāvaṇaṃ svā'rtha-siddhaye</l>
 </lg>
 
 <p>iti ṇatvā'dhikāraḥ</p>
@@ -4303,7 +4306,7 @@
 
 <lg xml:id="Bhk_9.115">
 <l xml:id="Bhk_9.115-1">dharmaṃ pratyarpayan sītāmarthaṃ rāmeṇa mitratām</l>
-<l xml:id="Bhk_9.115-2">kāmaṃ viśvāsa-vāsena sītāṃ dattvā ''pnuhi trayam.</l>
+<l xml:id="Bhk_9.115-2">kāmaṃ viśvāsa-vāsena sītāṃ dattvāpnuhi trayam.</l>
 </lg>
 
 <lg xml:id="Bhk_9.116">
@@ -4312,12 +4315,12 @@
 </lg>
 
 <lg xml:id="Bhk_9.117">
-<l xml:id="Bhk_9.117-1">kharā''di-nidhanaṃ cā 'pi mā maṃsthā vaira-kāraṇam,</l>
+<l xml:id="Bhk_9.117-1">kharādi-nidhanaṃ cā 'pi mā maṃsthā vaira-kāraṇam,</l>
 <l xml:id="Bhk_9.117-2">ātmānaṃ rakṣituṃ yasmāt kṛtaṃ tan na jigīṣayā".</l>
 </lg>
 
 <lg xml:id="Bhk_9.118">
-<l xml:id="Bhk_9.118-1">tataḥ krodhā'nilā''pāta- kamprā''syā'mbhoja-saṃhatiḥ</l>
+<l xml:id="Bhk_9.118-1">tataḥ krodhā'nilāpāta- kamprāsyā'mbhoja-saṃhatiḥ</l>
 <l xml:id="Bhk_9.118-2">mahā-hrada iva kṣubhyan kapimāha sma rāvaṇaḥ.</l>
 </lg>
 
@@ -4333,12 +4336,12 @@
 
 <lg xml:id="Bhk_9.121">
 <l xml:id="Bhk_9.121-1">abhimāna-phalaṃ jānan mahattvaṃ kathamuktavān</l>
-<l xml:id="Bhk_9.121-2">ratnā''di-lābha-śūnya-tvān niṣphalaṃ rāma-vigraham</l>
+<l xml:id="Bhk_9.121-2">ratnādi-lābha-śūnya-tvān niṣphalaṃ rāma-vigraham</l>
 </lg>
 
 <lg xml:id="Bhk_9.122">
 <l xml:id="Bhk_9.122-1">para-strī-bhoga-haraṇaṃ dharma eva narā'śinām,</l>
-<l xml:id="Bhk_9.122-2">mukhamastītyabhāṣiṣṭhāḥ, kā ? mesā''śaṅkatā tvayi.</l>
+<l xml:id="Bhk_9.122-2">mukhamastītyabhāṣiṣṭhāḥ, kā ? mesāśaṅkatā tvayi.</l>
 </lg>
 
 <lg xml:id="Bhk_9.123">
@@ -4363,7 +4366,7 @@
 
 <lg xml:id="Bhk_9.127">
 <l xml:id="Bhk_9.127-1">puṃsā bhakṣyeṇa bandhūnāmātmānaṃ rakṣituṃ vadhaḥ</l>
-<l xml:id="Bhk_9.127-2">kṣamiṣyate daśā''syena, kva-tyeyaṃ tava dur-matiḥ."</l>
+<l xml:id="Bhk_9.127-2">kṣamiṣyate daśāsyena, kva-tyeyaṃ tava dur-matiḥ."</l>
 </lg>
 
 <lg xml:id="Bhk_9.128">
@@ -4387,7 +4390,7 @@
 </lg>
 
 <lg xml:id="Bhk_9.132">
-<l xml:id="Bhk_9.132-1">anvayā''di-vibhinnānāṃ yathā sakhyamanīpsitam</l>
+<l xml:id="Bhk_9.132-1">anvayādi-vibhinnānāṃ yathā sakhyamanīpsitam</l>
 <l xml:id="Bhk_9.132-2">naiṣīr, virodhamapyevaṃ sārdhaṃ puruṣa-vānaraiḥ.</l>
 </lg>
 
@@ -4402,13 +4405,13 @@
 </lg>
 
 <lg xml:id="Bhk_9.135">
-<l xml:id="Bhk_9.135-1">anyā''saktasya yad vīryaṃ na tvaṃ smarasi vālinaḥ</l>
+<l xml:id="Bhk_9.135-1">anyāsaktasya yad vīryaṃ na tvaṃ smarasi vālinaḥ</l>
 <l xml:id="Bhk_9.135-2">mūrcchā-vān namataḥ saṃdhyāṃ dhruvaṃ tad bāhu-pīḍitaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_9.136">
 <l xml:id="Bhk_9.136-1">a-sad-bandhu-vidhopajñaṃ vimuñca bali-vigraham,</l>
-<l xml:id="Bhk_9.136-2">sītāmarpaya nantavye kośa-daṇḍā''tma-bhūmibhiḥ."</l>
+<l xml:id="Bhk_9.136-2">sītāmarpaya nantavye kośa-daṇḍātma-bhūmibhiḥ."</l>
 </lg>
 
 <lg xml:id="Bhk_9.137">
@@ -4416,10 +4419,11 @@
 <l xml:id="Bhk_9.137-2">parijanamabhito vilokya dāhaṃ daśa-vadanaḥ pradideśa vānarasya.</l>
 </lg>
 
+</div>
 
-<p>Bhk_10</p>
+<div type="sarga" n="10">
 <lg xml:id="Bhk_10.1">
-<l xml:id="Bhk_10.1-1">atha sa valka-dukūla-kuthā''dibhiḥ parigato jvaladuddhata-vāladhiḥ</l>
+<l xml:id="Bhk_10.1-1">atha sa valka-dukūla-kuthādibhiḥ parigato jvaladuddhata-vāladhiḥ</l>
 <l xml:id="Bhk_10.1-2">udapatad divamākula-locanair nṛ-ripubhiḥ sa-bhyairabhivīkṣitaḥ.</l>
 </lg>
 
@@ -4435,7 +4439,7 @@
 <l xml:id="Bhk_10.3-2">vanitā-janena viyatā viyatā tri-purā'padaṃ nagamitā gamitā.</l>
 </lg>
 
-<p>padā''di-yamakam</p>
+<p>padādi-yamakam</p>
 <lg xml:id="Bhk_10.4">
 <l xml:id="Bhk_10.4-1">sarasāṃ sa-rasāṃ parimucya tanuṃ patatāṃ patatāṃ kakubho bahuśaḥ</l>
 <l xml:id="Bhk_10.4-2">sa-kalaiḥ sakalaiḥ paritaḥ karuṇai- ruditai ruditairiva khaṃ nicitam.</l>
@@ -4456,7 +4460,7 @@
 <p>samudra-yamakam</p>
 <lg xml:id="Bhk_10.7">
 <l xml:id="Bhk_10.7-1">samiddha-śaraṇā dīptā dehe laṅkā mateśvarā</l>
-<l xml:id="Bhk_10.7-2">samid-dha-śaraṇā''dīp-tā dehe'laṃ-kāma-teśvarā</l>
+<l xml:id="Bhk_10.7-2">samid-dha-śaraṇādīp-tā dehe'laṃ-kāma-teśvarā</l>
 </lg>
 
 <p>kāñcī-yamakam</p>
@@ -4467,7 +4471,7 @@
 
 <lg xml:id="Bhk_10.9">
 <l xml:id="Bhk_10.9-1">na gajā naga-jā dayitā dayitā, vi-gataṃ vigataṃ, lalitaṃ lalitam,</l>
-<l xml:id="Bhk_10.9-2">pramadā pra-madā ''ma-hatā, mahatā- ma-raṇaṃ maraṇaṃ samayāt samayāt.</l>
+<l xml:id="Bhk_10.9-2">pramadā pra-madāma-hatā, mahatā- ma-raṇaṃ maraṇaṃ samayāt samayāt.</l>
 </lg>
 
 <lg xml:id="Bhk_10.10">
@@ -4486,8 +4490,8 @@
 </lg>
 
 <lg xml:id="Bhk_10.13">
-<l xml:id="Bhk_10.13-1">nārīṇāmapanunudur na deha-khedān nā ''rīṇā'mala-salilā hiraṇya-vāpyaḥ,</l>
-<l xml:id="Bhk_10.13-2">nā ''rīṇāmanala-parīta-patra-puṣpān nā 'rīṇāmabhavadupetya śarma vṛkṣān.</l>
+<l xml:id="Bhk_10.13-1">nārīṇāmapanunudur na deha-khedān nārīṇā'mala-salilā hiraṇya-vāpyaḥ,</l>
+<l xml:id="Bhk_10.13-2">nārīṇāmanala-parīta-patra-puṣpān nā 'rīṇāmabhavadupetya śarma vṛkṣān.</l>
 </lg>
 
 <lg xml:id="Bhk_10.14">
@@ -4497,7 +4501,7 @@
 
 <lg xml:id="Bhk_10.15">
 <l xml:id="Bhk_10.15-1">ghana-girīndra-vilaṅghana-śālinā vana-gatā vana-ja-dyuti-locanā</l>
-<l xml:id="Bhk_10.15-2">jana-matā dadṛśe janakā''tmajā taru-mṛgeṇa taru-sthala-śāyinī</l>
+<l xml:id="Bhk_10.15-2">jana-matā dadṛśe janakātmajā taru-mṛgeṇa taru-sthala-śāyinī</l>
 </lg>
 
 <p>vi-patha-yamakam</p>
@@ -4509,7 +4513,7 @@
 <p>madhyā-'nta-yamakam</p>
 <lg xml:id="Bhk_10.17">
 <l xml:id="Bhk_10.17-1">mitamavadadudāraṃ tāṃ hanūmān mudā 'raṃ raghu-vṛṣabha-sakāśaṃ yāmi devi ! prakāśam</l>
-<l xml:id="Bhk_10.17-2">tava vidita-viṣādo dṛṣṭa-kṛtsnā''miṣādaḥ śriyamaniśamavantaṃ parvataṃ mālyavantam.</l>
+<l xml:id="Bhk_10.17-2">tava vidita-viṣādo dṛṣṭa-kṛtsnāmiṣādaḥ śriyamaniśamavantaṃ parvataṃ mālyavantam.</l>
 </lg>
 
 <p>garbha-yamakam</p>
@@ -4527,19 +4531,19 @@
 <p>mahā-yamakam</p>
 <lg xml:id="Bhk_10.20">
 <l xml:id="Bhk_10.20-1">abhiyātā varaṃ tuṅgaṃ bhū-bhṛtaṃ ruciraṃ puraḥ karkaśaṃ prathitaṃ dhāma sa-satvaṃ puṣkarekṣaṇam.</l>
-<l xml:id="Bhk_10.20-2">abhiyā 'tā''varaṃ tuṅgaṃ bhū-bhṛtaṃ ruciraṃ puraḥ karkaśaṃ prasthitaṃ dhāma sa-satvaṃ puṣkare kṣaṇam.</l>
+<l xml:id="Bhk_10.20-2">abhiyā 'tāvaraṃ tuṅgaṃ bhū-bhṛtaṃ ruciraṃ puraḥ karkaśaṃ prasthitaṃ dhāma sa-satvaṃ puṣkare kṣaṇam.</l>
 </lg>
 
 <p>ādyanta-yamakam</p>
 <lg xml:id="Bhk_10.21">
-<l xml:id="Bhk_10.21-1">citraṃ citramivā ''yāto vicitraṃ tasya bhū-bhṛtam</l>
+<l xml:id="Bhk_10.21-1">citraṃ citramivāyāto vicitraṃ tasya bhū-bhṛtam</l>
 <l xml:id="Bhk_10.21-2">harayo vegamāsādya saṃtrastā mumuhur muhuḥ.</l>
 </lg>
 
 <p>ādi-dīpakam</p>
 <lg xml:id="Bhk_10.22">
 <l xml:id="Bhk_10.22-1">gacchan sa vārīṇyakirat pāyodheḥ, kūla-sthitāṃs tāni-tarūnadhunvan,</l>
-<l xml:id="Bhk_10.22-2">puṣpā''starāṃs te 'ṅga-sūkhānatanvan, tān kinnarā manmathino 'dhyatiṣṭhan.</l>
+<l xml:id="Bhk_10.22-2">puṣpāstarāṃs te 'ṅga-sūkhānatanvan, tān kinnarā manmathino 'dhyatiṣṭhan.</l>
 </lg>
 
 <p>anta-dīpakam</p>
@@ -4563,19 +4567,19 @@
 <p>asyaiva bhedā apare catvāraḥ etad viśiṣṭopamā-yuktaṃ rūpakam</p>
 <lg xml:id="Bhk_10.26">
 <l xml:id="Bhk_10.26-1">cala-piṅga-keśara-hiraṇya-latāḥ sthuṭa-netra-paṅkti-maṇi-saṃhatayaḥ</l>
-<l xml:id="Bhk_10.26-2">kaladhaita-sānava ivā 'tha gireḥ kapayo bahūḥ pavana-jā''gamane.</l>
+<l xml:id="Bhk_10.26-2">kaladhaita-sānava ivā 'tha gireḥ kapayo bahūḥ pavana-jāgamane.</l>
 </lg>
 
 <p>etaccheṣā'rthā'nvavasitamavataṃsakam</p>
 <lg xml:id="Bhk_10.27">
 <l xml:id="Bhk_10.27-1">kapi-toya-nidhīn plavaṅgamendur madayitvā madhureṇa darśanena</l>
-<l xml:id="Bhk_10.27-2">vacanā'mṛta-dīdhitīr vitanva- nnakṛtā ''nanda-parīta-netra-vārīn.</l>
+<l xml:id="Bhk_10.27-2">vacanā'mṛta-dīdhitīr vitanva- nnakṛtānanda-parīta-netra-vārīn.</l>
 </lg>
 
 <p>ardha-rūpakam</p>
 <lg xml:id="Bhk_10.28">
 <l xml:id="Bhk_10.28-1">parikhedita-vindhya-vīrudhaḥ paripītā'mala-nirjharā'mbhasaḥ</l>
-<l xml:id="Bhk_10.28-2">dudhuvur madhu-kānanaṃ tataḥ kapi-nāgā muditā'ṅgadā''jñayā.</l>
+<l xml:id="Bhk_10.28-2">dudhuvur madhu-kānanaṃ tataḥ kapi-nāgā muditā'ṅgadājñayā.</l>
 </lg>
 
 <p>etadanvarthopamā-yuktaṃ lalāmakam</p>
@@ -4599,12 +4603,12 @@
 <p>sahopamā</p>
 <lg xml:id="Bhk_10.32">
 <l xml:id="Bhk_10.32-1">rucironnata-ratna-gauravaḥ paripūrṇā-'mṛta-raśmi-maṇḍalaḥ</l>
-<l xml:id="Bhk_10.32-2">samadṛśyata jīvitā''śayā saha rāmeṇa vadhū-śiro-maṇiḥ.</l>
+<l xml:id="Bhk_10.32-2">samadṛśyata jīvitāśayā saha rāmeṇa vadhū-śiro-maṇiḥ.</l>
 </lg>
 
 <p>taddhitopamā</p>
 <lg xml:id="Bhk_10.33">
-<l xml:id="Bhk_10.33-1">avasanna-ruciṃ vanā''gataṃ tamanā''mṛṣṭarajo-vidhūsaram</l>
+<l xml:id="Bhk_10.33-1">avasanna-ruciṃ vanāgataṃ tamanāmṛṣṭarajo-vidhūsaram</l>
 <l xml:id="Bhk_10.33-2">samapaśyadapeta-maithiliṃ dadhataṃ gaurava-mātramātma-vat.</l>
 </lg>
 
@@ -4622,7 +4626,7 @@
 
 <p>arthā'ntara-nyāsaḥ</p>
 <lg xml:id="Bhk_10.36">
-<l xml:id="Bhk_10.36-1">"ahṛta dhaneśvarasya yudhi yaḥ sameta-māyo dhanaṃ, tamahamito vilokya vibudhaiḥ kṛtottamā''yodhanam</l>
+<l xml:id="Bhk_10.36-1">"ahṛta dhaneśvarasya yudhi yaḥ sameta-māyo dhanaṃ, tamahamito vilokya vibudhaiḥ kṛtottamāyodhanam</l>
 <l xml:id="Bhk_10.36-2">vibhava-madena nihnuta-hriyā 'timātra-saṃpannakaṃ, vyathayati sat-pathādadhigatā 'thaveha saṃpan na kam.</l>
 </lg>
 
@@ -4658,8 +4662,8 @@
 
 <p>atiśayoktiḥ</p>
 <lg xml:id="Bhk_10.42">
-<l xml:id="Bhk_10.42-1">atha lakṣmaṇa-tulya-rūpa-veśaṃ gamanā''deśa-vinirgatā'gra-hastam</l>
-<l xml:id="Bhk_10.42-2">kapayo 'nuyayuḥ sametya rāmaṃ nata-sugrīva-gṛhīta-sā''darājñam.</l>
+<l xml:id="Bhk_10.42-1">atha lakṣmaṇa-tulya-rūpa-veśaṃ gamanādeśa-vinirgatā'gra-hastam</l>
+<l xml:id="Bhk_10.42-2">kapayo 'nuyayuḥ sametya rāmaṃ nata-sugrīva-gṛhīta-sādarājñam.</l>
 </lg>
 
 <p>yathā-saṃkhyam</p>
@@ -4677,12 +4681,12 @@
 <p>vārtā</p>
 <lg xml:id="Bhk_10.45">
 <l xml:id="Bhk_10.45-1">viṣa-dhara-nilaye niviṣṭa-mūlaṃ śikhara-śataiḥ parimṛṣṭa-deva-lokam</l>
-<l xml:id="Bhk_10.45-2">ghana-vipula-nitamba-pūritāśaṃ phala-kusumā''cita-vṛkṣa-ramya-kuñjam</l>
+<l xml:id="Bhk_10.45-2">ghana-vipula-nitamba-pūritāśaṃ phala-kusumācita-vṛkṣa-ramya-kuñjam</l>
 </lg>
 
 <p>preyaḥ</p>
 <lg xml:id="Bhk_10.46">
-<l xml:id="Bhk_10.46-1">madhu-kara-virutaiḥ priyādhvanīnāṃ sarasi-ruhair dayitā''sya-hāsya-lakṣmyāḥ</l>
+<l xml:id="Bhk_10.46-1">madhu-kara-virutaiḥ priyādhvanīnāṃ sarasi-ruhair dayitāsya-hāsya-lakṣmyāḥ</l>
 <l xml:id="Bhk_10.46-2">sphuṭamanuharamāṇamādadhānaṃ puruṣa-pateḥ sahasā paraṃpramodam</l>
 </lg>
 
@@ -4743,7 +4747,7 @@
 
 <p>hetu-śliṣṭam</p>
 <lg xml:id="Bhk_10.56">
-<l xml:id="Bhk_10.56-1">vidruma-maṇi-kṛta-bhūṣā muktā-phala-nikara-rañjitā''tmānaḥ</l>
+<l xml:id="Bhk_10.56-1">vidruma-maṇi-kṛta-bhūṣā muktā-phala-nikara-rañjitātmānaḥ</l>
 <l xml:id="Bhk_10.56-2">babhurudaka-nāga-bhagnā velā-taṭa-śikhariṇo yatra,</l>
 </lg>
 
@@ -4767,7 +4771,7 @@
 
 <p>upamā-rūpakam</p>
 <lg xml:id="Bhk_10.60">
-<l xml:id="Bhk_10.60-1">giri-parigata-cañcalā''pagā'ntaṃ jala-nivahaṃ dadhataṃ mano'bhirāmam</l>
+<l xml:id="Bhk_10.60-1">giri-parigata-cañcalāpagā'ntaṃ jala-nivahaṃ dadhataṃ mano'bhirāmam</l>
 <l xml:id="Bhk_10.60-2">galitamiva bhuvo vilokya rāmaṃ dharaṇi-dhara-stana-śukla-cīna-paṭṭam.</l>
 </lg>
 
@@ -4819,7 +4823,7 @@
 <l xml:id="Bhk_10.68-2">viyati ca vilalāsa tad-vadindur, vilasati candramaso na yad-vadanyaḥ.</l>
 </lg>
 
-<p>utprekṣā''vayavaḥ</p>
+<p>utprekṣāvayavaḥ</p>
 <lg xml:id="Bhk_10.69">
 <l xml:id="Bhk_10.69-1">śaraṇamiva gataṃ tamo nikuñje viṭapi-nirākṛta-candra-raśmyarātau</l>
 <l xml:id="Bhk_10.69-2">pṛthu-viṣama-śilā'ntarāla-saṃsthaṃ sa-jala-ghana-dyuti bhīta-vat sasāda.</l>
@@ -4846,16 +4850,16 @@
 <p>nipuṇam</p>
 <lg xml:id="Bhk_10.73">
 <l xml:id="Bhk_10.73-1">boddhavyaṃ kimiva hi, yat tvayā na buddhaṃ, kiṃ vā te nimiṣitamapya-buddhi-pūrvam,</l>
-<l xml:id="Bhk_10.73-2">labdhā''tmā tava sukṛtairaniṣṭa-śaṅkī snehaugho ghaṭayati māṃ tathāpi vaktum."</l>
+<l xml:id="Bhk_10.73-2">labdhātmā tava sukṛtairaniṣṭa-śaṅkī snehaugho ghaṭayati māṃ tathāpi vaktum."</l>
 </lg>
 
 <lg xml:id="Bhk_10.74">
 <l xml:id="Bhk_10.74-1">saumitreriti vacanaṃ niśamya rāmo jṛmbhā-vān bhuja-yugalaṃ vibhajya nidrān</l>
 <l xml:id="Bhk_10.74-2">adhyaṣṭhāc chiśayiṣayā pravāla-talpaṃ rakṣāyai prati-diśamādiśan plavaṅgān.</l>
 </lg>
+</div>
 
-
-<p>Bhk_11</p>
+<div type="sarga" n="11">
 <lg xml:id="Bhk_11.1">
 <l xml:id="Bhk_11.1-1">athā 'stamāseduṣi manda-kāntau puṇya-kṣayeṇeva nidhau kalānām</l>
 <l xml:id="Bhk_11.1-2">samālalambe ripu-mitra-kalpaiḥ padmaiḥ prahāsaḥ kumudair viṣādaḥ</l>
@@ -4883,7 +4887,7 @@
 
 <lg xml:id="Bhk_11.6">
 <l xml:id="Bhk_11.6-1">tataḥ samāśaṅkita-viprayogaḥ punar-navībhūta-raso 'vitṛṣṇaḥ</l>
-<l xml:id="Bhk_11.6-2">smarasya santaṃ punarukta-bhāvaṃ nā ''vartamānasya viveda lokaḥ.</l>
+<l xml:id="Bhk_11.6-2">smarasya santaṃ punarukta-bhāvaṃ nāvartamānasya viveda lokaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_11.7">
@@ -4893,7 +4897,7 @@
 
 <lg xml:id="Bhk_11.8">
 <l xml:id="Bhk_11.8-1">pīne bhaṭasyorasi vīkṣya bhugnāṃs tanu-tvacaḥ pāṇi-ruhān su-madhyā</l>
-<l xml:id="Bhk_11.8-2">icchā-vibhaṅgā''kula-mānasatvād bhartre nakhebhyaś ca ciraṃ jujūre.</l>
+<l xml:id="Bhk_11.8-2">icchā-vibhaṅgākula-mānasatvād bhartre nakhebhyaś ca ciraṃ jujūre.</l>
 </lg>
 
 <lg xml:id="Bhk_11.9">
@@ -4917,12 +4921,12 @@
 </lg>
 
 <lg xml:id="Bhk_11.13">
-<l xml:id="Bhk_11.13-1">āliṅgitāyāḥ sahasā trapā-vāṃs trāsā'bhilāṣā'nugato ratā''dau</l>
+<l xml:id="Bhk_11.13-1">āliṅgitāyāḥ sahasā trapā-vāṃs trāsā'bhilāṣā'nugato ratādau</l>
 <l xml:id="Bhk_11.13-2">viśvāsitāyā ramaṇena vadhvā vimarda-ramyo-madano babhūva.</l>
 </lg>
 
 <lg xml:id="Bhk_11.14">
-<l xml:id="Bhk_11.14-1">sāmonmukhenā ''cchuritā priyeṇa datte 'tha kācit pulakena bhede</l>
+<l xml:id="Bhk_11.14-1">sāmonmukhenācchuritā priyeṇa datte 'tha kācit pulakena bhede</l>
 <l xml:id="Bhk_11.14-2">antaḥ-prakopā'pagamād vilolā vaśīkṛtā kevala-vikrameṇa.</l>
 </lg>
 
@@ -4937,12 +4941,12 @@
 </lg>
 
 <lg xml:id="Bhk_11.17">
-<l xml:id="Bhk_11.17-1">a-vīta-tṛṣṇo 'tha paraspareṇa kṣaṇādivā''yāta-niśā'vasānaḥ</l>
+<l xml:id="Bhk_11.17-1">a-vīta-tṛṣṇo 'tha paraspareṇa kṣaṇādivāyāta-niśā'vasānaḥ</l>
 <l xml:id="Bhk_11.17-2">duḥkhena lokaḥ paravānivā 'gāt samutsukaḥ svapna-niketanebhyaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_11.18">
-<l xml:id="Bhk_11.18-1">ardhotthitā''liṅgita-sannimagno ruddhaḥ punar yān gamane 'nabhīpsuḥ</l>
+<l xml:id="Bhk_11.18-1">ardhotthitāliṅgita-sannimagno ruddhaḥ punar yān gamane 'nabhīpsuḥ</l>
 <l xml:id="Bhk_11.18-2">vyājena niryāya punar nivṛttas tyaktā'nya-kāryaḥ sthita eva kaścit.</l>
 </lg>
 
@@ -4962,8 +4966,8 @@
 </lg>
 
 <lg xml:id="Bhk_11.22">
-<l xml:id="Bhk_11.22-1">prajāgarā''tāmra-vilocanā'ntā nirañjanā'laktaka-patra-lekhāḥ</l>
-<l xml:id="Bhk_11.22-2">tulyā ivā ''san parikheda-tanvyo vāsa-cyutāḥ sevita-manmathābhiḥ</l>
+<l xml:id="Bhk_11.22-1">prajāgarātāmra-vilocanā'ntā nirañjanā'laktaka-patra-lekhāḥ</l>
+<l xml:id="Bhk_11.22-2">tulyā ivāsan parikheda-tanvyo vāsa-cyutāḥ sevita-manmathābhiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_11.23">
@@ -4992,13 +4996,13 @@
 </lg>
 
 <lg xml:id="Bhk_11.28">
-<l xml:id="Bhk_11.28-1">smarā''ture cetasi labdha-janmā rarāja lolo'pi guṇā'pahāryaḥ</l>
+<l xml:id="Bhk_11.28-1">smarāture cetasi labdha-janmā rarāja lolo'pi guṇā'pahāryaḥ</l>
 <l xml:id="Bhk_11.28-2">kutūhalān netra-gavākṣa-saṃsthaḥ paśyannivā 'nyonya-mukhāni rāgaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_11.29">
 <l xml:id="Bhk_11.29-1">gate 'tibhūmiṃ praṇaye prayuktā- na-buddhi-pūrvaṃ pariluptasaṃjñaḥ</l>
-<l xml:id="Bhk_11.29-2">ātmā'nubhūtānapi nopacārān smarā''turaḥ saṃsmarati sma lokaḥ</l>
+<l xml:id="Bhk_11.29-2">ātmā'nubhūtānapi nopacārān smarāturaḥ saṃsmarati sma lokaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_11.30">
@@ -5033,7 +5037,7 @@
 
 <lg xml:id="Bhk_11.36">
 <l xml:id="Bhk_11.36-1">akṣṇoḥ patan nīla-saro-ja-lobhād bhṛṅgaḥ kareṇā 'lpa-dhiyā nirastaḥ</l>
-<l xml:id="Bhk_11.36-2">dadaṃśa tāmrā'mbu-ruhā'bhisandhis trṇā''turaḥ pāṇi-tale 'pi dhṛṣṇuḥ.</l>
+<l xml:id="Bhk_11.36-2">dadaṃśa tāmrā'mbu-ruhā'bhisandhis trṇāturaḥ pāṇi-tale 'pi dhṛṣṇuḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_11.37">
@@ -5073,7 +5077,7 @@
 
 <lg xml:id="Bhk_11.44">
 <l xml:id="Bhk_11.44-1">nirākariṣṇur dvija-kuñjarāṇāṃ tṛṇīkṛtā'śeṣa-guṇo'ti-mohāt</l>
-<l xml:id="Bhk_11.44-2">pāpā'śayānabhyudayā'rthamārcīt prāg brahma-rakṣaḥ-pravarān daśā''syaḥ</l>
+<l xml:id="Bhk_11.44-2">pāpā'śayānabhyudayā'rthamārcīt prāg brahma-rakṣaḥ-pravarān daśāsyaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_11.45">
@@ -5090,9 +5094,9 @@
 <l xml:id="Bhk_11.47-1">jalada iva taḍitvān prājya-ratna-prabhābhiḥ prati-kakubhamudasyan nisvanaṃ dhīra-mandram</l>
 <l xml:id="Bhk_11.47-2">śikharamiva sumerorāsanaṃ haimamuccair vividha-maṇi-vicitraṃ pronnataṃ so 'dhyatiṣthat</l>
 </lg>
+</div>
 
-
-<p>Bhk_12</p>
+<div type="sarga" n="12">
 <lg xml:id="Bhk_12.1">
 <l xml:id="Bhk_12.1-1">tato vi-nidraṃ kṛta-devatā'rcaṃ dṛṣṭyaiva citta-praśamaṃ kirantam</l>
 <l xml:id="Bhk_12.1-2">āviṣkṛtā'ṅga-pratikarma-ramyaṃ vibhīṣaṇaṃ vācamuvāca mātā</l>
@@ -5110,7 +5114,7 @@
 
 <lg xml:id="Bhk_12.4">
 <l xml:id="Bhk_12.4-1">yāvan na saṃtrāsita-deva-saṃghaḥ piṇḍo viṣasyeva hareṇa bhīṣmaḥ</l>
-<l xml:id="Bhk_12.4-2">saṃgrasyate 'sau puruṣā'dhipena, drutaṃ kulā''nanda ! yatasva tāvat.</l>
+<l xml:id="Bhk_12.4-2">saṃgrasyate 'sau puruṣā'dhipena, drutaṃ kulānanda ! yatasva tāvat.</l>
 </lg>
 
 <lg xml:id="Bhk_12.5">
@@ -5125,7 +5129,7 @@
 
 <lg xml:id="Bhk_12.7">
 <l xml:id="Bhk_12.7-1">dauvārikā'bhyāhata-śakra-dūtaṃ sopāyanopasthita-loka-pālam</l>
-<l xml:id="Bhk_12.7-2">sā''śaṅka-bhīṣmā''pta-viśan-niśāṭaṃ dvāraṃ yayau rāvaṇa-mandrirasya.</l>
+<l xml:id="Bhk_12.7-2">sāśaṅka-bhīṣmāpta-viśan-niśāṭaṃ dvāraṃ yayau rāvaṇa-mandrirasya.</l>
 </lg>
 
 <lg xml:id="Bhk_12.8">
@@ -5140,7 +5144,7 @@
 
 <lg xml:id="Bhk_12.10">
 <l xml:id="Bhk_12.10-1">prītyā 'pi dattekṣaṇa-sannipātaṃ bhayaṃ bhūjaṅgā'dhipa-vad dadhānam</l>
-<l xml:id="Bhk_12.10-2">tamaḥ-samūhā''kṛtimapyaśeṣā- nūrjā jayantaṃ prathita-prakāśān.</l>
+<l xml:id="Bhk_12.10-2">tamaḥ-samūhākṛtimapyaśeṣā- nūrjā jayantaṃ prathita-prakāśān.</l>
 </lg>
 
 <lg xml:id="Bhk_12.11">
@@ -5154,7 +5158,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.13">
-<l xml:id="Bhk_12.13-1">tato daśā''syaḥ kṣubhitā'hi-kalpaṃ dīprā'ṅgulīyopalamūḍha-ratnam</l>
+<l xml:id="Bhk_12.13-1">tato daśāsyaḥ kṣubhitā'hi-kalpaṃ dīprā'ṅgulīyopalamūḍha-ratnam</l>
 <l xml:id="Bhk_12.13-2">aneka-cañcan-nakha-kānti-jihvaṃ prasārya pāṇiṃ samitiṃ babhāṣe</l>
 </lg>
 
@@ -5164,22 +5168,22 @@
 </lg>
 
 <lg xml:id="Bhk_12.15">
-<l xml:id="Bhk_12.15-1">upekṣite vāli-kharā''di-nāśe, dagdhe pure, 'kṣe nihate sa-bhṛtye,</l>
+<l xml:id="Bhk_12.15-1">upekṣite vāli-kharādi-nāśe, dagdhe pure, 'kṣe nihate sa-bhṛtye,</l>
 <l xml:id="Bhk_12.15-2">sainye dviṣāṃ sāgaramuttitīrṣā- va-nantaraṃ brūta, yadatra yuktam."</l>
 </lg>
 
 <lg xml:id="Bhk_12.16">
 <l xml:id="Bhk_12.16-1">bhujāṃ'sa-vakṣaḥ-sthala-kārmukā'sīn gadāś ca śūlāni ca yātudhānāḥ</l>
-<l xml:id="Bhk_12.16-2">parāmṛśantaḥ prathitā'bhimānāḥ procuḥ prahasta-pramukhā daśā''syam.</l>
+<l xml:id="Bhk_12.16-2">parāmṛśantaḥ prathitā'bhimānāḥ procuḥ prahasta-pramukhā daśāsyam.</l>
 </lg>
 
 <lg xml:id="Bhk_12.17">
 <l xml:id="Bhk_12.17-1">"a-khaṇḍya-mānaṃ parikhaṇḍya śakraṃ tvaṃ paṇḍitaṃ-manyamudīrṇa-daṇḍaḥ</l>
-<l xml:id="Bhk_12.17-2">narā''bhiyogaṃ nṛ-bhujāṃ pradhāna ! mantronmukhaḥ kiṃ nayase gurutvam.</l>
+<l xml:id="Bhk_12.17-2">narābhiyogaṃ nṛ-bhujāṃ pradhāna ! mantronmukhaḥ kiṃ nayase gurutvam.</l>
 </lg>
 
 <lg xml:id="Bhk_12.18">
-<l xml:id="Bhk_12.18-1">niryat-sphuliṅgā''kula-dhūma-rāśiṃ kiṃ brūhi bhūmau pinaṣāma bhānum,</l>
+<l xml:id="Bhk_12.18-1">niryat-sphuliṅgākula-dhūma-rāśiṃ kiṃ brūhi bhūmau pinaṣāma bhānum,</l>
 <l xml:id="Bhk_12.18-2">ā danta-niṣpīḍita-pītaminduṃ ṣṭhīvāma śuṣkekṣu-latā'sthi-kalpam.</l>
 </lg>
 
@@ -5204,7 +5208,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.23">
-<l xml:id="Bhk_12.23-1">yac cāpi yatnā-''dṛta-mantra-vṛttir guru-tvamāyāti narā'bhiyogaḥ</l>
+<l xml:id="Bhk_12.23-1">yac cāpi yatnā-dṛta-mantra-vṛttir guru-tvamāyāti narā'bhiyogaḥ</l>
 <l xml:id="Bhk_12.23-2">vaśīkṛtendrasya, kṛtottaro 'smin vidhvaṃsitā'śeṣa-puro hanūmān.</l>
 </lg>
 
@@ -5220,17 +5224,17 @@
 
 <lg xml:id="Bhk_12.26">
 <l xml:id="Bhk_12.26-1">vṛddhi-kṣaya-sthāna-gatāmajasraṃ vṛttiṃ jigīṣuḥ prasamīkṣamāṇaḥ</l>
-<l xml:id="Bhk_12.26-2">ghaṭeta sandhyā''diṣu yo guṇeṣu, lakṣmīr na taṃ muñcati cañcalā 'pi.</l>
+<l xml:id="Bhk_12.26-2">ghaṭeta sandhyādiṣu yo guṇeṣu, lakṣmīr na taṃ muñcati cañcalā 'pi.</l>
 </lg>
 
 <lg xml:id="Bhk_12.27">
 <l xml:id="Bhk_12.27-1">upekṣaṇīyaiva parasya vṛddhiḥ pranaṣṭa-nīterajitendrayasya</l>
-<l xml:id="Bhk_12.27-2">madā''di-yuktasya virāga-hetuḥ, sa-mūla-ghātaṃ vinihanti yā 'nte.</l>
+<l xml:id="Bhk_12.27-2">madādi-yuktasya virāga-hetuḥ, sa-mūla-ghātaṃ vinihanti yā 'nte.</l>
 </lg>
 
 <lg xml:id="Bhk_12.28">
-<l xml:id="Bhk_12.28-1">janā'nurāgeṇa yuto 'vasādaḥ phalā'nubandhaḥ sudhiyā ''tmano 'pi</l>
-<l xml:id="Bhk_12.28-2">upekṣaṇīyo 'bhyupagamya saṃdhiṃ kāmā''di-ṣaḍ-varga-jitā 'dhipena.</l>
+<l xml:id="Bhk_12.28-1">janā'nurāgeṇa yuto 'vasādaḥ phalā'nubandhaḥ sudhiyātmano 'pi</l>
+<l xml:id="Bhk_12.28-2">upekṣaṇīyo 'bhyupagamya saṃdhiṃ kāmādi-ṣaḍ-varga-jitā 'dhipena.</l>
 </lg>
 
 <lg xml:id="Bhk_12.29">
@@ -5255,7 +5259,7 @@
 
 <lg xml:id="Bhk_12.33">
 <l xml:id="Bhk_12.33-1">śaknoti yo na dviṣato nihantuṃ, vihanyate nā 'pya-balair dviṣadbhiḥ,</l>
-<l xml:id="Bhk_12.33-2">sa śvā-varāhaṃ kalahaṃ vidadhyā- dāsīta durgā''di vivardhayaṃś ca.</l>
+<l xml:id="Bhk_12.33-2">sa śvā-varāhaṃ kalahaṃ vidadhyā- dāsīta durgādi vivardhayaṃś ca.</l>
 </lg>
 
 <lg xml:id="Bhk_12.34">
@@ -5265,7 +5269,7 @@
 
 <lg xml:id="Bhk_12.35">
 <l xml:id="Bhk_12.35-1">ekena saṃdhiḥ, kalaho 'pareṇa kāryo 'bhito vā prasamīkṣya vṛddhim,</l>
-<l xml:id="Bhk_12.35-2">evaṃ prayuñjīta jigīṣuretā nītīr vijānannahitā''tma-sāram.</l>
+<l xml:id="Bhk_12.35-2">evaṃ prayuñjīta jigīṣuretā nītīr vijānannahitātma-sāram.</l>
 </lg>
 
 <lg xml:id="Bhk_12.36">
@@ -5279,7 +5283,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.38">
-<l xml:id="Bhk_12.38-1">prākāra-mātrā''varaṇaḥ prabhāvaḥ kharā''dibhir yo nihatais tavā'bhūt,</l>
+<l xml:id="Bhk_12.38-1">prākāra-mātrāvaraṇaḥ prabhāvaḥ kharādibhir yo nihatais tavā'bhūt,</l>
 <l xml:id="Bhk_12.38-2">laṅkāpradāhā'kṣa-vadha-dru-bhaṅgaiḥ klāmyatyasāvapyadhunā 'timātram.</l>
 </lg>
 
@@ -5289,8 +5293,8 @@
 </lg>
 
 <lg xml:id="Bhk_12.40">
-<l xml:id="Bhk_12.40-1">rāmo 'pi dārā''haraṇena tapto, vayaṃ hatair bandhubhirātma-tulyaiḥ,</l>
-<l xml:id="Bhk_12.40-2">taptasya taptena yathā ''yaso naḥ saṃdhiḥ pareṇā 'stu, vimuñca sītām.</l>
+<l xml:id="Bhk_12.40-1">rāmo 'pi dārāharaṇena tapto, vayaṃ hatair bandhubhirātma-tulyaiḥ,</l>
+<l xml:id="Bhk_12.40-2">taptasya taptena yathāyaso naḥ saṃdhiḥ pareṇā 'stu, vimuñca sītām.</l>
 </lg>
 
 <lg xml:id="Bhk_12.41">
@@ -5309,7 +5313,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.44">
-<l xml:id="Bhk_12.44-1">kliṣṭā''tma-bhṛtyaḥ parimṛgya-sampan mānī yatetā 'pi sa-saṃśaye 'rthe,</l>
+<l xml:id="Bhk_12.44-1">kliṣṭātma-bhṛtyaḥ parimṛgya-sampan mānī yatetā 'pi sa-saṃśaye 'rthe,</l>
 <l xml:id="Bhk_12.44-2">saṃdehamārohati yaḥ kṛtā'rtho, nūnaṃ ratiṃ tasya karoti na śrīḥ.</l>
 </lg>
 
@@ -5319,7 +5323,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.46">
-<l xml:id="Bhk_12.46-1">jetuṃ na śakyo nṛ-patiḥ su-nītir doṣaḥ kṣayā''diḥ kalahe dhruvaś, ca</l>
+<l xml:id="Bhk_12.46-1">jetuṃ na śakyo nṛ-patiḥ su-nītir doṣaḥ kṣayādiḥ kalahe dhruvaś, ca</l>
 <l xml:id="Bhk_12.46-2">phalaṃ na kiṃcin na śubhā samāptiḥ, kṛtā'nurāgaṃ bhūvi saṃtyajā 'rim.</l>
 </lg>
 
@@ -5345,12 +5349,12 @@
 
 <lg xml:id="Bhk_12.51">
 <l xml:id="Bhk_12.51-1">paśyāmi rāmādadhikaṃ samaṃ vā nā 'nyaṃ, virodhe yamupāśrayema,</l>
-<l xml:id="Bhk_12.51-2">dattvā varaṃ sā'nuśayaḥ svayambhū- rindrā''dayaḥ pūrva-taraṃ viruddhāḥ.</l>
+<l xml:id="Bhk_12.51-2">dattvā varaṃ sā'nuśayaḥ svayambhū- rindrādayaḥ pūrva-taraṃ viruddhāḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_12.52">
-<l xml:id="Bhk_12.52-1">durgā''śritānāṃ bahunā 'pi rājan ! kālena pārṣṇigrahaṇā''di-hetuḥ</l>
-<l xml:id="Bhk_12.52-2">durgoparodhaṃ na ca kurvato 'sti śatroś cireṇā 'pi daśā''sya ! hāniḥ</l>
+<l xml:id="Bhk_12.52-1">durgāśritānāṃ bahunā 'pi rājan ! kālena pārṣṇigrahaṇādi-hetuḥ</l>
+<l xml:id="Bhk_12.52-2">durgoparodhaṃ na ca kurvato 'sti śatroś cireṇā 'pi daśāsya ! hāniḥ</l>
 </lg>
 
 <lg xml:id="Bhk_12.53">
@@ -5370,12 +5374,12 @@
 
 <lg xml:id="Bhk_12.56">
 <l xml:id="Bhk_12.56-1">"ekaḥ padātiḥ puruṣo dhanuṣmān yo 'neka-māyāni viyad-gatāni</l>
-<l xml:id="Bhk_12.56-2">rakṣaḥ-sahasrāṇi caturdaśā ''rdīt, kā tatra vo mānuṣa-mātra-śaṅkā.</l>
+<l xml:id="Bhk_12.56-2">rakṣaḥ-sahasrāṇi caturdaśārdīt, kā tatra vo mānuṣa-mātra-śaṅkā.</l>
 </lg>
 
 <lg xml:id="Bhk_12.57">
 <l xml:id="Bhk_12.57-1">brahmarṣibhir nūnamayaṃ sa-devaiḥ saṃtāpitau rātricara-kṣayāya</l>
-<l xml:id="Bhk_12.57-2">narā''kṛtir vānara-sainyaśālī jagatya-jayyo vihito 'bhyupāyaḥ.</l>
+<l xml:id="Bhk_12.57-2">narākṛtir vānara-sainyaśālī jagatya-jayyo vihito 'bhyupāyaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_12.58">
@@ -5394,7 +5398,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.61">
-<l xml:id="Bhk_12.61-1">ghoṣeṇa tena pratilabdha-saṃjño nidrā''vilā'kṣaḥ ṣruta-kārya-sāraḥ</l>
+<l xml:id="Bhk_12.61-1">ghoṣeṇa tena pratilabdha-saṃjño nidrāvilā'kṣaḥ ṣruta-kārya-sāraḥ</l>
 <l xml:id="Bhk_12.61-2">sphurad-ghanaḥ sā'mburivā 'ntarīkṣe vākyaṃ tato 'bhāṣata kumbhakarṇaḥ</l>
 </lg>
 
@@ -5404,7 +5408,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.63">
-<l xml:id="Bhk_12.63-1">na niścitā'rthaṃ samayaṃ ca deśaṃ kriyā'bhyupāyā''diṣu yo 'tiyāyāt,</l>
+<l xml:id="Bhk_12.63-1">na niścitā'rthaṃ samayaṃ ca deśaṃ kriyā'bhyupāyādiṣu yo 'tiyāyāt,</l>
 <l xml:id="Bhk_12.63-2">sa prāpnuyān mantra-phalaṃ na mānī kāle vipanne kṣaṇadā-carendra !</l>
 </lg>
 
@@ -5439,7 +5443,7 @@
 </lg>
 
 <lg xml:id="Bhk_12.70">
-<l xml:id="Bhk_12.70-1">utpāta-jaṃ chidramasau vivasvān vyādāya vaktrā''kṛti loka-bhīṣmam</l>
+<l xml:id="Bhk_12.70-1">utpāta-jaṃ chidramasau vivasvān vyādāya vaktrākṛti loka-bhīṣmam</l>
 <l xml:id="Bhk_12.70-2">attuṃ janān dhūsara-raśmi-rāśiḥ siṃho yathā kīrṇa-saṭo 'bhyudeti.</l>
 </lg>
 
@@ -5480,7 +5484,7 @@
 
 <lg xml:id="Bhk_12.78">
 <l xml:id="Bhk_12.78-1">a-nirvṛtaṃ bhūtiṣu gūḍha-vairaṃ satkāra-kāle 'pi kṛtā 'bhyasūyam</l>
-<l xml:id="Bhk_12.78-2">vibhinna-karmā''śaya-vāk kule no mā jñāti-celaṃ, bhuvi kasyacid bhūt</l>
+<l xml:id="Bhk_12.78-2">vibhinna-karmāśaya-vāk kule no mā jñāti-celaṃ, bhuvi kasyacid bhūt</l>
 </lg>
 
 <lg xml:id="Bhk_12.79">
@@ -5499,8 +5503,8 @@
 </lg>
 
 <lg xml:id="Bhk_12.82">
-<l xml:id="Bhk_12.82-1">uvāca cainaṃ kṣaṇadā-carendraṃ "sukhaṃ mahā-rāja ! vinā mayā ''ssva.</l>
-<l xml:id="Bhk_12.82-2">mūrkhā''turaḥ pathya-kaṭūnanaśnan yat sā''mayo''sau, bhiṣajāṃ na doṣaḥ</l>
+<l xml:id="Bhk_12.82-1">uvāca cainaṃ kṣaṇadā-carendraṃ "sukhaṃ mahā-rāja ! vinā mayāssva.</l>
+<l xml:id="Bhk_12.82-2">mūrkhāturaḥ pathya-kaṭūnanaśnan yat sāmayosau, bhiṣajāṃ na doṣaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_12.83">
@@ -5515,7 +5519,7 @@
 
 <lg xml:id="Bhk_12.85">
 <l xml:id="Bhk_12.85-1">dattaḥ sva-doṣair bhavatā prahāraḥ pādena dharmye pathi me sthitasya,</l>
-<l xml:id="Bhk_12.85-2">sa cintanīyaḥ saha mantri-mukhyaiḥ kasyā ''vayor lāghavamādadhātu.</l>
+<l xml:id="Bhk_12.85-2">sa cintanīyaḥ saha mantri-mukhyaiḥ kasyāvayor lāghavamādadhātu.</l>
 </lg>
 
 <lg xml:id="Bhk_12.86">
@@ -5527,17 +5531,17 @@
 <l xml:id="Bhk_12.87-1">atha tamupagataṃ vidita-sucaritaṃ pavana-suta-girā giri-guru-hṛdayaḥ</l>
 <l xml:id="Bhk_12.87-2">nṛ-patiramadayan mudita-parijanaṃ sva-pura-pati-karaiḥ salila-samudayaiḥ.</l>
 </lg>
+</div>
 
-
-<p>Bhk_13</p>
+<div type="sarga" n="13">
 <lg xml:id="Bhk_13.1">
-<l xml:id="Bhk_13.1-1">cāru-samīraṇa-ramaṇe hariṇa-kalaṅka-kiraṇā''valī-sa-vilāsā</l>
+<l xml:id="Bhk_13.1-1">cāru-samīraṇa-ramaṇe hariṇa-kalaṅka-kiraṇāvalī-sa-vilāsā</l>
 <l xml:id="Bhk_13.1-2">ābaddha-rāma-mohā velā-mūle vibhāvarī parihīṇā.</l>
 </lg>
 
 <lg xml:id="Bhk_13.2">
-<l xml:id="Bhk_13.2-1">baddho vāsara-saṅge bhīmo rāmeṇa lavaṇa-salilā''vāse</l>
-<l xml:id="Bhk_13.2-2">sahasā saṃrambha-raso dūrā''rūḍha-ravi-maṇḍala-samo lole.</l>
+<l xml:id="Bhk_13.2-1">baddho vāsara-saṅge bhīmo rāmeṇa lavaṇa-salilāvāse</l>
+<l xml:id="Bhk_13.2-2">sahasā saṃrambha-raso dūrārūḍha-ravi-maṇḍala-samo lole.</l>
 </lg>
 
 <lg xml:id="Bhk_13.3">
@@ -5546,17 +5550,17 @@
 </lg>
 
 <lg xml:id="Bhk_13.4">
-<l xml:id="Bhk_13.4-1">ghora-jala-danti-saṃkula- maṭṭa-mahāpaṅka-kāhala-jalā''vāsam</l>
+<l xml:id="Bhk_13.4-1">ghora-jala-danti-saṃkula- maṭṭa-mahāpaṅka-kāhala-jalāvāsam</l>
 <l xml:id="Bhk_13.4-2">ārīṇaṃ lavaṇa-jalaṃ samiddha-phala-bāṇa-viddhi-ghora-phaṇi-varam</l>
 </lg>
 
 <lg xml:id="Bhk_13.5">
 <l xml:id="Bhk_13.5-1">sa-bhayaṃ pariharamāṇo mahā'hi-saṃcāra-bhāsuraṃ salila-gaṇam</l>
-<l xml:id="Bhk_13.5-2">ārūḍho lavaṇa-jalo jala-tīraṃ hari-balā''gama-vilola-guham</l>
+<l xml:id="Bhk_13.5-2">ārūḍho lavaṇa-jalo jala-tīraṃ hari-balāgama-vilola-guham</l>
 </lg>
 
 <lg xml:id="Bhk_13.6">
-<l xml:id="Bhk_13.6-1">cañcala-taru-hariṇa-gaṇaṃ bahu-kusumā''bandha-baddha-rāmā''vāsam</l>
+<l xml:id="Bhk_13.6-1">cañcala-taru-hariṇa-gaṇaṃ bahu-kusumābandha-baddha-rāmāvāsam</l>
 <l xml:id="Bhk_13.6-2">hari-pallava-taru-jālaṃ tuṅgoru-samiddha-taru-vara-hima-cchāyam</l>
 </lg>
 
@@ -5579,11 +5583,11 @@
 
 <lg xml:id="Bhk_13.10">
 <l xml:id="Bhk_13.10-1">āyāsa-saṃbhavāruṇa ! saṃhara saṃhāra-hima-hara-sama-cchāyam</l>
-<l xml:id="Bhk_13.10-2">bāṇaṃ, vāri-samūhaṃ saṃgaccha purāṇa-cāru-dehā''vāsam.</l>
+<l xml:id="Bhk_13.10-2">bāṇaṃ, vāri-samūhaṃ saṃgaccha purāṇa-cāru-dehāvāsam.</l>
 </lg>
 
 <lg xml:id="Bhk_13.11">
-<l xml:id="Bhk_13.11-1">a-sulabha-hari-saṃcāraṃ jala-mūlaṃ bahala-paṅka-ruddhā''yāmam</l>
+<l xml:id="Bhk_13.11-1">a-sulabha-hari-saṃcāraṃ jala-mūlaṃ bahala-paṅka-ruddhāyāmam</l>
 <l xml:id="Bhk_13.11-2">bhaṇa kiṃ jala-parihīṇaṃ su-gamaṃ timi-kambu-vāri-vāraṇa-bhīmam.</l>
 </lg>
 
@@ -5593,25 +5597,25 @@
 </lg>
 
 <lg xml:id="Bhk_13.13">
-<l xml:id="Bhk_13.13-1">hara-hāsa-ruddha-vigamaṃ para-kaṇṭha-gaṇaṃ mahā''hava-samārambhe</l>
+<l xml:id="Bhk_13.13-1">hara-hāsa-ruddha-vigamaṃ para-kaṇṭha-gaṇaṃ mahāhava-samārambhe</l>
 <l xml:id="Bhk_13.13-2">chindantu rāma-bāṇā gambhīre me jale mahā-giri-baddhe.</l>
 </lg>
 
 <lg xml:id="Bhk_13.14">
-<l xml:id="Bhk_13.14-1">gacchantu cāru-hāsā vīra-rasā''bandha-ruddha-bhaya-saṃbandham</l>
+<l xml:id="Bhk_13.14-1">gacchantu cāru-hāsā vīra-rasābandha-ruddha-bhaya-saṃbandham</l>
 <l xml:id="Bhk_13.14-2">hantuṃ bahu-bāhu-balaṃ hari-kariṇo giri-varoru-dehaṃ sahasā.</l>
 </lg>
 
 <p>etāni ṣaṭ saṃkīrṇāni</p>
 <lg xml:id="Bhk_13.15">
 <l xml:id="Bhk_13.15-1">jigamiṣayā saṃyuktā bahūva kapi-vāhinī mate dāśaratheḥ</l>
-<l xml:id="Bhk_13.15-2">buddha-jalā''laya-cittā giri-haraṇā''rambha-saṃbhava-samālolā.</l>
+<l xml:id="Bhk_13.15-2">buddha-jalālaya-cittā giri-haraṇārambha-saṃbhava-samālolā.</l>
 </lg>
 
 <p>pūrvā'rdhaṃ niravadyam</p>
 <lg xml:id="Bhk_13.16">
 <l xml:id="Bhk_13.16-1">guru-giri-vara-haraṇa-sahaṃ saṃhāra-himāri-piṅgalaṃ rāma-balam</l>
-<l xml:id="Bhk_13.16-2">ārūḍhaṃ sahasā khaṃ varuṇā''laya-vimala-salila-gaṇa-gambhīram</l>
+<l xml:id="Bhk_13.16-2">ārūḍhaṃ sahasā khaṃ varuṇālaya-vimala-salila-gaṇa-gambhīram</l>
 </lg>
 
 <lg xml:id="Bhk_13.17">
@@ -5626,12 +5630,12 @@
 
 <lg xml:id="Bhk_13.19">
 <l xml:id="Bhk_13.19-1">aravinda-reṇu-piñjara- sārasa-rava-hāri-vimala-bahu-cāru-jalam</l>
-<l xml:id="Bhk_13.19-2">ravi-maṇi-saṃbhava-hima-hara- samāgamā''baddha-bahula-sura-taru-dhūpam</l>
+<l xml:id="Bhk_13.19-2">ravi-maṇi-saṃbhava-hima-hara- samāgamābaddha-bahula-sura-taru-dhūpam</l>
 </lg>
 
 <lg xml:id="Bhk_13.20">
-<l xml:id="Bhk_13.20-1">hari-rava-vilola-vāraṇa- gambhīrā''baddha-sa-rasa-puru-saṃrāvam</l>
-<l xml:id="Bhk_13.20-2">ghoṇā-saṃgama-paṅkā''- vila-subala-bhara-mahoru-varāham.</l>
+<l xml:id="Bhk_13.20-1">hari-rava-vilola-vāraṇa- gambhīrābaddha-sa-rasa-puru-saṃrāvam</l>
+<l xml:id="Bhk_13.20-2">ghoṇā-saṃgama-paṅkā- vila-subala-bhara-mahoru-varāham.</l>
 </lg>
 
 <p>etāni pañca saṃkīrnāni</p>
@@ -5647,18 +5651,18 @@
 </lg>
 
 <lg xml:id="Bhk_13.23">
-<l xml:id="Bhk_13.23-1">bahu-dhavala-vāri-vāhaṃ vimalā''yasa-mahā'si-deha-cchāyam</l>
+<l xml:id="Bhk_13.23-1">bahu-dhavala-vāri-vāhaṃ vimalāyasa-mahā'si-deha-cchāyam</l>
 <l xml:id="Bhk_13.23-2">baddha-vihaṅgama-mālaṃ hima-girimiva matta-kurara-rava-saṃbaddham</l>
 </lg>
 
 <lg xml:id="Bhk_13.24">
-<l xml:id="Bhk_13.24-1">cāru-kalahaṃs-saṃkula- sa-caṇḍa-saṃcāra-sārasā''baddha-ravam</l>
-<l xml:id="Bhk_13.24-2">sa-kusuma-kaṇa-gandha-vahaṃ samayā''gama-vāri-saṅga-vimalā''yāmam.</l>
+<l xml:id="Bhk_13.24-1">cāru-kalahaṃs-saṃkula- sa-caṇḍa-saṃcāra-sārasābaddha-ravam</l>
+<l xml:id="Bhk_13.24-2">sa-kusuma-kaṇa-gandha-vahaṃ samayāgama-vāri-saṅga-vimalāyāmam.</l>
 </lg>
 
 <lg xml:id="Bhk_13.25">
-<l xml:id="Bhk_13.25-1">sahasā te taru-hariṇā giri-subharā lavaṇa-salila-bandhā''rambhe</l>
-<l xml:id="Bhk_13.25-2">tīra-girimārūḍhā rāmā''gama-ruddha-sa-bhaya-ripu-saṃcāram.</l>
+<l xml:id="Bhk_13.25-1">sahasā te taru-hariṇā giri-subharā lavaṇa-salila-bandhārambhe</l>
+<l xml:id="Bhk_13.25-2">tīra-girimārūḍhā rāmāgama-ruddha-sa-bhaya-ripu-saṃcāram.</l>
 </lg>
 
 <p>etāni catvāri saṃkīrṇāni</p>
@@ -5691,18 +5695,18 @@
 </lg>
 
 <lg xml:id="Bhk_13.31">
-<l xml:id="Bhk_13.31-1">ārūḍhaṃ ca suvelaṃ taru-mālā''bandha-hāri-giri-vara-jālam</l>
+<l xml:id="Bhk_13.31-1">ārūḍhaṃ ca suvelaṃ taru-mālābandha-hāri-giri-vara-jālam</l>
 <l xml:id="Bhk_13.31-2">rāvaṇa-citta-bhayaṅkara- māpiṅgala-lola-kesaraṃ rāma-balam</l>
 </lg>
 
 <lg xml:id="Bhk_13.32">
-<l xml:id="Bhk_13.32-1">laṅkā''laya-tumulā''rava- subhara-gabhīroru-kuñja-kandara-vivaram</l>
+<l xml:id="Bhk_13.32-1">laṅkālaya-tumulārava- subhara-gabhīroru-kuñja-kandara-vivaram</l>
 <l xml:id="Bhk_13.32-2">vīṇā-rava-rasa-saṅgama- sura-gaṇa-saṃkula-mahā-tamāla-cchāyam</l>
 </lg>
 
 <lg xml:id="Bhk_13.33">
-<l xml:id="Bhk_13.33-1">sa-rasa-bahu-pallavā''vila- kesara-hintāla-baddha-bahala-cchāyam</l>
-<l xml:id="Bhk_13.33-2">airāvaṇa-mada-parimala- gandhavahā''baddha-danti-saṃrambha-rasam</l>
+<l xml:id="Bhk_13.33-1">sa-rasa-bahu-pallavāvila- kesara-hintāla-baddha-bahala-cchāyam</l>
+<l xml:id="Bhk_13.33-2">airāvaṇa-mada-parimala- gandhavahābaddha-danti-saṃrambha-rasam</l>
 </lg>
 
 <lg xml:id="Bhk_13.34">
@@ -5737,11 +5741,11 @@
 
 <lg xml:id="Bhk_13.40">
 <l xml:id="Bhk_13.40-1">a-mala-maṇi-hema-ṭaṅkaṃ tuṅga-mahā-bhitti-ruddha-ruru-paṅka-gamam</l>
-<l xml:id="Bhk_13.40-2">amarā''rūḍha-parisara merumivā ''vila-sa-rasa-mandāra-tarum</l>
+<l xml:id="Bhk_13.40-2">amarārūḍha-parisara merumivāvila-sa-rasa-mandāra-tarum</l>
 </lg>
 
 <lg xml:id="Bhk_13.41">
-<l xml:id="Bhk_13.41-1">phala-bhara-manthara-taru-vara- ma-vidūra-virūḍha-hāri-kusumā''pīḍam</l>
+<l xml:id="Bhk_13.41-1">phala-bhara-manthara-taru-vara- ma-vidūra-virūḍha-hāri-kusumāpīḍam</l>
 <l xml:id="Bhk_13.41-2">hariṇa-kalaṅka-maṇi-saṃbhava- bahu-vāri-bhara-sugambhīra-guham.</l>
 </lg>
 
@@ -5752,22 +5756,22 @@
 
 <lg xml:id="Bhk_13.43">
 <l xml:id="Bhk_13.43-1">gāḍha-samīraṇa-susahaṃ bhīma-ravottuṅga-vāri-dhara-saṃghaṭṭam</l>
-<l xml:id="Bhk_13.43-2">dhavala-jala-vāha-mālā- saṃbandhā''baddha-hima-dharā-dhara-līlam.</l>
+<l xml:id="Bhk_13.43-2">dhavala-jala-vāha-mālā- saṃbandhābaddha-hima-dharā-dhara-līlam.</l>
 </lg>
 
 <lg xml:id="Bhk_13.44">
-<l xml:id="Bhk_13.44-1">lavaṇa-jala-bandha-sa-rasaṃ taru-phala-saṃpatti-ruddha-dehā''yāsam</l>
+<l xml:id="Bhk_13.44-1">lavaṇa-jala-bandha-sa-rasaṃ taru-phala-saṃpatti-ruddha-dehāyāsam</l>
 <l xml:id="Bhk_13.44-2">laṅkā-toraṇa-vāraṇa- mārūḍhaṃ samara-lālasaṃ-rāma-balam.</l>
 </lg>
 
 <lg xml:id="Bhk_13.45">
 <l xml:id="Bhk_13.45-1">guru-paṇava-veṇu-guñjā- bherī-peloru-jhallarī-bhīma-ravam</l>
-<l xml:id="Bhk_13.45-2">ḍhakkā-ghaṇṭā-tumulaṃ sannaddhaṃ para-balaṃ raṇā''yāsa-saham</l>
+<l xml:id="Bhk_13.45-2">ḍhakkā-ghaṇṭā-tumulaṃ sannaddhaṃ para-balaṃ raṇāyāsa-saham</l>
 </lg>
 
 <lg xml:id="Bhk_13.46">
-<l xml:id="Bhk_13.46-1">ārūḍha-bāṇa-ghoraṃ vi-malā''yasa-jāla-gūḍha-pīvara-deham</l>
-<l xml:id="Bhk_13.46-2">cañcala-turaṅga-vāraṇa- saṃghaṭṭā''baddha-cāru-pariṇāha-guṇam</l>
+<l xml:id="Bhk_13.46-1">ārūḍha-bāṇa-ghoraṃ vi-malāyasa-jāla-gūḍha-pīvara-deham</l>
+<l xml:id="Bhk_13.46-2">cañcala-turaṅga-vāraṇa- saṃghaṭṭābaddha-cāru-pariṇāha-guṇam</l>
 </lg>
 
 <lg xml:id="Bhk_13.47">
@@ -5781,7 +5785,7 @@
 </lg>
 
 <lg xml:id="Bhk_13.49">
-<l xml:id="Bhk_13.49-1">yugmakam jala-tīra-tuṅga-taru-vara- kangara-giri-bhitti-kuñja-vivarā''vāsam</l>
+<l xml:id="Bhk_13.49-1">yugmakam jala-tīra-tuṅga-taru-vara- kangara-giri-bhitti-kuñja-vivarāvāsam</l>
 <l xml:id="Bhk_13.49-2">bhīmaṃ taru-hariṇa-balaṃ su-samiddha-himāri-kiraṇa-mālā-lolam.</l>
 </lg>
 
@@ -5789,11 +5793,11 @@
 <l xml:id="Bhk_13.50-1">rāvaṇa-balamavagantuṃ jala-bhara-guru-salila-vāha-gaṇa-sama-cchāyam</l>
 <l xml:id="Bhk_13.50-2">aṭṭa-taru-mañca-mandrira- toraṇa-mālā-sabhāsu samārūḍham.</l>
 </lg>
+</div>
 
-
-<p>Bhk_14</p>
+<div type="sarga" n="14">
 <lg xml:id="Bhk_14.1">
-<l xml:id="Bhk_14.1-1">tato daśā''syaḥ smara-vihvalā''tmā cāra-prakāśīkṛta-śatru-śaktiḥ</l>
+<l xml:id="Bhk_14.1-1">tato daśāsyaḥ smara-vihvalātmā cāra-prakāśīkṛta-śatru-śaktiḥ</l>
 <l xml:id="Bhk_14.1-2">vimohya māyā-maya-rāma-mūrdhnā sītāmanīkaṃ prajighāya yoddhum.</l>
 </lg>
 
@@ -5828,7 +5832,7 @@
 </lg>
 
 <lg xml:id="Bhk_14.8">
-<l xml:id="Bhk_14.8-1">dhanūṣyāropayāṃcakrurāruruhū rathā''diṣu,</l>
+<l xml:id="Bhk_14.8-1">dhanūṣyāropayāṃcakrurāruruhū rathādiṣu,</l>
 <l xml:id="Bhk_14.8-2">asīnudvavṛhur dīptān, gurvīruccikṣipur gadāḥ</l>
 </lg>
 
@@ -5863,7 +5867,7 @@
 </lg>
 
 <lg xml:id="Bhk_14.15">
-<l xml:id="Bhk_14.15-1">prājyamāñjihiṣāṃcakre prahasto rāvaṇā''jñayā</l>
+<l xml:id="Bhk_14.15-1">prājyamāñjihiṣāṃcakre prahasto rāvaṇājñayā</l>
 <l xml:id="Bhk_14.15-2">dvāraṃ raraṅghatur yāmyṃ mahāpārśva-mahodarau.</l>
 </lg>
 
@@ -5904,7 +5908,7 @@
 
 <lg xml:id="Bhk_14.23">
 <l xml:id="Bhk_14.23-1">nirāsū rākṣasā bāṇān, prajahuḥ śūla-paṭṭiśān</l>
-<l xml:id="Bhk_14.23-2">asīṃś ca vāhayāṃcakruḥ pāśaiś cā''cakṛṣus tataiḥ</l>
+<l xml:id="Bhk_14.23-2">asīṃś ca vāhayāṃcakruḥ pāśaiś cācakṛṣus tataiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_14.24">
@@ -5924,7 +5928,7 @@
 
 <lg xml:id="Bhk_14.27">
 <l xml:id="Bhk_14.27-1">saṃbabhūvuḥ kabandhāni, prohuḥ śoṇita-toya-gāḥ,</l>
-<l xml:id="Bhk_14.27-2">terur bhaṭā''sya-padmāni, dhvajaiḥ pheṇairivā''babhe,</l>
+<l xml:id="Bhk_14.27-2">terur bhaṭāsya-padmāni, dhvajaiḥ pheṇairivābabhe,</l>
 </lg>
 
 <lg xml:id="Bhk_14.28">
@@ -5934,7 +5938,7 @@
 
 <lg xml:id="Bhk_14.29">
 <l xml:id="Bhk_14.29-1">koṭyā koṭyā pura-dvāramekaikaṃ rurughe dviṣām,</l>
-<l xml:id="Bhk_14.29-2">ṣaṭ-triṃśaddhari-koṭyaś ca nivavrur vānarā''dhipam,</l>
+<l xml:id="Bhk_14.29-2">ṣaṭ-triṃśaddhari-koṭyaś ca nivavrur vānarādhipam,</l>
 </lg>
 
 <lg xml:id="Bhk_14.30">
@@ -5948,7 +5952,7 @@
 </lg>
 
 <lg xml:id="Bhk_14.32">
-<l xml:id="Bhk_14.32-1">uccakhnāte nalenā ''jau sphurat-pratapanā'kṣiṇī,</l>
+<l xml:id="Bhk_14.32-1">uccakhnāte nalenājau sphurat-pratapanā'kṣiṇī,</l>
 <l xml:id="Bhk_14.32-2">jambumālī jahau prāṇān grāvṇā mārutinā hataḥ.</l>
 </lg>
 
@@ -6003,12 +6007,12 @@
 </lg>
 
 <lg xml:id="Bhk_14.43">
-<l xml:id="Bhk_14.43-1">tirobabhūve sūryeṇa, prāpe ca niśayā ''spadam,</l>
+<l xml:id="Bhk_14.43-1">tirobabhūve sūryeṇa, prāpe ca niśayāspadam,</l>
 <l xml:id="Bhk_14.43-2">jagrase kāla-rātrīva vānarān rākṣasāmś ca sā.</l>
 </lg>
 
 <lg xml:id="Bhk_14.44">
-<l xml:id="Bhk_14.44-1">cukopendrajidatyugraṃ sarpā'straṃ cā ''juhāva, saḥ</l>
+<l xml:id="Bhk_14.44-1">cukopendrajidatyugraṃ sarpā'straṃ cājuhāva, saḥ</l>
 <l xml:id="Bhk_14.44-2">ājuhuve tirobhūtaḥ parānīkaṃ, jahāsa ca.</l>
 </lg>
 
@@ -6029,7 +6033,7 @@
 
 <lg xml:id="Bhk_14.48">
 <l xml:id="Bhk_14.48-1">tato rāmeti cakrandus, tresuḥ parididevire</l>
-<l xml:id="Bhk_14.48-2">niśaśvasuś ca senānyaḥ, procur dhigiti cā''tmanaḥ.</l>
+<l xml:id="Bhk_14.48-2">niśaśvasuś ca senānyaḥ, procur dhigiti cātmanaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_14.49">
@@ -6139,7 +6143,7 @@
 
 <lg xml:id="Bhk_14.70">
 <l xml:id="Bhk_14.70-1">svenus, titviṣurudyemuraccakhnuḥ parvatāṃs tarūn,</l>
-<l xml:id="Bhk_14.70-2">vānarā dadramuś cā 'tha saṃgrāmaṃ cā''śaśāśire.</l>
+<l xml:id="Bhk_14.70-2">vānarā dadramuś cā 'tha saṃgrāmaṃ cāśaśāśire.</l>
 </lg>
 
 <lg xml:id="Bhk_14.71">
@@ -6154,17 +6158,17 @@
 
 <lg xml:id="Bhk_14.73">
 <l xml:id="Bhk_14.73-1">ghūmrākṣo 'tha pratiṣṭhāsāṃcakre rāvaṇa-saṃmataḥ</l>
-<l xml:id="Bhk_14.73-2">siṃhā''syair yuyuje tasya vṛkā''syaiś ca rathaḥ khagaiḥ.</l>
+<l xml:id="Bhk_14.73-2">siṃhāsyair yuyuje tasya vṛkāsyaiś ca rathaḥ khagaiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_14.74">
 <l xml:id="Bhk_14.74-1">tvak-traiḥ saṃvivyayur dehān, vāhanānyadhiśiśyire,</l>
-<l xml:id="Bhk_14.74-2">ānarjur nṛ-bhujo'strāṇi, vavañcuś cā''hava-kṣitim.</l>
+<l xml:id="Bhk_14.74-2">ānarjur nṛ-bhujo'strāṇi, vavañcuś cāhava-kṣitim.</l>
 </lg>
 
 <lg xml:id="Bhk_14.75">
 <l xml:id="Bhk_14.75-1">adhyuvāsa rathaṃ, teye purāc, cukṣāva cā 'śubham,</l>
-<l xml:id="Bhk_14.75-2">saṃśrāvayāṃcakārā ''khyāṃ dhūmrākṣas tatvare tathā.</l>
+<l xml:id="Bhk_14.75-2">saṃśrāvayāṃcakārākhyāṃ dhūmrākṣas tatvare tathā.</l>
 </lg>
 
 <lg xml:id="Bhk_14.76">
@@ -6188,7 +6192,7 @@
 </lg>
 
 <lg xml:id="Bhk_14.80">
-<l xml:id="Bhk_14.80-1">raṇe cikrīḍa dhūmrākṣas, taṃ tatarjā'nilā''tmajaḥ,</l>
+<l xml:id="Bhk_14.80-1">raṇe cikrīḍa dhūmrākṣas, taṃ tatarjā'nilātmajaḥ,</l>
 <l xml:id="Bhk_14.80-2">ādade ca śilāṃ, sā'śvaṃ pipeṣā 'sya rathaṃ tayā.</l>
 </lg>
 
@@ -6224,7 +6228,7 @@
 
 <lg xml:id="Bhk_14.87">
 <l xml:id="Bhk_14.87-1">sa bibhreṣa, pracukṣoda, dantairoṣṭhaṃ cakhāda ca,</l>
-<l xml:id="Bhk_14.87-2">pragopāyāṃcakārā ''śu yatnena paritaḥ puram.</l>
+<l xml:id="Bhk_14.87-2">pragopāyāṃcakārāśu yatnena paritaḥ puram.</l>
 </lg>
 
 <lg xml:id="Bhk_14.88">
@@ -6239,11 +6243,11 @@
 
 <lg xml:id="Bhk_14.90">
 <l xml:id="Bhk_14.90-1">yuyujuḥ syandanānaśvairījur devān purohitāḥ</l>
-<l xml:id="Bhk_14.90-2">ānarcur brāhmaṇān samyagāśiṣaś cā''śaśaṃsire.</l>
+<l xml:id="Bhk_14.90-2">ānarcur brāhmaṇān samyagāśiṣaś cāśaśaṃsire.</l>
 </lg>
 
 <lg xml:id="Bhk_14.91">
-<l xml:id="Bhk_14.91-1">ūhire mūrdhni siddhārthā, gāvaś cā ''lebhire bhaṭaiḥ,</l>
+<l xml:id="Bhk_14.91-1">ūhire mūrdhni siddhārthā, gāvaś cālebhire bhaṭaiḥ,</l>
 <l xml:id="Bhk_14.91-2">pracukṣṇuvur mahā 'strāṇi, jijñāsāṃcakrire hayān.</l>
 </lg>
 
@@ -6258,8 +6262,8 @@
 </lg>
 
 <lg xml:id="Bhk_14.94">
-<l xml:id="Bhk_14.94-1">saṃvargayāṃcakārā ''ptān, candanena lilepa ca,</l>
-<l xml:id="Bhk_14.94-2">cacāma madhu mārdvīkaṃ, tvak-traṃ cā''cakace varam.</l>
+<l xml:id="Bhk_14.94-1">saṃvargayāṃcakārāptān, candanena lilepa ca,</l>
+<l xml:id="Bhk_14.94-2">cacāma madhu mārdvīkaṃ, tvak-traṃ cācakace varam.</l>
 </lg>
 
 <lg xml:id="Bhk_14.95">
@@ -6309,7 +6313,7 @@
 
 <lg xml:id="Bhk_14.104">
 <l xml:id="Bhk_14.104-1">āsasañja bhayaṃ teṣāṃ, didyute ca yathā raviḥ,</l>
-<l xml:id="Bhk_14.104-2">nā''yayāsa, dviṣad-dehair jagāhe ca diśo daśa.</l>
+<l xml:id="Bhk_14.104-2">nāyayāsa, dviṣad-dehair jagāhe ca diśo daśa.</l>
 </lg>
 
 <lg xml:id="Bhk_14.105">
@@ -6357,8 +6361,9 @@
 <l xml:id="Bhk_14.113-2">laṅkāṃ tadā bhejurudīrṇa-dainyā, vyācakhyuruccaiś ca hataṃ prahastam,</l>
 </lg>
 
+</div>
 
-<p>Bhk_15</p>
+<div type="sarga" n="15">
 <lg xml:id="Bhk_15.1">
 <l xml:id="Bhk_15.1-1">rākṣasendras tato 'bhaiṣīdaikṣiṣṭa paritaḥ puram,</l>
 <l xml:id="Bhk_15.1-2">prātiṣṭhipac ca bodhā'rthaṃ kumbhakarṇasya rākṣasān,</l>
@@ -6496,7 +6501,7 @@
 
 <lg xml:id="Bhk_15.28">
 <l xml:id="Bhk_15.28-1">āṃhiṣṭa tāna-saṃmānya darpāt sa pradhana-kṣitim,</l>
-<l xml:id="Bhk_15.28-2">tato'nardīdanandīc ca, śatrūnāhvāsta cā''have.</l>
+<l xml:id="Bhk_15.28-2">tato'nardīdanandīc ca, śatrūnāhvāsta cāhave.</l>
 </lg>
 
 <lg xml:id="Bhk_15.29">
@@ -6530,8 +6535,8 @@
 </lg>
 
 <lg xml:id="Bhk_15.35">
-<l xml:id="Bhk_15.35-1">anardiṣuḥ kapi-vyāghrāḥ, samyak cā 'yutsatā''have,</l>
-<l xml:id="Bhk_15.35-2">tānamardīdakhādīc ca, nirāsthac ca talā''hatān,</l>
+<l xml:id="Bhk_15.35-1">anardiṣuḥ kapi-vyāghrāḥ, samyak cā 'yutsatāhave,</l>
+<l xml:id="Bhk_15.35-2">tānamardīdakhādīc ca, nirāsthac ca talāhatān,</l>
 </lg>
 
 <lg xml:id="Bhk_15.36">
@@ -6556,11 +6561,11 @@
 
 <lg xml:id="Bhk_15.40">
 <l xml:id="Bhk_15.40-1">yakṣendra-śaktimacchāsīn, nā 'prothīdasya kaścana,</l>
-<l xml:id="Bhk_15.40-2">kumbhakarṇān na bhaiṣṭaṃ mā yuvāmasmān nṛpā''tmajau.</l>
+<l xml:id="Bhk_15.40-2">kumbhakarṇān na bhaiṣṭaṃ mā yuvāmasmān nṛpātmajau.</l>
 </lg>
 
 <lg xml:id="Bhk_15.41">
-<l xml:id="Bhk_15.41-1">ghnantaṃ mopekṣiṣāthāṃ ca, mā na kārṣṭamihā''daram.,</l>
+<l xml:id="Bhk_15.41-1">ghnantaṃ mopekṣiṣāthāṃ ca, mā na kārṣṭamihādaram.,</l>
 <l xml:id="Bhk_15.41-2">"amuṃ mā na vadhiṣṭe"ti rāmo'vādīt tataḥ kapīn.</l>
 </lg>
 
@@ -6571,7 +6576,7 @@
 
 <lg xml:id="Bhk_15.43">
 <l xml:id="Bhk_15.43-1">te taṃ vyāśiṣatā 'kṣautsuḥ pādair, dantais tathā 'cchidan.</l>
-<l xml:id="Bhk_15.43-2">ārjijat śarabho vṛkṣaṃ, nīlas tvā ''dita parvatam.</l>
+<l xml:id="Bhk_15.43-2">ārjijat śarabho vṛkṣaṃ, nīlas tvādita parvatam.</l>
 </lg>
 
 <lg xml:id="Bhk_15.44">
@@ -6590,8 +6595,8 @@
 </lg>
 
 <lg xml:id="Bhk_15.47">
-<l xml:id="Bhk_15.47-1">vyakrukṣad vānarā'nīkaṃ, saṃpalāyiṣṭa cā''yati,</l>
-<l xml:id="Bhk_15.47-2">hastābhyāṃ naśyadakrākṣīd, bhīme copādhitā''nane.</l>
+<l xml:id="Bhk_15.47-1">vyakrukṣad vānarā'nīkaṃ, saṃpalāyiṣṭa cāyati,</l>
+<l xml:id="Bhk_15.47-2">hastābhyāṃ naśyadakrākṣīd, bhīme copādhitānane.</l>
 </lg>
 
 <lg xml:id="Bhk_15.48">
@@ -6660,8 +6665,8 @@
 </lg>
 
 <lg xml:id="Bhk_15.61">
-<l xml:id="Bhk_15.61-1">aviveṣṭan nṛpā''deśādārukṣaṃś cā''śu rākṣasam</l>
-<l xml:id="Bhk_15.61-2">tānadhāvīt samārūḍhāṃs te 'pyusraṃsiṣatā ''kulāḥ.</l>
+<l xml:id="Bhk_15.61-1">aviveṣṭan nṛpādeśādārukṣaṃś cāśu rākṣasam</l>
+<l xml:id="Bhk_15.61-2">tānadhāvīt samārūḍhāṃs te 'pyusraṃsiṣatākulāḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_15.62">
@@ -6671,7 +6676,7 @@
 
 <lg xml:id="Bhk_15.63">
 <l xml:id="Bhk_15.63-1">sa cā'pi rudhirair mattaḥ sveṣāmapyadayiṣṭa na,</l>
-<l xml:id="Bhk_15.63-2">agrahīc cā ''yuranyeṣāmaruddha ca parākramam.</l>
+<l xml:id="Bhk_15.63-2">agrahīc cāyuranyeṣāmaruddha ca parākramam.</l>
 </lg>
 
 <lg xml:id="Bhk_15.64">
@@ -6690,7 +6695,7 @@
 </lg>
 
 <lg xml:id="Bhk_15.67">
-<l xml:id="Bhk_15.67-1">vāyavyā'streṇa taṃ pāṇiṃ rāmo 'cchaitsīt sahā''yudham,</l>
+<l xml:id="Bhk_15.67-1">vāyavyā'streṇa taṃ pāṇiṃ rāmo 'cchaitsīt sahāyudham,</l>
 <l xml:id="Bhk_15.67-2">ādīpi taru-hasto 'sā- vadhāvīc cā 'ri-saṃmukham.</l>
 </lg>
 
@@ -6721,12 +6726,12 @@
 
 <lg xml:id="Bhk_15.73">
 <l xml:id="Bhk_15.73-1">kathaṃ nvajīviṣus te ca, sa cā 'mṛta mahā-balaḥ."</l>
-<l xml:id="Bhk_15.73-2">ayuyutsiṣatā ''śvāsya kumārā rāvaṇaṃ tataḥ</l>
+<l xml:id="Bhk_15.73-2">ayuyutsiṣatāśvāsya kumārā rāvaṇaṃ tataḥ</l>
 </lg>
 
 <lg xml:id="Bhk_15.74">
 <l xml:id="Bhk_15.74-1">devāntako 'tikāyaś ca triśirāḥ sa narāntakaḥ</l>
-<l xml:id="Bhk_15.74-2">te cāṃ''hiṣata saṃgrāmaṃ balino rāvaṇā''tmajāḥ.</l>
+<l xml:id="Bhk_15.74-2">te cāṃhiṣata saṃgrāmaṃ balino rāvaṇātmajāḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_15.75">
@@ -6735,7 +6740,7 @@
 </lg>
 
 <lg xml:id="Bhk_15.76">
-<l xml:id="Bhk_15.76-1">tairajeṣata sainyāni, dviṣo 'kāriṣatā ''kulāḥ</l>
+<l xml:id="Bhk_15.76-1">tairajeṣata sainyāni, dviṣo 'kāriṣatākulāḥ</l>
 <l xml:id="Bhk_15.76-2">parvatāniva te bhūmāvacaiṣur vānarottamān.</l>
 </lg>
 
@@ -6761,7 +6766,7 @@
 
 <lg xml:id="Bhk_15.81">
 <l xml:id="Bhk_15.81-1">parigheṇā 'vadhiṣṭā 'tha raṇe devāntako balī,</l>
-<l xml:id="Bhk_15.81-2">muṣṭinā 'dadarat tasya mūrdhānaṃ mārutā''tmajaḥ.</l>
+<l xml:id="Bhk_15.81-2">muṣṭinā 'dadarat tasya mūrdhānaṃ mārutātmajaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_15.82">
@@ -6770,12 +6775,12 @@
 </lg>
 
 <lg xml:id="Bhk_15.83">
-<l xml:id="Bhk_15.83-1">ababhrājat tataḥ śaktiṃ triśirāḥ pavanā''tmaje,</l>
+<l xml:id="Bhk_15.83-1">ababhrājat tataḥ śaktiṃ triśirāḥ pavanātmaje,</l>
 <l xml:id="Bhk_15.83-2">hanūmatā kṣatās tasya raṇe 'mṛṣata vājinaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_15.84">
-<l xml:id="Bhk_15.84-1">asrasac cā''hato mūrdhni, khaḍgaṃ cā 'jīharad dviṣā,</l>
+<l xml:id="Bhk_15.84-1">asrasac cāhato mūrdhni, khaḍgaṃ cā 'jīharad dviṣā,</l>
 <l xml:id="Bhk_15.84-2">prāṇānaujjhīc ca khaḍgena chinnais tenaiva mūrdhabhiḥ.</l>
 </lg>
 
@@ -6796,7 +6801,7 @@
 
 <lg xml:id="Bhk_15.88">
 <l xml:id="Bhk_15.88-1">adyagīṣṭā 'rtha-śāstrāṇi, yamasyā 'hnoṣṭa vikramam,</l>
-<l xml:id="Bhk_15.88-2">devā''haveṣvadīpiṣṭa, nā 'janiṣṭā 'sya sādhvasam.</l>
+<l xml:id="Bhk_15.88-2">devāhaveṣvadīpiṣṭa, nā 'janiṣṭā 'sya sādhvasam.</l>
 </lg>
 
 <lg xml:id="Bhk_15.89">
@@ -6805,17 +6810,17 @@
 </lg>
 
 <lg xml:id="Bhk_15.90">
-<l xml:id="Bhk_15.90-1">saumitriḥ sarpa-vat siṃhamārdidat taṃ mahā''have.</l>
+<l xml:id="Bhk_15.90-1">saumitriḥ sarpa-vat siṃhamārdidat taṃ mahāhave.</l>
 <l xml:id="Bhk_15.90-2">tau prāvīvṛtatāṃ jetuṃ śara-jālānyanekaśaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_15.91">
-<l xml:id="Bhk_15.91-1">acchaittāṃ ca mahā''tmānau, ciramaśramatāṃ na ca,</l>
+<l xml:id="Bhk_15.91-1">acchaittāṃ ca mahātmānau, ciramaśramatāṃ na ca,</l>
 <l xml:id="Bhk_15.91-2">tathā tāvāsthatāṃ bāṇānatāniṣṭāṃ tamo yathā.</l>
 </lg>
 
 <lg xml:id="Bhk_15.92">
-<l xml:id="Bhk_15.92-1">sauryā''gneye vyakāriṣṭāmastre rākṣasa-lakṣmaṇau,</l>
+<l xml:id="Bhk_15.92-1">sauryāgneye vyakāriṣṭāmastre rākṣasa-lakṣmaṇau,</l>
 <l xml:id="Bhk_15.92-2">te copāgamatā nāśaṃ samāsādya parasparam</l>
 </lg>
 
@@ -6836,7 +6841,7 @@
 
 <lg xml:id="Bhk_15.96">
 <l xml:id="Bhk_15.96-1">ahauṣīt kṛṣṇavartmānaṃ, samayaṣṭā 'stra-maṇḍalam,</l>
-<l xml:id="Bhk_15.96-2">so 'labdha brahmaṇaḥ śastraṃ syandanaṃ ca jayā''vaham.</l>
+<l xml:id="Bhk_15.96-2">so 'labdha brahmaṇaḥ śastraṃ syandanaṃ ca jayāvaham.</l>
 </lg>
 
 <lg xml:id="Bhk_15.97">
@@ -6861,17 +6866,17 @@
 
 <lg xml:id="Bhk_15.101">
 <l xml:id="Bhk_15.101-1">"mā śociṣṭa, raghu-vyāghrau nā'mṛṣātāmiti bruvan</l>
-<l xml:id="Bhk_15.101-2">avābuddha sa nīlā''dīn nihatān kapi-yūtha-pān.</l>
+<l xml:id="Bhk_15.101-2">avābuddha sa nīlādīn nihatān kapi-yūtha-pān.</l>
 </lg>
 
 <lg xml:id="Bhk_15.102">
 <l xml:id="Bhk_15.102-1">tatraiṣaj jāmbavān prāṇīdudamīlīc ca locane,</l>
-<l xml:id="Bhk_15.102-2">paulastyaṃ cā'gadīt "kaccidajīvīn mārutā''tmajaḥ."</l>
+<l xml:id="Bhk_15.102-2">paulastyaṃ cā'gadīt "kaccidajīvīn mārutātmajaḥ."</l>
 </lg>
 
 <lg xml:id="Bhk_15.103">
 <l xml:id="Bhk_15.103-1">tasya kṣeme mahā-rāja ! nā 'mṛṣmahyakhilā vayam.</l>
-<l xml:id="Bhk_15.103-2">paulastyo 'śiśravat taṃ ca jīvantaṃ pavanā''tmajam.</l>
+<l xml:id="Bhk_15.103-2">paulastyo 'śiśravat taṃ ca jīvantaṃ pavanātmajam.</l>
 </lg>
 
 <lg xml:id="Bhk_15.104">
@@ -6911,7 +6916,7 @@
 
 <lg xml:id="Bhk_15.111">
 <l xml:id="Bhk_15.111-1">samanātsīt tataḥ sainyamamārjīd bhalla-tomaram,</l>
-<l xml:id="Bhk_15.111-2">amārkṣīc cā 'sipatrā''dīnababhāsat paraśvadhān.</l>
+<l xml:id="Bhk_15.111-2">amārkṣīc cā 'sipatrādīnababhāsat paraśvadhān.</l>
 </lg>
 
 <lg xml:id="Bhk_15.112">
@@ -6925,7 +6930,7 @@
 </lg>
 
 <lg xml:id="Bhk_15.114">
-<l xml:id="Bhk_15.114-1">akokūyiṣṭa tat sainyaṃ, prapalāyiṣṭa cā''kulam,</l>
+<l xml:id="Bhk_15.114-1">akokūyiṣṭa tat sainyaṃ, prapalāyiṣṭa cākulam,</l>
 <l xml:id="Bhk_15.114-2">acyutac ca kṣataṃ raktaṃ, hataṃ cā 'dhyaśayiṣṭa gām.</l>
 </lg>
 
@@ -6961,7 +6966,7 @@
 
 <lg xml:id="Bhk_15.121">
 <l xml:id="Bhk_15.121-1">nikumbho vānarendrasya prāhaiṣīt parighaṃ tataḥ,</l>
-<l xml:id="Bhk_15.121-2">hanūmāṃś cā ''patantaṃ tamabhāṅkṣīd bhogi-bhīṣaṇam.</l>
+<l xml:id="Bhk_15.121-2">hanūmāṃś cāpatantaṃ tamabhāṅkṣīd bhogi-bhīṣaṇam.</l>
 </lg>
 
 <lg xml:id="Bhk_15.122">
@@ -6974,8 +6979,9 @@
 <l xml:id="Bhk_15.123-2">nṛ-pati-matiraraṃsta prāpta-kāmeva harṣāt, rajani-cara-patīnāṃ santato 'tāyi śokaḥ.</l>
 </lg>
 
+</div>
 
-<p>Bhk_16</p>
+<div type="sarga" n="16">
 <lg xml:id="Bhk_16.1">
 <l xml:id="Bhk_16.1-1">tataḥ prarudito rājā rakṣasāṃ hata-bāndhavaḥ</l>
 <l xml:id="Bhk_16.1-2">"kiṃ kariṣyāmi rājyena, sītayā kiṃ kariṣyate</l>
@@ -7012,7 +7018,7 @@
 </lg>
 
 <lg xml:id="Bhk_16.8">
-<l xml:id="Bhk_16.8-1">anmīliṣyati cakṣur me vṛthā, yad vinayā''gatam</l>
+<l xml:id="Bhk_16.8-1">anmīliṣyati cakṣur me vṛthā, yad vinayāgatam</l>
 <l xml:id="Bhk_16.8-2">ājñā-lābhonmukhaṃ namraṃ na drakṣyati narāntakam.</l>
 </lg>
 
@@ -7068,7 +7074,7 @@
 
 <lg xml:id="Bhk_16.19">
 <l xml:id="Bhk_16.19-1">kumbhakarṇe hate laṅkā- mārokṣyanti plavaṅgamāḥ,</l>
-<l xml:id="Bhk_16.19-2">daṅkṣyanti rākṣasān, dṛptā bhaṅkṣyanti ca mamā ''śramān.</l>
+<l xml:id="Bhk_16.19-2">daṅkṣyanti rākṣasān, dṛptā bhaṅkṣyanti ca mamāśramān.</l>
 </lg>
 
 <lg xml:id="Bhk_16.20">
@@ -7098,7 +7104,7 @@
 
 <lg xml:id="Bhk_16.25">
 <l xml:id="Bhk_16.25-1">yāḥ suhṛtsu vipanneṣu māmupaiṣyanti saṃpadaḥ,</l>
-<l xml:id="Bhk_16.25-2">tāḥ kiṃ manyu-kṣatā''bhogā na vipatsu vipattayaḥ.</l>
+<l xml:id="Bhk_16.25-2">tāḥ kiṃ manyu-kṣatābhogā na vipatsu vipattayaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_16.26">
@@ -7153,12 +7159,12 @@
 
 <lg xml:id="Bhk_16.36">
 <l xml:id="Bhk_16.36-1">nā 'bhijñā te mahārāja !, jeṣyāvaḥ śakra-pālitam</l>
-<l xml:id="Bhk_16.36-2">dṛpta-deva-guṇā''kīrṇa- māvāṃ saha surā''layam,</l>
+<l xml:id="Bhk_16.36-2">dṛpta-deva-guṇākīrṇa- māvāṃ saha surālayam,</l>
 </lg>
 
 <lg xml:id="Bhk_16.37">
 <l xml:id="Bhk_16.37-1">nā 'bhijñā te, sa-yakṣendraṃ bhaṅkṣyāvo yad yamaṃ balāt,</l>
-<l xml:id="Bhk_16.37-2">ratnāni cā ''hariṣyāvaḥ, prāpsyāvaś ca purīmimām.</l>
+<l xml:id="Bhk_16.37-2">ratnāni cāhariṣyāvaḥ, prāpsyāvaś ca purīmimām.</l>
 </lg>
 
 <lg xml:id="Bhk_16.38">
@@ -7167,7 +7173,7 @@
 </lg>
 
 <lg xml:id="Bhk_16.39">
-<l xml:id="Bhk_16.39-1">saha-bhṛtyaḥ surā''vāse bhayaṃ bhūyo vidhāsyasi</l>
+<l xml:id="Bhk_16.39-1">saha-bhṛtyaḥ surāvāse bhayaṃ bhūyo vidhāsyasi</l>
 <l xml:id="Bhk_16.39-2">praṇaṃsyatyadya devendras tvāṃ, vakṣyati sa sannatim.</l>
 </lg>
 
@@ -7186,8 +7192,9 @@
 <l xml:id="Bhk_16.42-2">śroṣyasyadya vikīrṇa-vṛkṇa-vimukha- vyāpanna-śatrau raṇe tṛptāṃś choṇita-śoṇa-bhīṣaṇamukhān kravyā'śinaḥ krośataḥ."</l>
 </lg>
 
+</div>
 
-<p>Bhk_17</p>
+<div type="sarga" n="17">
 <lg xml:id="Bhk_17.1">
 <l xml:id="Bhk_17.1-1">āśāsata tataḥ śāntimasnuragnīnahāvayan,</l>
 <l xml:id="Bhk_17.1-2">viprānavācayan yodhāḥ, prākkurvan maṅgalāni ca.</l>
@@ -7199,8 +7206,8 @@
 </lg>
 
 <lg xml:id="Bhk_17.3">
-<l xml:id="Bhk_17.3-1">ācchādayan, vyalimpaṃś ca, prāśnannatha surā''miṣam,</l>
-<l xml:id="Bhk_17.3-2">prāpiban madhu-mādhvīkaṃ bhakṣyāṃś cā ''dan yathepsitān</l>
+<l xml:id="Bhk_17.3-1">ācchādayan, vyalimpaṃś ca, prāśnannatha surāmiṣam,</l>
+<l xml:id="Bhk_17.3-2">prāpiban madhu-mādhvīkaṃ bhakṣyāṃś cādan yathepsitān</l>
 </lg>
 
 <lg xml:id="Bhk_17.4">
@@ -7214,7 +7221,7 @@
 </lg>
 
 <lg xml:id="Bhk_17.6">
-<l xml:id="Bhk_17.6-1">āmuñcad varma ratnā''ḍhyamabadhnāt khaḍgamujjlvalam,</l>
+<l xml:id="Bhk_17.6-1">āmuñcad varma ratnāḍhyamabadhnāt khaḍgamujjlvalam,</l>
 <l xml:id="Bhk_17.6-2">adhyāsta syandanaṃ ghoraṃ, prāvartata tataḥ puraḥ</l>
 </lg>
 
@@ -7280,7 +7287,7 @@
 
 <lg xml:id="Bhk_17.19">
 <l xml:id="Bhk_17.19-1">saumitrirākulas tasmin brahmā'straṃ sarva-rakṣasām</l>
-<l xml:id="Bhk_17.19-2">nidhanāyā ''juhūṣat taṃ vyṣṭabhnād raghu-nandanaḥ.</l>
+<l xml:id="Bhk_17.19-2">nidhanāyājuhūṣat taṃ vyṣṭabhnād raghu-nandanaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_17.20">
@@ -7370,7 +7377,7 @@
 
 <lg xml:id="Bhk_17.37">
 <l xml:id="Bhk_17.37-1">na tvajāyata me śīlaṃ tādṛk, yādṛk pitus tava.</l>
-<l xml:id="Bhk_17.37-2">kṣayā''vaheṣu doṣeṣu vāryamāṇo mayā 'ramat</l>
+<l xml:id="Bhk_17.37-2">kṣayāvaheṣu doṣeṣu vāryamāṇo mayā 'ramat</l>
 </lg>
 
 <lg xml:id="Bhk_17.38">
@@ -7415,7 +7422,7 @@
 
 <lg xml:id="Bhk_17.46">
 <l xml:id="Bhk_17.46-1">tato raudra-samāyuktaṃ māhendraṃ lakṣmaṇo'smarat,</l>
-<l xml:id="Bhk_17.46-2">tenā''gamyata ghoreṇa, śiraś cā 'hriyata dviṣaḥ</l>
+<l xml:id="Bhk_17.46-2">tenāgamyata ghoreṇa, śiraś cā 'hriyata dviṣaḥ</l>
 </lg>
 
 <lg xml:id="Bhk_17.47">
@@ -7425,7 +7432,7 @@
 
 <lg xml:id="Bhk_17.48">
 <l xml:id="Bhk_17.48-1">arodīd rākṣasā'nīkamarodan nṛ-bhujāṃ patiḥ,</l>
-<l xml:id="Bhk_17.48-2">maithilyai cā 'śapaddhantuṃ tāṃ prākramata cā''turaḥ.</l>
+<l xml:id="Bhk_17.48-2">maithilyai cā 'śapaddhantuṃ tāṃ prākramata cāturaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_17.49">
@@ -7450,7 +7457,7 @@
 
 <lg xml:id="Bhk_17.53">
 <l xml:id="Bhk_17.53-1">yoddhāro 'bibharuḥ śāntyai sā'kṣataṃ vāri mūrdhabhiḥ,</l>
-<l xml:id="Bhk_17.53-2">ratnāni cā 'dadur gāś ca, samavāñchannathā''śiṣaḥ.</l>
+<l xml:id="Bhk_17.53-2">ratnāni cā 'dadur gāś ca, samavāñchannathāśiṣaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_17.54">
@@ -7460,7 +7467,7 @@
 
 <lg xml:id="Bhk_17.55">
 <l xml:id="Bhk_17.55-1">samakṣṇuvata śastrāṇi, prāmṛjan khaḍga-saṃhatīḥ,</l>
-<l xml:id="Bhk_17.55-2">gajā''dīni samārohan, prātiṣṭhantā ''tha satvarāḥ</l>
+<l xml:id="Bhk_17.55-2">gajādīni samārohan, prātiṣṭhantātha satvarāḥ</l>
 </lg>
 
 <lg xml:id="Bhk_17.56">
@@ -7485,7 +7492,7 @@
 
 <lg xml:id="Bhk_17.60">
 <l xml:id="Bhk_17.60-1">prāvardhata rajo bhaumaṃ, tad vyāśnuta diśo daśa,</l>
-<l xml:id="Bhk_17.60-2">parā''tmīya-vivekaṃ ca prāmuṣṇāt kapi-rakṣasām.</l>
+<l xml:id="Bhk_17.60-2">parātmīya-vivekaṃ ca prāmuṣṇāt kapi-rakṣasām.</l>
 </lg>
 
 <lg xml:id="Bhk_17.61">
@@ -7519,8 +7526,8 @@
 </lg>
 
 <lg xml:id="Bhk_17.67">
-<l xml:id="Bhk_17.67-1">daśa danti-sahasrāṇi rathināṃ ca mahā''tmanām</l>
-<l xml:id="Bhk_17.67-2">caturdaśa sahasrāṇi sā''rohāṇāṃ ca vājinām</l>
+<l xml:id="Bhk_17.67-1">daśa danti-sahasrāṇi rathināṃ ca mahātmanām</l>
+<l xml:id="Bhk_17.67-2">caturdaśa sahasrāṇi sārohāṇāṃ ca vājinām</l>
 </lg>
 
 <lg xml:id="Bhk_17.68">
@@ -7529,7 +7536,7 @@
 </lg>
 
 <lg xml:id="Bhk_17.69">
-<l xml:id="Bhk_17.69-1">yama-lokamivā'grathnād, rudrā''krīḍamivā 'karot,</l>
+<l xml:id="Bhk_17.69-1">yama-lokamivā'grathnād, rudrākrīḍamivā 'karot,</l>
 <l xml:id="Bhk_17.69-2">śailairivā 'cinod bhūmiṃ bṛhadbhī rākṣasair hataiḥ.</l>
 </lg>
 
@@ -7614,13 +7621,13 @@
 </lg>
 
 <lg xml:id="Bhk_17.86">
-<l xml:id="Bhk_17.86-1">samādhattā ''suraṃ śastraṃ rākṣasaḥ krūra-vikramaḥ,</l>
+<l xml:id="Bhk_17.86-1">samādhattāsuraṃ śastraṃ rākṣasaḥ krūra-vikramaḥ,</l>
 <l xml:id="Bhk_17.86-2">tadakṣaran mahāsarpān vyāghra-siṃhāṃś ca bhīṣaṇān.</l>
 </lg>
 
 <lg xml:id="Bhk_17.87">
 <l xml:id="Bhk_17.87-1">nyaṣedhat pāvakā'streṇa rāmas tad rākṣasas tataḥ</l>
-<l xml:id="Bhk_17.87-2">adīvyad raudramatyugraṃ, musalā''dyagalat tataḥ</l>
+<l xml:id="Bhk_17.87-2">adīvyad raudramatyugraṃ, musalādyagalat tataḥ</l>
 </lg>
 
 <lg xml:id="Bhk_17.88">
@@ -7630,7 +7637,7 @@
 
 <lg xml:id="Bhk_17.89">
 <l xml:id="Bhk_17.89-1">tatas triśirasaṃ tasya prāvṛścal lakṣmaṇo dhvajam,</l>
-<l xml:id="Bhk_17.89-2">amathnāt sārathiṃ cā''śu, bhūribhiś cā 'tudaccharaiḥ.</l>
+<l xml:id="Bhk_17.89-2">amathnāt sārathiṃ cāśu, bhūribhiś cā 'tudaccharaiḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_17.90">
@@ -7659,7 +7666,7 @@
 </lg>
 
 <lg xml:id="Bhk_17.95">
-<l xml:id="Bhk_17.95-1">udajīvat sumitrā-bhūr bhrātā ''śliṣyata tamāyatam,</l>
+<l xml:id="Bhk_17.95-1">udajīvat sumitrā-bhūr bhrātāśliṣyata tamāyatam,</l>
 <l xml:id="Bhk_17.95-2">sanyaṅ mūrdhanyupāśiṅgha- dapṛcchac ca nirāmayam</l>
 </lg>
 
@@ -7670,12 +7677,12 @@
 
 <lg xml:id="Bhk_17.97">
 <l xml:id="Bhk_17.97-1">"bhūmi-ṣṭhasyā 'samaṃ yuddhaṃ ratha-sthene"ti mātaliḥ</l>
-<l xml:id="Bhk_17.97-2">āharad rathamatyugraṃ sa-śastraṃ maghavā ''jñayā.</l>
+<l xml:id="Bhk_17.97-2">āharad rathamatyugraṃ sa-śastraṃ maghavājñayā.</l>
 </lg>
 
 <lg xml:id="Bhk_17.98">
 <l xml:id="Bhk_17.98-1">so 'dhyaṣṭhīyata rāmeṇa, śastraṃ pāśupataṃ tataḥ</l>
-<l xml:id="Bhk_17.98-2">nirāsyata daśā''syas, tacchakrā'streṇājayan nṛpaḥ.</l>
+<l xml:id="Bhk_17.98-2">nirāsyata daśāsyas, tacchakrā'streṇājayan nṛpaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_17.99">
@@ -7747,12 +7754,12 @@
 <l xml:id="Bhk_17.112-1">ābadhnan kapi-vadanāni saṃprasādaṃ, prāśaṃsat sura-samitir nṛpaṃ jitā 'rim,</l>
 <l xml:id="Bhk_17.112-2">anyeṣāṃ vigata-pariplavā digantāḥ, paulastyo'juṣata śucaṃ vipanna-bandhuḥ</l>
 </lg>
+</div>
 
-
-<p>Bhk_18</p>
+<div type="sarga" n="18">
 <lg xml:id="Bhk_18.1">
 <l xml:id="Bhk_18.1-1">vyaśnute sma tataḥ śoko nābhi-sambandha-sambhavaḥ</l>
-<l xml:id="Bhk_18.1-2">vibhīṣaṇamasāvuccai roditi sma daśā''nanam.</l>
+<l xml:id="Bhk_18.1-2">vibhīṣaṇamasāvuccai roditi sma daśānanam.</l>
 </lg>
 
 <lg xml:id="Bhk_18.2">
@@ -7782,7 +7789,7 @@
 
 <lg xml:id="Bhk_18.7">
 <l xml:id="Bhk_18.7-1">leḍhi bheṣaja-van nityaṃ yaḥ pathyāni kaṭūnyapi,</l>
-<l xml:id="Bhk_18.7-2">tadarthaṃ sevate cā ''ptān, kadācin na sa sīdati.</l>
+<l xml:id="Bhk_18.7-2">tadarthaṃ sevate cāptān, kadācin na sa sīdati.</l>
 </lg>
 
 <lg xml:id="Bhk_18.8">
@@ -7811,7 +7818,7 @@
 </lg>
 
 <lg xml:id="Bhk_18.13">
-<l xml:id="Bhk_18.13-1">yena pūta-krator mūrdhni sthīyate sma mahā''have,</l>
+<l xml:id="Bhk_18.13-1">yena pūta-krator mūrdhni sthīyate sma mahāhave,</l>
 <l xml:id="Bhk_18.13-2">tasyā'pīndrajito daivād dhvāṃkṣaiḥ śirasi līyate.</l>
 </lg>
 
@@ -7836,7 +7843,7 @@
 </lg>
 
 <lg xml:id="Bhk_18.18">
-<l xml:id="Bhk_18.18-1">tvaṃ sma vettha mahārāja ! yat smā''ha na vibhīṣanaḥ.</l>
+<l xml:id="Bhk_18.18-1">tvaṃ sma vettha mahārāja ! yat smāha na vibhīṣanaḥ.</l>
 <l xml:id="Bhk_18.18-2">purā tyajati yat kruddo māṃ nirākṛtya saṃsadi.</l>
 </lg>
 
@@ -7902,7 +7909,7 @@
 
 <lg xml:id="Bhk_18.31">
 <l xml:id="Bhk_18.31-1">nedānīṃ śakra-yakṣendrau bibhīto, na daridritaḥ,</l>
-<l xml:id="Bhk_18.31-2">na garvaṃ jahito dṛptau, na kliśnīto daśā''nana !</l>
+<l xml:id="Bhk_18.31-2">na garvaṃ jahito dṛptau, na kliśnīto daśānana !</l>
 </lg>
 
 <lg xml:id="Bhk_18.32">
@@ -7947,7 +7954,7 @@
 
 <lg xml:id="Bhk_18.40">
 <l xml:id="Bhk_18.40-1">"dātuḥ sthātur dviṣāṃ mūrdhni yaṣṭus tarpayituḥ pit n</l>
-<l xml:id="Bhk_18.40-2">yuddhā'bhagnā''vipannasya kiṃ daśā''syasya śocasi</l>
+<l xml:id="Bhk_18.40-2">yuddhā'bhagnāvipannasya kiṃ daśāsyasya śocasi</l>
 </lg>
 
 <lg xml:id="Bhk_18.41">
@@ -7960,8 +7967,9 @@
 <l xml:id="Bhk_18.42-2">dhurye vipanne tvayi rājya-bhāro majjatyanūḍhaḥ kṣaṇadā-carendra !"</l>
 </lg>
 
+</div>
 
-<p>Bhk_19</p>
+<div type="sarga" n="19">
 <lg xml:id="Bhk_19.1">
 <l xml:id="Bhk_19.1-1">apa-manyus tato vākyaṃ paulastyo rāmamuktavān</l>
 <l xml:id="Bhk_19.1-2">"a-śocyo'pi vrajannastaṃ sanābhir dunuyān na kim.</l>
@@ -7973,7 +7981,7 @@
 </lg>
 
 <lg xml:id="Bhk_19.3">
-<l xml:id="Bhk_19.3-1">kriyeraṃś ca daśā''syena yathā 'nyenā 'pi naḥ kule</l>
+<l xml:id="Bhk_19.3-1">kriyeraṃś ca daśāsyena yathā 'nyenā 'pi naḥ kule</l>
 <l xml:id="Bhk_19.3-2">devadyañco narā'hārā nyañcaśca dviṣatāṃ gaṇāḥ.</l>
 </lg>
 
@@ -8003,22 +8011,22 @@
 </lg>
 
 <lg xml:id="Bhk_19.9">
-<l xml:id="Bhk_19.9-1">muñcetā''kāśa-dhūpāṃśca, grathnīyāta srajaḥ śubhāḥ,</l>
+<l xml:id="Bhk_19.9-1">muñcetākāśa-dhūpāṃśca, grathnīyāta srajaḥ śubhāḥ,</l>
 <l xml:id="Bhk_19.9-2">ānayetā 'mitaṃ dāru karpūrā'guru-kuṅkumam.</l>
 </lg>
 
 <lg xml:id="Bhk_19.10">
 <l xml:id="Bhk_19.10-1">uhyeran yajña pātrāṇi, hriyeta ca vibhāvasuḥ,</l>
-<l xml:id="Bhk_19.10-2">bhriyeta cā''jyamṛtvigbhiḥ, kalpyeta ca samit-kuśam.</l>
+<l xml:id="Bhk_19.10-2">bhriyeta cājyamṛtvigbhiḥ, kalpyeta ca samit-kuśam.</l>
 </lg>
 
 <lg xml:id="Bhk_19.11">
-<l xml:id="Bhk_19.11-1">snānīyaiḥ snāpayetā''śu, ramyair limpeta varṇakaiḥ,</l>
-<l xml:id="Bhk_19.11-2">alaṅkuryāta ratnaiśca rāvaṇā'rhair daśā''nanam.</l>
+<l xml:id="Bhk_19.11-1">snānīyaiḥ snāpayetāśu, ramyair limpeta varṇakaiḥ,</l>
+<l xml:id="Bhk_19.11-2">alaṅkuryāta ratnaiśca rāvaṇā'rhair daśānanam.</l>
 </lg>
 
 <lg xml:id="Bhk_19.12">
-<l xml:id="Bhk_19.12-1">vāsayeta su-vāsobhyāṃ medhyābhyāṃ rākṣasā''dhipam,</l>
+<l xml:id="Bhk_19.12-1">vāsayeta su-vāsobhyāṃ medhyābhyāṃ rākṣasādhipam,</l>
 <l xml:id="Bhk_19.12-2">ṛtvik sragviṇamādadhyāt prāṅ-mūrdhānaṃ mṛgā'jine.</l>
 </lg>
 
@@ -8029,7 +8037,7 @@
 
 <lg xml:id="Bhk_19.14">
 <l xml:id="Bhk_19.14-1">gatvā 'tha te purīṃ laṅkāṃ kṛtvā sarvaṃ yathoditam</l>
-<l xml:id="Bhk_19.14-2">samīpe'ntyā''huteḥ sā'srāḥ proktavanto vibhīṣaṇam</l>
+<l xml:id="Bhk_19.14-2">samīpe'ntyāhuteḥ sā'srāḥ proktavanto vibhīṣaṇam</l>
 </lg>
 
 <lg xml:id="Bhk_19.15">
@@ -8112,10 +8120,11 @@
 <l xml:id="Bhk_19.30-2">saṃraṃsīṣṭhāḥ sura-muni-gate vartmani prājya-dharme, saṃbhutsīṣṭhāḥ su-naya-nayanair vidviṣāmīhitāni."</l>
 </lg>
 
+</div>
 
-<p>Bhk_20</p>
+<div type="sarga" n="20">
 <lg xml:id="Bhk_20.1">
-<l xml:id="Bhk_20.1-1">samupetya tataḥ sītāmuktavān pavanā''tmajaḥ</l>
+<l xml:id="Bhk_20.1-1">samupetya tataḥ sītāmuktavān pavanātmajaḥ</l>
 <l xml:id="Bhk_20.1-2">diṣṭyā vardhasva vaidehi ! hatas trailokya-kaṇṭakaḥ</l>
 </lg>
 
@@ -8125,13 +8134,13 @@
 </lg>
 
 <lg xml:id="Bhk_20.3">
-<l xml:id="Bhk_20.3-1">tṛṇhāni durā''cāraghora-rūpā''śaya-kriyāḥ,</l>
+<l xml:id="Bhk_20.3-1">tṛṇhāni durācāraghora-rūpāśaya-kriyāḥ,</l>
 <l xml:id="Bhk_20.3-2">hiṃsrā bhavatu te buddhiretās, kuru niṣṭhuram.</l>
 </lg>
 
 <lg xml:id="Bhk_20.4">
 <l xml:id="Bhk_20.4-1">paścimaṃ karavāmaitat priyaṃ devi ! vayaṃ tava,"</l>
-<l xml:id="Bhk_20.4-2">tataḥ proktavatī sītā vānaraṃ karuṇā''śayā.</l>
+<l xml:id="Bhk_20.4-2">tataḥ proktavatī sītā vānaraṃ karuṇāśayā.</l>
 </lg>
 
 <lg xml:id="Bhk_20.5">
@@ -8150,8 +8159,8 @@
 </lg>
 
 <lg xml:id="Bhk_20.8">
-<l xml:id="Bhk_20.8-1">"utsukā''nīyatāṃ devī kākutstha-kula-nandana !"</l>
-<l xml:id="Bhk_20.8-2">kṣmāṃ likhitvā viniśvasya svarā''lokya vibhīṣaṇam</l>
+<l xml:id="Bhk_20.8-1">"utsukānīyatāṃ devī kākutstha-kula-nandana !"</l>
+<l xml:id="Bhk_20.8-2">kṣmāṃ likhitvā viniśvasya svarālokya vibhīṣaṇam</l>
 </lg>
 
 <lg xml:id="Bhk_20.9">
@@ -8165,8 +8174,8 @@
 </lg>
 
 <lg xml:id="Bhk_20.11">
-<l xml:id="Bhk_20.11-1">snāhyanulimpa dhūpāya, nivassvā''vidhya ca srajam,</l>
-<l xml:id="Bhk_20.11-2">ratnānyā''muñca, saṃdīpte havir juhudhi pāvake,</l>
+<l xml:id="Bhk_20.11-1">snāhyanulimpa dhūpāya, nivassvāvidhya ca srajam,</l>
+<l xml:id="Bhk_20.11-2">ratnānyāmuñca, saṃdīpte havir juhudhi pāvake,</l>
 </lg>
 
 <lg xml:id="Bhk_20.12">
@@ -8190,7 +8199,7 @@
 </lg>
 
 <lg xml:id="Bhk_20.16">
-<l xml:id="Bhk_20.16-1">mudā saṃyuhi kākutsthaṃ, svayaṃ cā ''pnūhi sampadam,</l>
+<l xml:id="Bhk_20.16-1">mudā saṃyuhi kākutsthaṃ, svayaṃ cāpnūhi sampadam,</l>
 <l xml:id="Bhk_20.16-2">upehyūrdhvaṃ muhūrtāt tvaṃ devi ! rāghava-sannidhim.</l>
 </lg>
 
@@ -8205,8 +8214,8 @@
 </lg>
 
 <lg xml:id="Bhk_20.19">
-<l xml:id="Bhk_20.19-1">anuṣṭhāya yathā''diṣṭaṃ niyogaṃ janakā''tmajā</l>
-<l xml:id="Bhk_20.19-2">mamārūḍhavatī yānaṃ paṭṭāṃ'śuka-vṛtā''nanā.</l>
+<l xml:id="Bhk_20.19-1">anuṣṭhāya yathādiṣṭaṃ niyogaṃ janakātmajā</l>
+<l xml:id="Bhk_20.19-2">mamārūḍhavatī yānaṃ paṭṭāṃ'śuka-vṛtānanā.</l>
 </lg>
 
 <lg xml:id="Bhk_20.20">
@@ -8216,7 +8225,7 @@
 
 <lg xml:id="Bhk_20.21">
 <l xml:id="Bhk_20.21-1">prāpta-cāritrya-sandehas tatas tāmuktavān nṛpaḥ</l>
-<l xml:id="Bhk_20.21-2">icchāme-"nā ''dade sīte ! tvāmahaṃ gamyatāmataḥ".</l>
+<l xml:id="Bhk_20.21-2">icchāme-"nādade sīte ! tvāmahaṃ gamyatāmataḥ".</l>
 </lg>
 
 <lg xml:id="Bhk_20.22">
@@ -8275,8 +8284,8 @@
 </lg>
 
 <lg xml:id="Bhk_20.33">
-<l xml:id="Bhk_20.33-1">svarge vidyasva, bhuvyā''sva, bhujaṅga-nilaye bhava,</l>
-<l xml:id="Bhk_20.33-2">evaṃ vasan mamā ''kāśa ! saṃbudhyasva kṛtā'kṛtam.</l>
+<l xml:id="Bhk_20.33-1">svarge vidyasva, bhuvyāsva, bhujaṅga-nilaye bhava,</l>
+<l xml:id="Bhk_20.33-2">evaṃ vasan mamākāśa ! saṃbudhyasva kṛtā'kṛtam.</l>
 </lg>
 
 <lg xml:id="Bhk_20.34">
@@ -8285,7 +8294,7 @@
 </lg>
 
 <lg xml:id="Bhk_20.35">
-<l xml:id="Bhk_20.35-1">rāghavasya matenā 'tha lakṣmaṇenā''citāṃ citām</l>
+<l xml:id="Bhk_20.35-1">rāghavasya matenā 'tha lakṣmaṇenācitāṃ citām</l>
 <l xml:id="Bhk_20.35-2">dṛṣṭvā pradakṣiṇīkṛtya rāmaṃ pragaditā vacaḥ</l>
 </lg>
 
@@ -8296,11 +8305,12 @@
 
 <lg xml:id="Bhk_20.37">
 <l xml:id="Bhk_20.37-1">māṃ duṣṭāṃ jvalita-vapuḥ pluṣāṇa vahne ! saṃrakṣa kṣata-malināṃ suhṛd yathā vā,</l>
-<l xml:id="Bhk_20.37-2">eṣā 'haṃ kratuṣu vasor yathā ''jya-dhārā tvāṃ prāptā vidhi-vadudīrṇa-dīpti-mālam.</l>
+<l xml:id="Bhk_20.37-2">eṣā 'haṃ kratuṣu vasor yathājya-dhārā tvāṃ prāptā vidhi-vadudīrṇa-dīpti-mālam.</l>
 </lg>
 
+</div>
 
-<p>Bhk_21</p>
+<div type="sarga" n="21">
 <lg xml:id="Bhk_21.1">
 <l xml:id="Bhk_21.1-1">samutkṣipya tato vahnir maithilīṃ rāmamuktavān</l>
 <l xml:id="Bhk_21.1-2">"kākutstha ! dayitāṃ sādhvīṃ tvamāśaṅkiṣyathāḥ katham</l>
@@ -8333,7 +8343,7 @@
 
 <lg xml:id="Bhk_21.7">
 <l xml:id="Bhk_21.7-1">samapatsyata rājendra ! straiṇaṃ yadyatra cāpalam,</l>
-<l xml:id="Bhk_21.7-2">loka-pālā ihā ''yāsyaṃs tato nā 'mī kali-druhaḥ.</l>
+<l xml:id="Bhk_21.7-2">loka-pālā ihāyāsyaṃs tato nā 'mī kali-druhaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_21.8">
@@ -8343,12 +8353,12 @@
 
 <lg xml:id="Bhk_21.9">
 <l xml:id="Bhk_21.9-1">yatra yaccā 'mariṣyat strī sādhvasād doṣa-varjitā</l>
-<l xml:id="Bhk_21.9-2">tadasūyā-ratau loke tasyā vācyā ''spadaṃ mṛṣā.</l>
+<l xml:id="Bhk_21.9-2">tadasūyā-ratau loke tasyā vācyāspadaṃ mṛṣā.</l>
 </lg>
 
 <lg xml:id="Bhk_21.10">
 <l xml:id="Bhk_21.10-1">amaṃtsya bhavān yadvad tathaiva ca pitā tava</l>
-<l xml:id="Bhk_21.10-2">nā ''gamiṣyad vimāna-sthaḥ sākṣād daśaratho nṛpaḥ.</l>
+<l xml:id="Bhk_21.10-2">nāgamiṣyad vimāna-sthaḥ sākṣād daśaratho nṛpaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_21.11">
@@ -8363,7 +8373,7 @@
 
 <lg xml:id="Bhk_21.13">
 <l xml:id="Bhk_21.13-1">praṇaman brahmaṇā prokto rājakā 'dhipatis tataḥ</l>
-<l xml:id="Bhk_21.13-2">"nā, śotsyan maithilī loke, nā''cariṣyadidaṃ yadi.</l>
+<l xml:id="Bhk_21.13-2">"nā, śotsyan maithilī loke, nācariṣyadidaṃ yadi.</l>
 </lg>
 
 <lg xml:id="Bhk_21.14">
@@ -8398,11 +8408,11 @@
 
 <lg xml:id="Bhk_21.20">
 <l xml:id="Bhk_21.20-1">pretā vareṇa śakrasya prāṇantaḥ kapayas tataḥ</l>
-<l xml:id="Bhk_21.20-2">saṃjātāḥ phalinā ''namra-rociṣṇu-druma-sadravaḥ.</l>
+<l xml:id="Bhk_21.20-2">saṃjātāḥ phalinānamra-rociṣṇu-druma-sadravaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_21.21">
-<l xml:id="Bhk_21.21-1">bhramara kulā ''kulolbaṇa-sugandhi-puṣpa-tarus taruṇa-madhūka-sambhava-piśaṅgita-tuṅga-śikhaḥ</l>
+<l xml:id="Bhk_21.21-1">bhramara kulākulolbaṇa-sugandhi-puṣpa-tarus taruṇa-madhūka-sambhava-piśaṅgita-tuṅga-śikhaḥ</l>
 <l xml:id="Bhk_21.21-2">śikhara-śilā 'ntarāla-parikwxlqqpta-jalā 'vasaraḥ sa-rasa-phala-śriyaṃ sa vitatāna suvela-giriḥ.</l>
 </lg>
 
@@ -8412,19 +8422,20 @@
 </lg>
 
 <lg xml:id="Bhk_21.23">
-<l xml:id="Bhk_21.23-1">āyāntyaḥ sva-phala-bhareṇa bhaṅguratvaṃ bhṛṅgā''lī-nicaya-citā latās tarūṇām</l>
-<l xml:id="Bhk_21.23-2">sā ''modāḥ kṣiti-tala-saṃsthitā'valopyā bhokt ṇāṃ ṣramamadayaṃ na nītavatyaḥ.</l>
+<l xml:id="Bhk_21.23-1">āyāntyaḥ sva-phala-bhareṇa bhaṅguratvaṃ bhṛṅgālī-nicaya-citā latās tarūṇām</l>
+<l xml:id="Bhk_21.23-2">sāmodāḥ kṣiti-tala-saṃsthitā'valopyā bhokt ṇāṃ ṣramamadayaṃ na nītavatyaḥ.</l>
 </lg>
 
+</div>
 
-<p>Bhk_22</p>
+<div type="sarga" n="22">
 <lg xml:id="Bhk_22.1">
 <l xml:id="Bhk_22.1-1">tato rāmo hanūmantamuktavān hṛṣṭa-mānasam</l>
 <l xml:id="Bhk_22.1-2">"ayodhyāṃ śvaḥ prayātāsi kape ! bharata-pālitām.</l>
 </lg>
 
 <lg xml:id="Bhk_22.2">
-<l xml:id="Bhk_22.2-1">gādhitāse nabho bhūyaḥ sphuṭan-megha-ghaṭā''vali,</l>
+<l xml:id="Bhk_22.2-1">gādhitāse nabho bhūyaḥ sphuṭan-megha-ghaṭāvali,</l>
 <l xml:id="Bhk_22.2-2">īkṣitāse 'mbhasāṃ patyuḥ payaḥ śiśira-śīkaram.</l>
 </lg>
 
@@ -8440,7 +8451,7 @@
 
 <lg xml:id="Bhk_22.5">
 <l xml:id="Bhk_22.5-1">pratanvyaḥ komalā vindhye sahitāraḥ syadaṃ na te</l>
-<l xml:id="Bhk_22.5-2">latāḥ stabaka-śālinyo madhulehi-kulā''kulāḥ.</l>
+<l xml:id="Bhk_22.5-2">latāḥ stabaka-śālinyo madhulehi-kulākulāḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_22.6">
@@ -8454,8 +8465,8 @@
 </lg>
 
 <lg xml:id="Bhk_22.8">
-<l xml:id="Bhk_22.8-1">āptārau bhavatā ramyāvāśramau hariṇā ''kulau</l>
-<l xml:id="Bhk_22.8-2">puṇyodaka-dvijā''kīrṇau sutīkṣṇa-śarabhaṅgayoḥ</l>
+<l xml:id="Bhk_22.8-1">āptārau bhavatā ramyāvāśramau hariṇākulau</l>
+<l xml:id="Bhk_22.8-2">puṇyodaka-dvijākīrṇau sutīkṣṇa-śarabhaṅgayoḥ</l>
 </lg>
 
 <lg xml:id="Bhk_22.9">
@@ -8475,7 +8486,7 @@
 
 <lg xml:id="Bhk_22.12">
 <l xml:id="Bhk_22.12-1">tamasāyā mahā-nīla-pāṣāṇa-sadṛśa-tviṣaḥ</l>
-<l xml:id="Bhk_22.12-2">vanā 'ntāt bahu mantāse nāgarā''krīḍa-śākhinaḥ.</l>
+<l xml:id="Bhk_22.12-2">vanā 'ntāt bahu mantāse nāgarākrīḍa-śākhinaḥ.</l>
 </lg>
 
 <lg xml:id="Bhk_22.13">
@@ -8490,7 +8501,7 @@
 
 <lg xml:id="Bhk_22.15">
 <l xml:id="Bhk_22.15-1">ākhyātāsi hataṃ śatrumabhiṣiktaṃ vibhīṣaṇam,</l>
-<l xml:id="Bhk_22.15-2">sugrīvaṃ cā 'rjitaṃ mitraṃ, sarvāṃś cā''gāmukān drutam</l>
+<l xml:id="Bhk_22.15-2">sugrīvaṃ cā 'rjitaṃ mitraṃ, sarvāṃś cāgāmukān drutam</l>
 </lg>
 
 <lg xml:id="Bhk_22.16">
@@ -8509,8 +8520,8 @@
 </lg>
 
 <lg xml:id="Bhk_22.19">
-<l xml:id="Bhk_22.19-1">draṣṭāsthas tatra tisro me māt s tuṣṭa'ntarā''tmanaḥ</l>
-<l xml:id="Bhk_22.19-2">āntyantīnaṃ sakhi-tvaṃ ca prāptāstho bharatā ''śrayam.</l>
+<l xml:id="Bhk_22.19-1">draṣṭāsthas tatra tisro me māt s tuṣṭa'ntarātmanaḥ</l>
+<l xml:id="Bhk_22.19-2">āntyantīnaṃ sakhi-tvaṃ ca prāptāstho bharatāśrayam.</l>
 </lg>
 
 <lg xml:id="Bhk_22.20">
@@ -8529,8 +8540,8 @@
 </lg>
 
 <lg xml:id="Bhk_22.23">
-<l xml:id="Bhk_22.23-1">anumantāsvahe nā''vāṃ bhavantaṃ virahaṃ tvayā</l>
-<l xml:id="Bhk_22.23-2">api prāpya surendra-tvaṃ, kiṃ nu prattaṃ, tvayā ''spadam.</l>
+<l xml:id="Bhk_22.23-1">anumantāsvahe nāvāṃ bhavantaṃ virahaṃ tvayā</l>
+<l xml:id="Bhk_22.23-2">api prāpya surendra-tvaṃ, kiṃ nu prattaṃ, tvayāspadam.</l>
 </lg>
 
 <lg xml:id="Bhk_22.24">
@@ -8549,7 +8560,7 @@
 </lg>
 
 <lg xml:id="Bhk_22.27">
-<l xml:id="Bhk_22.27-1">śiñjāna-bhramara-kulā''kulā'gra-puṣpāḥ śītā-'mbhaḥ-pravilaya-saṃplavā 'bhilīnāḥ</l>
+<l xml:id="Bhk_22.27-1">śiñjāna-bhramara-kulākulā'gra-puṣpāḥ śītā-'mbhaḥ-pravilaya-saṃplavā 'bhilīnāḥ</l>
 <l xml:id="Bhk_22.27-2">ete te su-tanu ! purī-janopabhogyā dṛśyante nayana-manoramā vanā 'ntāḥ.</l>
 </lg>
 
@@ -8560,11 +8571,11 @@
 
 <lg xml:id="Bhk_22.29">
 <l xml:id="Bhk_22.29-1">tūryāṇāmatha niḥsvanena sakalaṃ lokaṃ samāpūrayan vikrāntaiḥ kariṇāṃ girīndra-sadṛśāṃ kṣmāṃ kampayan sarvataḥ</l>
-<l xml:id="Bhk_22.29-2">sā ''nandā 'śru-vilocanaḥ prakṛtibhiḥ sārdhaṃ sahā 'ntaḥ puraḥ samprāpto bharataḥ sa-mārutiralaṃ namraḥ samaṃ mātṛbhiḥ</l>
+<l xml:id="Bhk_22.29-2">sānandā 'śru-vilocanaḥ prakṛtibhiḥ sārdhaṃ sahā 'ntaḥ puraḥ samprāpto bharataḥ sa-mārutiralaṃ namraḥ samaṃ mātṛbhiḥ</l>
 </lg>
 
 <lg xml:id="Bhk_22.30">
-<l xml:id="Bhk_22.30-1">atha sa-sambhrama-paura-janā ''vṛto bharata-pāṇi-dhṛtojjvala-cāmaraḥ</l>
+<l xml:id="Bhk_22.30-1">atha sa-sambhrama-paura-janāvṛto bharata-pāṇi-dhṛtojjvala-cāmaraḥ</l>
 <l xml:id="Bhk_22.30-2">guru-jana-dvija-bandyabhinanditaḥ praviśati sma puraṃ raghu-nandanaḥ.</l>
 </lg>
 
@@ -8592,7 +8603,7 @@
 <l xml:id="Bhk_22.35-1">kāvyamidaṃ vihitaṃ mayā valabhyāṃ śrīdharasena-nerandra-pālitāyām,</l>
 <l xml:id="Bhk_22.35-2">kīrtirato bhavatān nṛpasya, tasya prema-karaḥ kṣiti-po yataḥ prajānām.</l>
 </lg>
-
+</div>
 
   </body>
 </text>
