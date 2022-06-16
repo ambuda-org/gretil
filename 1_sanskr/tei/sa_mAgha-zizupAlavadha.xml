@@ -318,8 +318,6 @@
 <text xml:lang="sa-Latn">
   <body>
 
-<p>Māgha: Śiśupālavadha</p>
-
 <div type="sarga" n="1">
 <lg>
 <l>śriyaḥ pati śrīmati śāsituṃ jagajjagannivāso vasudevasadmani /</l>
@@ -1184,8 +1182,10 @@
 <l>kārmukeṇevaguṇinā bāṇaḥ saṃdhānameṣyati // 97 //</l>
 </lg>
 
-<p>ye cānye kālayavanaśālvarukmidrumādayaḥ /
-tamaḥsvabhāvaste/pyenaṃ pradoṣamanuyāyinaḥ // 98 //</p>
+<lg>
+<l>ye cānye kālayavanaśālvarukmidrumādayaḥ /</l>
+<l>tamaḥsvabhāvaste/pyenaṃ pradoṣamanuyāyinaḥ // 98 //</l>
+</lg>
 
 <lg>
 <l>upajāpaḥ kṛtastena tānākopavatastvayi /</l>
