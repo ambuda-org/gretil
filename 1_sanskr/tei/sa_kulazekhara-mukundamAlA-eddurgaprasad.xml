@@ -310,7 +310,9 @@
 <text xml:lang="sa-Latn">
   <body>
 
-<p>śrīkulaśekharanṛpativiracitā mukundamālā</p>
+<div>
+
+<head>śrīkulaśekharanṛpativiracitā mukundamālā</head>
 
 <lg xml:id="KMuk.1">
 <l>vande mukundamaravindadalāyatākṣaṃ</l>
@@ -384,54 +386,54 @@
 <l>tṛṣṇātoye madanapavanoddhūtamohormimāle</l>
 <l>dārāvarte sahajatanayagrāhasaṃghākule ca /</l>
 <l>saṃsārākhye mahati jaladhau majjatāṃ nastridhāman</l>
-<l>pādāmbhoje varada bhavato bhaktināve prasīda //</l>
+<l>pādāmbhoje varada bhavato bhaktināve prasīda // 11 //</l>
 </lg>
 
 <lg xml:id="KMuk.12">
 <l>pṛthvīreṇuraṇuḥ payāṃsi kaṇikāḥ phalguḥ sphuliṅgo laghus-</l>
 <l>tejo niḥśvasanaṃ maruttanutaraṃ randhraṃ susūkṣmaṃ nabhaḥ /</l>
 <l>kṣudrā rudrapitāmahaprabhṛtayaḥ kīṭāḥ samastāḥ surā</l>
-<l>dṛṣṭe yatra sa tāvako vijayate bhūmāvadhūtāvadhiḥ //</l>
+<l>dṛṣṭe yatra sa tāvako vijayate bhūmāvadhūtāvadhiḥ // 12 //</l>
 </lg>
 
 <lg xml:id="KMuk.13">
 <l>āmnāyābhyasanānyaraṇyaruditaṃ kṛcchravratānyanvahaṃ</l>
 <l>medaśchedapadāni pūrtavidhayaḥ sarve hutaṃ bhasmani /</l>
 <l>tīrthānāmavagāhanāni ca gajasnānaṃ vinā yatpada-</l>
-<l>dvandvāmbhoruhasaṃstutiṃ vijayate devaḥ sa nārāyaṇaḥ //</l>
+<l>dvandvāmbhoruhasaṃstutiṃ vijayate devaḥ sa nārāyaṇaḥ // 13 //</l>
 </lg>
 
 <lg xml:id="KMuk.14">
 <l>ānanda govinda mukunda rāma nārāyaṇānanta nirāmayeti /</l>
-<l>vaktuṃ samartho 'pi na vakti kaścidaho janānāṃ vyasanāni mokṣe //</l>
+<l>vaktuṃ samartho 'pi na vakti kaścidaho janānāṃ vyasanāni mokṣe // 14 //</l>
 <!-- Would split after "kaścid" but…-->
 </lg>
 
 <lg xml:id="KMuk.15">
 <!-- Hard to split śīkarāsāra -->
 <l>kṣīrasāgarataraṅgaśīkarāsāratārakitacārumūrtaye /</l>
-<l>bhogibhogaśayanīyaśāyine mādhavāya madhuvidviṣe namaḥ //</l>
+<l>bhogibhogaśayanīyaśāyine mādhavāya madhuvidviṣe namaḥ // 15 //</l>
 </lg>
 
 <lg xml:id="KMuk.16">
 <l>vātsalyādabhayapradānasamayādārtārtinirvāpaṇād-</l>
 <l>audāryādaghaśoṣaṇādagaṇitaśreyaḥpadaprāpaṇāt /</l>
 <l>sevyaḥ śrīpatireva sarvajagatāmekāntataḥ sākṣiṇaḥ</l>
-<l>prahlādaśca vibhīṣaṇaśca karirāṭ pāñcālyahalyā dhruvaḥ //</l>
+<l>prahlādaśca vibhīṣaṇaśca karirāṭ pāñcālyahalyā dhruvaḥ // 16 //</l>
 </lg>
 
 <lg xml:id="KMuk.17">
 <l>nāthe śrīpuruṣottame trijagatāmekādhipe cetasā</l>
 <l>sevye svasya padasya dātari pare nārāyaṇe tiṣṭhati /</l>
 <l>yaṃ kaṃcitpuruṣādhamaṃ katipayagrāmeśamalpārthadaṃ</l> <!-- Corrected: Removed "da" -->
-<l>sevāyai mṛgayāmahe naramaho mūḍhā varākā vayam //</l>
+<l>sevāyai mṛgayāmahe naramaho mūḍhā varākā vayam // 17 //</l>
 </lg>
 
 <lg xml:id="KMuk.18">
 <l>bho lokāḥ śṛṇuta prasūtimaraṇavyādheścikitsāmimāṃ</l>
 <l>yogajñāḥ samudāharanti munayo yāṃ yājñavalkyādayaḥ /</l>
 <l>antarjyotirameyamekamamṛtaṃ kṛṣṇākhyamāpīyatāṃ</l>
-<l>yatpītaṃ paramauṣadhaṃ vitanute nirvāṇamātyantikam //</l>
+<l>yatpītaṃ paramauṣadhaṃ vitanute nirvāṇamātyantikam // 18 //</l>
 </lg>
 
 <lg xml:id="KMuk.19">
@@ -439,19 +441,19 @@
 <l>kaṇṭhena savaragadgadena nayanenodgīrṇabāṣpāmbunā /</l>
 <l>nityaṃ tvaccaraṇāravindayugaladhyānāmṛtāsvādinām</l>
 <!-- Took the liberty of splitting here -->
-<l>asmākaṃ sarasīruhākṣa satataṃ saṃpadyatāṃ jīvitam //</l>
+<l>asmākaṃ sarasīruhākṣa satataṃ saṃpadyatāṃ jīvitam // 19 //</l>
 </lg>
 
 <lg xml:id="KMuk.20">
 <l>tattvaṃ bruvāṇāni paraṃ parasmādaho kṣarantīva sudhāṃ padāni /</l>
-<l>āvartaya prāñjalirasmi jihve nāmāni nārāyaṇagocarāṇi //</l>
+<l>āvartaya prāñjalirasmi jihve nāmāni nārāyaṇagocarāṇi // 20 //</l>
 </lg>
 
 <lg xml:id="KMuk.21">
 <l>idaṃ śarīraṃ pariṇāmapeśalaṃ</l>
 <l>patatyavaśyaṃ ślathasaṃdhi jarjaram /</l>
 <l>kimauṣadhaiḥ kliśyasi mūḍha durmate</l>
-<l>nirāmayaṃ kṛṣṇarasāyanaṃ piba //</l>
+<l>nirāmayaṃ kṛṣṇarasāyanaṃ piba // 21 //</l>
 </lg>
 
 <lg xml:id="KMuk.22">
@@ -459,94 +461,95 @@
 <l>yena prāptā vāñchitaṃ pāpino 'pi /</l>
 <!-- These are examples where an old printed book would absolutely split unhelpfully… -->
 <l>hā naḥ pūrvaṃ vākpravṛttā na tasmiṃs-</l>
-<l>tena prāptaṃ garbhavāsādiduḥkham //</l>
+<l>tena prāptaṃ garbhavāsādiduḥkham // 22 //</l>
 </lg>
 
 <lg xml:id="KMuk.23">
 <l>mā drākṣaṃ kṣīṇapuṇyānkṣaṇamapi bhavato bhaktihīnānpadābje</l>
 <l>mā śrauṣaṃ śravyabaddhaṃ tava caritamapāsyānyadākhyānajātam /</l>
 <l>mā sprākṣaṃ mādhava tvāmapi bhuvanapate cetasāpahnuvānaṃ</l>
-<l>mā bhūvaṃ tvatsaparyāvyatikararahito janmajanmāntare 'pi //</l>
+<l>mā bhūvaṃ tvatsaparyāvyatikararahito janmajanmāntare 'pi // 23 //</l>
 </lg>
 
 <lg xml:id="KMuk.24">
 <l>madana parihara sthitiṃ madīye</l>
 <l>manasi mukundapadāravindadhāmni /</l>
 <l>haranayanakṛśānunā kṛśo 'si</l>
-<l>smarasi na cakraparākramaṃ murāreḥ //</l>
+<l>smarasi na cakraparākramaṃ murāreḥ // 24 //</l>
 </lg>
 
 <lg xml:id="KMuk.25">
 <l>dārā vārākaravarasutā te 'ṅgajo 'yaṃ viriñcaḥ</l>
 <l>stotā vedastava suragaṇo bhṛtyavargaḥ prasādaḥ /</l>
 <l>muktirmadhye jagadavikalaṃ tāvake devakī te</l>
-<l>mātā mittraṃ balaripusutastattvato 'nyanna jāne //</l>
+<l>mātā mittraṃ balaripusutastattvato 'nyanna jāne // 25 //</l>
 </lg>
 
 <lg xml:id="KMuk.26">
 <l>jihve kīrtaya keśavaṃ muraripuṃ ceto bhaja śrīdharaṃ</l>
 <l>pāṇidvandva samarcayācyutakathāṃ śrotradvaya tvaṃ śruṇu /</l>
 <l>kṛṣṇaṃ lokaya locanadvaya harergacchāṅghriyugmālayaṃ</l>
-<l>jighra ghrāṇa mukundapādatulasīṃ murdhannamādhokṣajam //</l>
+<l>jighra ghrāṇa mukundapādatulasīṃ murdhannamādhokṣajam // 26 //</l>
 </lg>
 
 <lg xml:id="KMuk.27">
 <l>yatkṛṣṇapraṇipātadhūlidhavalaṃ tadvai śiraḥ syācchubhaṃ</l>
 <l>te netre tamasojjhite surucire yābhyāṃ harirdṛśyate /</l>
 <l>sā buddhirniyamairyamaiśca vimalā yā mādhavadhyāyinī</l>
-<l>sā jihvāmṛtavarṣiṇī pratipadaṃ yā stauti nārāyaṇam //</l>
+<l>sā jihvāmṛtavarṣiṇī pratipadaṃ yā stauti nārāyaṇam // 27 //</l>
 </lg>
 
 <lg xml:id="KMuk.28">
 <l>bhaktadveṣibhujaṃgagāruḍamaṇistrailokyarakṣāmaṇir-</l>
 <l>gopīlocanacātakāmbudamaṇiḥ saundaryamudrāmaṇiḥ /</l>
 <l>śrīkāntāmaṇirukmiṇīghanakucadvandvaikabhūṣāmaṇiḥ</l>
-<l>śreyo dhyeyaśikhāmṇirdiśatu no gopālacūḍāmaṇiḥ //</l>
+<l>śreyo dhyeyaśikhāmṇirdiśatu no gopālacūḍāmaṇiḥ // 28 //</l>
 </lg>
 
 <lg xml:id="KMuk.29">
 <l>śatrucchedaikamantraṃ sakalamupaniṣadvākyasaṃpūjyamantraṃ</l>
 <l>saṃsārottāramantraṃ samuditamanasāṃ saṅganiryāṇamantram /</l>
 <l>sarvaiśvaryaikamantraṃ vyasanabhujagasaṃdaṣṭasaṃtrāṇamantraṃ</l>
-<l>jihve śrīkṛṣṇamantraṃ japa japa satataṃ janmasāphalyamantram //</l>
+<l>jihve śrīkṛṣṇamantraṃ japa japa satataṃ janmasāphalyamantram // 29 //</l>
 </lg>
 
 <lg xml:id="KMuk.30">
 <l>vyāmohoddalanauṣadhaṃ munimanovṛttipravṛttyauṣadhaṃ</l>
 <l>daityānarthakarauṣadhaṃ trijagatāṃ saṃjīvanaikauṣadham /</l>
 <l>bhaktārtipraśamauṣadhaṃ bhavabhayapradhvaṃsi divyauṣadhaṃ</l>
-<l>śreyaḥprāptikarauṣadhaṃ piba manaḥ śrīkṛṣṇanāmauṣadham //</l>
+<l>śreyaḥprāptikarauṣadhaṃ piba manaḥ śrīkṛṣṇanāmauṣadham // 30 //</l>
 </lg>
 
 <lg xml:id="KMuk.31">
 <l>āścaryametaddhi manuṣyaloke</l>
 <l>sudhāṃ parityajya viṣaṃ pibanti /</l>
 <l>nāmāni nārāyaṇagocarāṇi</l>
-<l>tyaktvānyavācaḥ kuhakāḥ paṭhanti //</l>
+<l>tyaktvānyavācaḥ kuhakāḥ paṭhanti // 31 //</l>
 </lg>
 
 <lg xml:id="KMuk.32">
 <l>lāṭīnetrapuṭīpayodharaghaṭīrevātaṭīduṣkuṭī-</l>
 <l>pāṭīradrumavarṇanena kavibhirmūḍhairdinaṃ nīyate /</l>
 <l>govindeti janārdaneti jagatāṃ nātheti kṛṣṇeti ca</l>
-<l>vyāhāraiḥ samayastadekamanasāṃ puṃsāmatikrāmati //</l>
+<l>vyāhāraiḥ samayastadekamanasāṃ puṃsāmatikrāmati // 32 //</l>
 </lg>
 
 <lg xml:id="KMuk.33">
 <l>ayācyamakreyamayātayāmam-</l>
 <l>apācyamakṣayyamadurbharaṃ me /</l>
 <l>astyeva pātheyamitaḥ prayāṇe</l>
-<l>śrīkṛṣṇanāmamṛtabhāgadheyam //</l>
+<l>śrīkṛṣṇanāmamṛtabhāgadheyam // 33 //</l>
 </lg>
 
 <lg xml:id="KMuk.34">
 <l>yasya priyau śrutadharau kavilokagītau</l>
 <l>mittre dvijanmaparivāraśivāvabhūtām /</l>
 <l>tenāmbujākṣacaraṇāmbujaṣaṭpadena</l>
-<l>rājñā kṛtā stutiriyaṃ kulaśekhareṇa //</l>
+<l>rājñā kṛtā stutiriyaṃ kulaśekhareṇa // 34 //</l>
 </lg>
 
 <p>iti śrīkulaśekharanṛpativiracitā mukundamālā samāptā /</p>
+</div>
 
   </body>
 </text>
