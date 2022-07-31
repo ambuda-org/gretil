@@ -329,10 +329,8 @@
 </lg>
 
 <lg xml:id="KMuk.3">
-<l>mukunda mūrdhnā praṇipatya yāce</l>
-<l>bhavantamekāntamiyantamartham /</l>
-<l>avismṛtistvaccaraṇāravinde</l>
-<l>bhave bhave me 'sti bhavatprasādāt // 3 //</l>
+<l>mukunda mūrdhnā praṇipatya yāce  bhavantamekāntamiyantamartham /</l>
+<l>avismṛtistvaccaraṇāravinde  bhave bhave me'stu bhavatprasādāt // 3 //</l>
 </lg>
 
 <lg xml:id="KMuk.4">
@@ -355,17 +353,13 @@
 </lg>
 
 <lg xml:id="KMuk.7">
-<l>divi vā bhuvi vā mamāstu vāso</l>
-<l>narake vā narakāntake prakāmam /</l>
-<l>avadhīritaśāradāravindau</l>
-<l>caraṇau te maraṇe 'pi cintayāmi // 7 //</l>
+<l>divi vā bhuvi vā mamāstu vāso  narake vā narakāntake prakāmam /</l>
+<l>avadhīritaśāradāravindau  caraṇau te maraṇe 'pi cintayāmi // 7 //</l>
 </lg>
 
 <lg xml:id="KMuk.8">
-<l>sarasijanayane saśaṅkhacakre</l>
-<l>murabhidi mā virameha citta rantum /</l>
-<l>sukhakaramaparaṃ na jātu jāne</l>
-<l>haricaraṇasmaraṇāmṛtena tulyam // 8 //</l>
+<l>sarasijanayane saśaṅkhacakre  murabhidi mā virameha citta rantum /</l>
+<l>sukhakaramaparaṃ na jātu jāne  haricaraṇasmaraṇāmṛtena tulyam // 8 //</l>
 </lg>
 
 <lg xml:id="KMuk.9">
@@ -406,11 +400,9 @@
 <lg xml:id="KMuk.14">
 <l>ānanda govinda mukunda rāma nārāyaṇānanta nirāmayeti /</l>
 <l>vaktuṃ samartho 'pi na vakti kaścidaho janānāṃ vyasanāni mokṣe // 14 //</l>
-<!-- Would split after "kaścid" but…-->
 </lg>
 
 <lg xml:id="KMuk.15">
-<!-- Hard to split śīkarāsāra -->
 <l>kṣīrasāgarataraṅgaśīkarāsāratārakitacārumūrtaye /</l>
 <l>bhogibhogaśayanīyaśāyine mādhavāya madhuvidviṣe namaḥ // 15 //</l>
 </lg>
@@ -425,7 +417,7 @@
 <lg xml:id="KMuk.17">
 <l>nāthe śrīpuruṣottame trijagatāmekādhipe cetasā</l>
 <l>sevye svasya padasya dātari pare nārāyaṇe tiṣṭhati /</l>
-<l>yaṃ kaṃcitpuruṣādhamaṃ katipayagrāmeśamalpārthadaṃ</l> <!-- Corrected: Removed "da" -->
+<l>yaṃ kaṃcitpuruṣādhamaṃ katipayagrāmeśamalpārthadaṃ</l>
 <l>sevāyai mṛgayāmahe naramaho mūḍhā varākā vayam // 17 //</l>
 </lg>
 
@@ -439,9 +431,8 @@
 <lg xml:id="KMuk.19">
 <l>baddhenāñjalinā natena śirasā gātraiḥ saromodgamaiḥ</l>
 <l>kaṇṭhena savaragadgadena nayanenodgīrṇabāṣpāmbunā /</l>
-<l>nityaṃ tvaccaraṇāravindayugaladhyānāmṛtāsvādinām</l>
-<!-- Took the liberty of splitting here -->
-<l>asmākaṃ sarasīruhākṣa satataṃ saṃpadyatāṃ jīvitam // 19 //</l>
+<l>nityaṃ tvaccaraṇāravindayugaladhyānāmṛtāsvādinā-</l>
+<l>masmākaṃ sarasīruhākṣa satataṃ saṃpadyatāṃ jīvitam // 19 //</l>
 </lg>
 
 <lg xml:id="KMuk.20">
@@ -450,18 +441,13 @@
 </lg>
 
 <lg xml:id="KMuk.21">
-<l>idaṃ śarīraṃ pariṇāmapeśalaṃ</l>
-<l>patatyavaśyaṃ ślathasaṃdhi jarjaram /</l>
-<l>kimauṣadhaiḥ kliśyasi mūḍha durmate</l>
-<l>nirāmayaṃ kṛṣṇarasāyanaṃ piba // 21 //</l>
+<l>idaṃ śarīraṃ pariṇāmapeśalaṃ  patatyavaśyaṃ ślathasaṃdhi jarjaram /</l>
+<l>kimauṣadhaiḥ kliśyasi mūḍha durmate  nirāmayaṃ kṛṣṇarasāyanaṃ piba // 21 //</l>
 </lg>
 
 <lg xml:id="KMuk.22">
-<l>śrīmannāma procya nārāyaṇākhyaṃ</l>
-<l>yena prāptā vāñchitaṃ pāpino 'pi /</l>
-<!-- These are examples where an old printed book would absolutely split unhelpfully… -->
-<l>hā naḥ pūrvaṃ vākpravṛttā na tasmiṃs-</l>
-<l>tena prāptaṃ garbhavāsādiduḥkham // 22 //</l>
+<l>śrīmannāma procya nārāyaṇākhyaṃ  yena prāptā vāñchitaṃ pāpino 'pi /</l>
+<l>hā naḥ pūrvaṃ vākpravṛttā na tasmiṃstena prāptaṃ garbhavāsādiduḥkham // 22 //</l>
 </lg>
 
 <lg xml:id="KMuk.23">
@@ -472,10 +458,8 @@
 </lg>
 
 <lg xml:id="KMuk.24">
-<l>madana parihara sthitiṃ madīye</l>
-<l>manasi mukundapadāravindadhāmni /</l>
-<l>haranayanakṛśānunā kṛśo 'si</l>
-<l>smarasi na cakraparākramaṃ murāreḥ // 24 //</l>
+<l>madana parihara sthitiṃ madīye  manasi mukundapadāravindadhāmni /</l>
+<l>haranayanakṛśānunā kṛśo'si  smarasi na cakraparākramaṃ murāreḥ // 24 //</l>
 </lg>
 
 <lg xml:id="KMuk.25">
@@ -521,10 +505,8 @@
 </lg>
 
 <lg xml:id="KMuk.31">
-<l>āścaryametaddhi manuṣyaloke</l>
-<l>sudhāṃ parityajya viṣaṃ pibanti /</l>
-<l>nāmāni nārāyaṇagocarāṇi</l>
-<l>tyaktvānyavācaḥ kuhakāḥ paṭhanti // 31 //</l>
+<l>āścaryametaddhi manuṣyaloke  sudhāṃ parityajya viṣaṃ pibanti /</l>
+<l>nāmāni nārāyaṇagocarāṇi  tyaktvānyavācaḥ kuhakāḥ paṭhanti // 31 //</l>
 </lg>
 
 <lg xml:id="KMuk.32">
@@ -535,10 +517,8 @@
 </lg>
 
 <lg xml:id="KMuk.33">
-<l>ayācyamakreyamayātayāmam-</l>
-<l>apācyamakṣayyamadurbharaṃ me /</l>
-<l>astyeva pātheyamitaḥ prayāṇe</l>
-<l>śrīkṛṣṇanāmamṛtabhāgadheyam // 33 //</l>
+<l>ayācyamakreyamayātayāmamapācyamakṣayyamadurbharaṃ me /</l>
+<l>astyeva pātheyamitaḥ prayāṇe  śrīkṛṣṇanāmamṛtabhāgadheyam // 33 //</l>
 </lg>
 
 <lg xml:id="KMuk.34">
