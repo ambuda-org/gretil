@@ -23,6 +23,10 @@
 	 <resp>normalization and conversion to TEI-conformant markup</resp>
 	 <name>Maximilian Mehner</name>
 	</respStmt>
+	<respStmt>
+	 <resp>Add verse numbers and delete spurious verse 44x</resp>
+	 <name>Arun Prasad</name>
+	</respStmt>
   </titleStmt>
 
   <publicationStmt>
@@ -314,7 +318,7 @@
   <body>
 <lg xml:id="BiCaup.1">
 <l><seg type="pāda" n="a">adyāpi tāṃ kanakacampakadāmagaurīṃ</seg> <seg type="pāda" n="b">phullāravindavadanāṃ tanuromarājīm</seg> </l>
-<l><seg type="pāda" n="c">suptotthitāṃ madanavihvalalālasāṅgīṃ</seg> <seg type="pāda" n="d">vidyāṃ pramādaguṇitām iva cintayāmi</seg> //</l>
+<l><seg type="pāda" n="c">suptotthitāṃ madanavihvalalālasāṅgīṃ</seg> <seg type="pāda" n="d">vidyāṃ pramādaguṇitām iva cintayāmi</seg> // 1 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.1">
 <lg>
@@ -325,7 +329,7 @@
 
 <lg xml:id="BiCaup.2">
 <l><seg type="pāda" n="a">adyāpi tāṃ śaśimukhīṃ navayauvanāḍhyāṃ</seg> <seg type="pāda" n="b">pīnastanīṃ punar ahaṃ yadi gaurakāntim</seg> </l>
-<l><seg type="pāda" n="c">paśyāmi manmathaśarānalapīḍitāṅgīṃ</seg> <seg type="pāda" n="d">gātrāṇi saṃprati karomi suśītalāni</seg> //</l>
+<l><seg type="pāda" n="c">paśyāmi manmathaśarānalapīḍitāṅgīṃ</seg> <seg type="pāda" n="d">gātrāṇi saṃprati karomi suśītalāni</seg> // 2 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.2">
 <lg>
@@ -336,7 +340,7 @@
 
 <lg xml:id="BiCaup.3">
 <l><seg type="pāda" n="a">adyāpi tāṃ yadi punaḥ kamalāyatākṣīṃ</seg> <seg type="pāda" n="b">paśyāmi pīvarapayodharabhārakhinnām</seg> </l>
-<l><seg type="pāda" n="c">saṃpīḍya bāḥuyugalena pibāmi vaktram</seg> <seg type="pāda" n="d">unmattavan madhukaraḥ kamalaṃ yatheṣṭam</seg> //</l>
+<l><seg type="pāda" n="c">saṃpīḍya bāḥuyugalena pibāmi vaktram</seg> <seg type="pāda" n="d">unmattavan madhukaraḥ kamalaṃ yatheṣṭam</seg> // 3 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.3">
 <lg>
@@ -347,7 +351,7 @@
 
 <lg xml:id="BiCaup.4">
 <l><seg type="pāda" n="a">adyāpi tāṃ nidhuvanaklamaniḥsahāṅgīm</seg> <seg type="pāda" n="b">āpāṇḍugaṇḍapatitālakakuntalālim</seg> </l>
-<l><seg type="pāda" n="c">pracchannapāpakṛtamantharam āvahantīṃ</seg> <seg type="pāda" n="d">kaṇṭhāvasaktabāhulatāṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">pracchannapāpakṛtamantharam āvahantīṃ</seg> <seg type="pāda" n="d">kaṇṭhāvasaktabāhulatāṃ smarāmi</seg> // 4 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.4">
 <lg>
@@ -358,7 +362,7 @@
 
 <lg xml:id="BiCaup.5">
 <l><seg type="pāda" n="a">adyāpi tāṃ suratajāgaraghūrṇamāna</seg> <seg type="pāda" n="b">tiryagvalattaralatārakam āyatākṣīm</seg> </l>
-<l><seg type="pāda" n="c">śṛṅgārasārakamalākararājahaṃsīṃ</seg> <seg type="pāda" n="d">vrīḍāvinamravadanām uṣasi smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">śṛṅgārasārakamalākararājahaṃsīṃ</seg> <seg type="pāda" n="d">vrīḍāvinamravadanām uṣasi smarāmi</seg> // 5 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.5">
 <lg>
@@ -369,7 +373,7 @@
 
 <lg xml:id="BiCaup.6">
 <l><seg type="pāda" n="a">adyāpi tāṃ yadi punaḥ śravaṇāyatākṣīṃ</seg> <seg type="pāda" n="b">paśyāmi dīrghavirahajvaritāṅgayaṣṭim</seg> </l>
-<l><seg type="pāda" n="c">aṅgair ahaṃ samupaguhya tato 'tigāḍhaṃ</seg> <seg type="pāda" n="d">nonmīlayāmi nayane na ca tāṃ tyajāmi</seg> //</l>
+<l><seg type="pāda" n="c">aṅgair ahaṃ samupaguhya tato 'tigāḍhaṃ</seg> <seg type="pāda" n="d">nonmīlayāmi nayane na ca tāṃ tyajāmi</seg> // 6 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.6">
 <lg>
@@ -380,7 +384,7 @@
 
 <lg xml:id="BiCaup.7">
 <l><seg type="pāda" n="a">adyāpi tāṃ suratatāṇḍavasūtradhārīṃ</seg> <seg type="pāda" n="b">pūrṇendusundaramukhīṃ madavihvalāṅgīm</seg> </l>
-<l><seg type="pāda" n="c">tanvīṃ viśālajaghanastanabhāranamrāṃ</seg> <seg type="pāda" n="d">vyālolakuntalakalāpavatīṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">tanvīṃ viśālajaghanastanabhāranamrāṃ</seg> <seg type="pāda" n="d">vyālolakuntalakalāpavatīṃ smarāmi</seg> // 7 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.7">
 <lg>
@@ -391,7 +395,7 @@
 
 <lg xml:id="BiCaup.8">
 <l><seg type="pāda" n="a">adyāpi tāṃ masṛṇacandanapaṅkamiśra</seg><seg type="pāda" n="b">kastūrikāparimalotthavisarpigandhām</seg> </l>
-<l><seg type="pāda" n="c">anyonyacañcupuṭacumbanalagnapakṣma</seg> <seg type="pāda" n="d">yugmābhirāmanayanāṃ śayane smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">anyonyacañcupuṭacumbanalagnapakṣma</seg> <seg type="pāda" n="d">yugmābhirāmanayanāṃ śayane smarāmi</seg> // 8 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.8">
 <lg>
@@ -402,7 +406,7 @@
 
 <lg xml:id="BiCaup.9">
 <l><seg type="pāda" n="a">adyāpi tāṃ nidhuvane madhupānaraktām</seg> <seg type="pāda" n="b">līlādharāṃ kṛśatanuṃ capalāyatākṣīm</seg> </l>
-<l><seg type="pāda" n="c">kāśmīrapaṅkamṛganābhikṛtāṅgarāgāṃ</seg> <seg type="pāda" n="d">karpūrapūgaparipūrṇamukhīṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">kāśmīrapaṅkamṛganābhikṛtāṅgarāgāṃ</seg> <seg type="pāda" n="d">karpūrapūgaparipūrṇamukhīṃ smarāmi</seg> // 9 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.9">
 <lg>
@@ -413,7 +417,7 @@
 
 <lg xml:id="BiCaup.10">
 <l><seg type="pāda" n="a">adyāpi tat+kanakagaurakṛtāṅgarāgaṃ</seg> <seg type="pāda" n="b">prasvedabinduvitataṃ vadanaṃ priyāyāḥ</seg> </l>
-<l><seg type="pāda" n="c">ante smarāmi ratikhedavilolanetraṃ</seg> <seg type="pāda" n="d">rāhūparāgaparimuktam ivendubimbam</seg> //</l>
+<l><seg type="pāda" n="c">ante smarāmi ratikhedavilolanetraṃ</seg> <seg type="pāda" n="d">rāhūparāgaparimuktam ivendubimbam</seg> // 10 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.10">
 <lg>
@@ -424,7 +428,7 @@
 
 <lg xml:id="BiCaup.11">
 <l><seg type="pāda" n="a">adyāpi tanmanasi saṃparivartate me</seg> <seg type="pāda" n="b">rātrau mayi kṣutavati kṣitipālaputryā</seg> </l>
-<l><seg type="pāda" n="c">jīveti maṅgalavacaḥ parihṛtya kopāt</seg> <seg type="pāda" n="d">karṇe kṛtaṃ kanakapatram anālapantyā</seg> //</l>
+<l><seg type="pāda" n="c">jīveti maṅgalavacaḥ parihṛtya kopāt</seg> <seg type="pāda" n="d">karṇe kṛtaṃ kanakapatram anālapantyā</seg> // 11 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.11">
 <lg>
@@ -435,7 +439,7 @@
 
 <lg xml:id="BiCaup.12">
 <l><seg type="pāda" n="a">adyāpi tat+kanakakuṇḍalaghṛṣṭagaṇḍam</seg> <seg type="pāda" n="b">āsyaṃ smarāmi viparītaratābhiyoge</seg> </l>
-<l><seg type="pāda" n="c">āndolanaśramajalasphuṭasāndrabindu</seg> <seg type="pāda" n="d">muktāphalaprakaravicchuritaṃ priyāyāḥ</seg> //</l>
+<l><seg type="pāda" n="c">āndolanaśramajalasphuṭasāndrabindu</seg> <seg type="pāda" n="d">muktāphalaprakaravicchuritaṃ priyāyāḥ</seg> // 12 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.12">
 <lg>
@@ -446,7 +450,7 @@
 
 <lg xml:id="BiCaup.13">
 <l><seg type="pāda" n="a">adyāpi tatpraṇayabhaṅgagurudṛṣṭipātaṃ</seg> <seg type="pāda" n="b">tasyāḥ smarāmi rativibhramagātrabhaṅgam</seg> </l>
-<l><seg type="pāda" n="c">vastrāñcalaskhalatacārupayodharāntaṃ</seg> <seg type="pāda" n="d">dantacchadaṃ daśanakhaṇḍanamaṇḍanaṃ ca</seg> //</l>
+<l><seg type="pāda" n="c">vastrāñcalaskhalatacārupayodharāntaṃ</seg> <seg type="pāda" n="d">dantacchadaṃ daśanakhaṇḍanamaṇḍanaṃ ca</seg> // 13 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.13">
 <lg>
@@ -457,7 +461,7 @@
 
 <lg xml:id="BiCaup.14">
 <l><seg type="pāda" n="a">adyāpy aśokanavapallavaraktahastāṃ</seg> <seg type="pāda" n="b">muktāphalapracayacumbitacūcukāgrām</seg> </l>
-<l><seg type="pāda" n="c">antaḥ smitocchvasitapāṇḍuragaṇḍabhittiṃ</seg> <seg type="pāda" n="d">tāṃ vallabhāmalasahaṃsagatiṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">antaḥ smitocchvasitapāṇḍuragaṇḍabhittiṃ</seg> <seg type="pāda" n="d">tāṃ vallabhāmalasahaṃsagatiṃ smarāmi</seg> // 14 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.14">
 <lg>
@@ -468,7 +472,7 @@
 
 <lg xml:id="BiCaup.15">
 <l><seg type="pāda" n="a">adyāpi tat+kanakareṇughanorudeśe</seg> <seg type="pāda" n="b">nyastaṃ smarāmi nakharakṣatalakṣma tasyāḥ</seg> </l>
-<l><seg type="pāda" n="c">ākṛṣṭahemarucirāmbaram utthitāyā</seg> <seg type="pāda" n="d">lajjāvaśāt karaghṛtaṃ ca tato vrajantyāḥ</seg> //</l>
+<l><seg type="pāda" n="c">ākṛṣṭahemarucirāmbaram utthitāyā</seg> <seg type="pāda" n="d">lajjāvaśāt karaghṛtaṃ ca tato vrajantyāḥ</seg> // 15 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.15">
 <lg>
@@ -479,7 +483,7 @@
 
 <lg xml:id="BiCaup.16">
 <l><seg type="pāda" n="a">adyāpi tāṃ vidhṛtakajjalalolanetrāṃ</seg> <seg type="pāda" n="b">pṛthvīṃ prabhūtakusumākulakeśapāśām</seg> </l>
-<l><seg type="pāda" n="c">sindūrasaṃlulitamauktikadantakāntim</seg> <seg type="pāda" n="d">ābaddhahemakaṭakāṃ rahasi smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">sindūrasaṃlulitamauktikadantakāntim</seg> <seg type="pāda" n="d">ābaddhahemakaṭakāṃ rahasi smarāmi</seg> // 16 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.16">
 <lg>
@@ -490,7 +494,7 @@
 
 <lg xml:id="BiCaup.17">
 <l><seg type="pāda" n="a">adyāpi tāṃ galitabandhanakeśapāśāṃ</seg> <seg type="pāda" n="b">srastasrajaṃ smitasudhāmadhurādharauṣṭhīm</seg> </l>
-<l><seg type="pāda" n="c">pīnonnatastanayugoparicārucumban+</seg> <seg type="pāda" n="d">muktāvalīṃ rahasi loladṛśam smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">pīnonnatastanayugoparicārucumban+</seg> <seg type="pāda" n="d">muktāvalīṃ rahasi loladṛśam smarāmi</seg> // 17 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.17">
 <lg>
@@ -501,7 +505,7 @@
 
 <lg xml:id="BiCaup.18">
 <l><seg type="pāda" n="a">adyāpi tāṃ dhavalaveśmani ratnadīpa</seg> <seg type="pāda" n="b">mālāmayūkhapaṭalair dalitāndhakāre</seg> </l>
-<l><seg type="pāda" n="c">prāptodyame rahasi saṃmukhadarśanārthaṃ</seg> <seg type="pāda" n="d">lajjābhayārthanayanām anucintayāmi</seg> //</l>
+<l><seg type="pāda" n="c">prāptodyame rahasi saṃmukhadarśanārthaṃ</seg> <seg type="pāda" n="d">lajjābhayārthanayanām anucintayāmi</seg> // 18 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.18">
 <lg>
@@ -512,7 +516,7 @@
 
 <lg xml:id="BiCaup.19">
 <l><seg type="pāda" n="a">adyāpi tāṃ virahavahninipīḍitāṅgīṃ</seg> <seg type="pāda" n="b">tanvīṃ kuraṅganayanāṃ surataikapātrīm</seg> </l>
-<l><seg type="pāda" n="c">nānāvicitrakṛtamaṇḍanam āvahantīṃ tāṃ</seg> <seg type="pāda" n="d">rājahaṃsagamanāṃ sudatīṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">nānāvicitrakṛtamaṇḍanam āvahantīṃ tāṃ</seg> <seg type="pāda" n="d">rājahaṃsagamanāṃ sudatīṃ smarāmi</seg> // 19 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.19">
 <lg>
@@ -523,7 +527,7 @@
 
 <lg xml:id="BiCaup.20">
 <l><seg type="pāda" n="a">adyāpi tāṃ vihasitāṃ kucabhāranamrāṃ</seg> <seg type="pāda" n="b">muktākalāpadhavalīkṛtakaṇṭhadeśām</seg> </l>
-<l><seg type="pāda" n="c">tat+kelimandaragirau kusumāyudhasya</seg> <seg type="pāda" n="d">kāntāṃ smarāmi rucirojjvalapuṣpaketum</seg> //</l>
+<l><seg type="pāda" n="c">tat+kelimandaragirau kusumāyudhasya</seg> <seg type="pāda" n="d">kāntāṃ smarāmi rucirojjvalapuṣpaketum</seg> // 20 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.20">
 <lg>
@@ -534,7 +538,7 @@
 
 <lg xml:id="BiCaup.21">
 <l><seg type="pāda" n="a">adyāpi tāṃ cāṭuśatadurlalitocitārthaṃ</seg> <seg type="pāda" n="b">tasyāḥ smarāmi surataklamavihvalāyāḥ</seg> </l>
-<l><seg type="pāda" n="c">avyaktaniḥsvanitakātarakathyamāna</seg> <seg type="pāda" n="d">saṃkīrṇavarṇaruciraṃ vacanaṃ priyāyāḥ</seg> //</l>
+<l><seg type="pāda" n="c">avyaktaniḥsvanitakātarakathyamāna</seg> <seg type="pāda" n="d">saṃkīrṇavarṇaruciraṃ vacanaṃ priyāyāḥ</seg> // 21 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.21">
 <lg>
@@ -545,7 +549,7 @@
 
 <lg xml:id="BiCaup.22">
 <l><seg type="pāda" n="a">adyāpi tāṃ surataghūrṇanimīlitākṣīṃ</seg> <seg type="pāda" n="b">srastāṅgayaṣṭigalitāṃśukakeśapāśām</seg> </l>
-<l><seg type="pāda" n="c">śṛṅgāravāriruhakānanarājahaṃsīṃ</seg> <seg type="pāda" n="d">janmāntare 'pi nidhane 'py anucintayāmi</seg> //</l>
+<l><seg type="pāda" n="c">śṛṅgāravāriruhakānanarājahaṃsīṃ</seg> <seg type="pāda" n="d">janmāntare 'pi nidhane 'py anucintayāmi</seg> // 22 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.22">
 <lg>
@@ -556,7 +560,7 @@
 
 <lg xml:id="BiCaup.23">
 <l><seg type="pāda" n="a">adyāpi tāṃ praṇayinīṃ mṛgaśāvakākṣīṃ</seg> <seg type="pāda" n="b">pīyūṣapurṇakucakumbhayugaṃ vahantīm</seg> </l>
-<l><seg type="pāda" n="c">paśyāmy ahaṃ yadi punar divasāvasāne</seg> <seg type="pāda" n="d">svargāpavarganararājasukhaṃ tyajāmi</seg> //</l>
+<l><seg type="pāda" n="c">paśyāmy ahaṃ yadi punar divasāvasāne</seg> <seg type="pāda" n="d">svargāpavarganararājasukhaṃ tyajāmi</seg> // 23 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.23">
 <lg>
@@ -567,7 +571,7 @@
 
 <lg xml:id="BiCaup.24">
 <l><seg type="pāda" n="a">adyāpi tāṃ kṣititale varakāminīnāṃ</seg> <seg type="pāda" n="b">sarvāṅgasundaratayā prathamaikarekhām</seg> </l>
-<l><seg type="pāda" n="c">śṛṅgāranāṭakarasottamapānapātrīṃ</seg> <seg type="pāda" n="d">kāntāṃ smarāmi kusumāyudhabāṇakhinnām</seg> //</l>
+<l><seg type="pāda" n="c">śṛṅgāranāṭakarasottamapānapātrīṃ</seg> <seg type="pāda" n="d">kāntāṃ smarāmi kusumāyudhabāṇakhinnām</seg> // 24 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.24">
 <lg>
@@ -578,7 +582,7 @@
 
 <lg xml:id="BiCaup.25">
 <l><seg type="pāda" n="a">adyāpi tāṃ stimitavastram ivāṅgalagnāṃ</seg> <seg type="pāda" n="b">prauḍhapratāpamadanānalataptadeham</seg> </l>
-<l><seg type="pāda" n="c">bālām anāthaśaraṇām anukampanīyāṃ</seg> <seg type="pāda" n="d">prāṇādhikāṃ kṣaṇam ahaṃ na hi vismarāmi</seg> //</l>
+<l><seg type="pāda" n="c">bālām anāthaśaraṇām anukampanīyāṃ</seg> <seg type="pāda" n="d">prāṇādhikāṃ kṣaṇam ahaṃ na hi vismarāmi</seg> // 25 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.25">
 <lg>
@@ -589,7 +593,7 @@
 
 <lg xml:id="BiCaup.26">
 <l><seg type="pāda" n="a">adyāpi tāṃ prathamato varasundarīṇāṃ</seg> <seg type="pāda" n="b">snehaikapātraghaṭitām avanīśaputrīm</seg> </l>
-<l><seg type="pāda" n="c">haṃhojanā mama viyogahutāśano 'yaṃ</seg> <seg type="pāda" n="d">soḍhuṃ na śakyateti praticintayāmi</seg> //</l>
+<l><seg type="pāda" n="c">haṃhojanā mama viyogahutāśano 'yaṃ</seg> <seg type="pāda" n="d">soḍhuṃ na śakyateti praticintayāmi</seg> // 26 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.26">
 <lg>
@@ -600,7 +604,7 @@
 
 <lg xml:id="BiCaup.27">
 <l><seg type="pāda" n="a">adyāpi vismayakarīṃ tridaśān vihāya</seg> <seg type="pāda" n="b">buddhir balāc calati me kim ahaṃ karomi</seg> </l>
-<l><seg type="pāda" n="c">jānann api pratimuhūrtam ihāntakāle</seg> <seg type="pāda" n="d">kānteti vallabhatareti mameti dhīrā</seg> //</l>
+<l><seg type="pāda" n="c">jānann api pratimuhūrtam ihāntakāle</seg> <seg type="pāda" n="d">kānteti vallabhatareti mameti dhīrā</seg> // 27 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.27">
 <lg>
@@ -611,7 +615,7 @@
 
 <lg xml:id="BiCaup.28">
 <l><seg type="pāda" n="a">adyāpi tāṃ gamanam ity uditaṃ madīyaṃ</seg> <seg type="pāda" n="b">śrutvaiva bhīruhariṇīm iva cañcalākṣīm</seg> </l>
-<l><seg type="pāda" n="c">vācaḥ skhaladvigaladāśrujalākulākṣīṃ</seg> <seg type="pāda" n="d">saṃcintayāmi guruśokavinamravaktrām</seg> //</l>
+<l><seg type="pāda" n="c">vācaḥ skhaladvigaladāśrujalākulākṣīṃ</seg> <seg type="pāda" n="d">saṃcintayāmi guruśokavinamravaktrām</seg> // 28 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.28">
 <lg>
@@ -622,7 +626,7 @@
 
 <lg xml:id="BiCaup.29">
 <l><seg type="pāda" n="a">adyāpi tāṃ sunipuṇaṃ yatatā mayāpi</seg> <seg type="pāda" n="b">dṛṣṭaṃ na yat sadṛśatovadanaṃ kadācit</seg> </l>
-<l><seg type="pāda" n="c">saundaryanirjitarati dvijarājakānti</seg> <seg type="pāda" n="d">kāntām ihātivimalatvamahāguṇena</seg> //</l>
+<l><seg type="pāda" n="c">saundaryanirjitarati dvijarājakānti</seg> <seg type="pāda" n="d">kāntām ihātivimalatvamahāguṇena</seg> // 29 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.29">
 <lg>
@@ -633,7 +637,7 @@
 
 <lg xml:id="BiCaup.30">
 <l><seg type="pāda" n="a">adyāpi tāṃ kṣaṇaviyogaviṣopameyāṃ</seg> <seg type="pāda" n="b">saṅge punar bahutarām amṛtābhiṣekām</seg> </l>
-<l><seg type="pāda" n="c">tāṃ jīvadhāraṇakarīṃ madanātapatrām</seg> <seg type="pāda" n="d">udvattakeśanivahāṃ sudatīṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">tāṃ jīvadhāraṇakarīṃ madanātapatrām</seg> <seg type="pāda" n="d">udvattakeśanivahāṃ sudatīṃ smarāmi</seg> // 30 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.30">
 <lg>
@@ -644,7 +648,7 @@
 
 <lg xml:id="BiCaup.31">
 <l><seg type="pāda" n="a">adyāpi vāsagṛhato mayi nīyamane</seg> <seg type="pāda" n="b">durvārabhīṣaṇakarair yamadūtakalpair</seg> </l>
-<l><seg type="pāda" n="c">kiṃ kiṃ tayā bahuvidhaṃ na kṛtaṃ madarthe</seg> <seg type="pāda" n="d">vaktuṃ na pāryateti vyathate mano me</seg> //</l>
+<l><seg type="pāda" n="c">kiṃ kiṃ tayā bahuvidhaṃ na kṛtaṃ madarthe</seg> <seg type="pāda" n="d">vaktuṃ na pāryateti vyathate mano me</seg> // 31 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.31">
 <lg>
@@ -655,7 +659,7 @@
 
 <lg xml:id="BiCaup.32">
 <l><seg type="pāda" n="a">adyāpi me niśi divā hṛdayaṃ dunoti</seg> <seg type="pāda" n="b">pūrṇendusundaramukhaṃ mama vallabhāyāḥ</seg> </l>
-<l><seg type="pāda" n="c">lāvaṇyanirjitaratikṣatikāmadarpaṃ</seg> <seg type="pāda" n="d">bhūyaḥ puraḥ pratipadaṃ na vilokyate yat</seg> //</l>
+<l><seg type="pāda" n="c">lāvaṇyanirjitaratikṣatikāmadarpaṃ</seg> <seg type="pāda" n="d">bhūyaḥ puraḥ pratipadaṃ na vilokyate yat</seg> // 32 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.32">
 <lg>
@@ -666,7 +670,7 @@
 
 <lg xml:id="BiCaup.33">
 <l><seg type="pāda" n="a">adyāpi tām avahitāṃ manasācalena</seg> <seg type="pāda" n="b">saṃcintayāmi yuvatīṃ mama jīvitāśām</seg> </l>
-<l><seg type="pāda" n="c">nānyopabhuktanavayauvanabhārasārāṃ</seg> <seg type="pāda" n="d">janmāntare 'pi mama saiva gatir yathā syāt</seg> //</l>
+<l><seg type="pāda" n="c">nānyopabhuktanavayauvanabhārasārāṃ</seg> <seg type="pāda" n="d">janmāntare 'pi mama saiva gatir yathā syāt</seg> // 33 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.33">
 <lg>
@@ -677,7 +681,7 @@
 
 <lg xml:id="BiCaup.34">
 <l><seg type="pāda" n="a">adyāpi tadvadanapaṅkajagandhalubdha</seg> <seg type="pāda" n="b">bhrāmyaddvirephacayacumbitagaṇḍadeśām</seg> </l>
-<l><seg type="pāda" n="c">līlāvadhūtakarapallavakaṅkaṇānāṃ</seg> <seg type="pāda" n="d">kvāṇo vimūrcchati manaḥ sutarāṃ madīyam</seg> //</l>
+<l><seg type="pāda" n="c">līlāvadhūtakarapallavakaṅkaṇānāṃ</seg> <seg type="pāda" n="d">kvāṇo vimūrcchati manaḥ sutarāṃ madīyam</seg> // 34 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.34">
 <lg>
@@ -688,7 +692,7 @@
 
 <lg xml:id="BiCaup.35">
 <l><seg type="pāda" n="a">adyāpi tāṃ nakhapadaṃ stanamaṇḍale yad dattaṃ</seg> <seg type="pāda" n="b">mayāsyamadhupānavimohitena</seg> </l>
-<l><seg type="pāda" n="c">udbhinnaromapulakair bahubhiḥ samantāj</seg> <seg type="pāda" n="d">jāgarti rakṣati vilokayati smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">udbhinnaromapulakair bahubhiḥ samantāj</seg> <seg type="pāda" n="d">jāgarti rakṣati vilokayati smarāmi</seg> // 35 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.35">
 <lg>
@@ -699,7 +703,7 @@
 
 <lg xml:id="BiCaup.36">
 <l><seg type="pāda" n="a">adyāpi kopavimukhīkṛtagantukāmā</seg> <seg type="pāda" n="b">noktaṃ vacaḥ pratidadāti yadaiva vaktram</seg> </l>
-<l><seg type="pāda" n="c">cumbāmi roditi bhṛśaṃ patito 'smi pāde</seg> <seg type="pāda" n="d">dāsas tava priyatame bhaja maṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">cumbāmi roditi bhṛśaṃ patito 'smi pāde</seg> <seg type="pāda" n="d">dāsas tava priyatame bhaja maṃ smarāmi</seg> // 36 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.36">
 <lg>
@@ -710,7 +714,7 @@
 
 <lg xml:id="BiCaup.37">
 <l><seg type="pāda" n="a">adyāpi dhavati manaḥ kim ahaṃ karomi</seg> <seg type="pāda" n="b">sārdhaṃ sakhībhir api vāsagṛhaṃ sukānte</seg> </l>
-<l><seg type="pāda" n="c">kāntāṅgasaṃgaparihāsavicitranṛtye</seg> <seg type="pāda" n="d">krīḍābhirāmeti yātu madīyakālaḥ</seg> //</l>
+<l><seg type="pāda" n="c">kāntāṅgasaṃgaparihāsavicitranṛtye</seg> <seg type="pāda" n="d">krīḍābhirāmeti yātu madīyakālaḥ</seg> // 37 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.37">
 <lg>
@@ -721,7 +725,7 @@
 
 <lg xml:id="BiCaup.38">
 <l><seg type="pāda" n="a">adyāpi tāṃ jagati varṇayituṃ na kaś cic</seg> <seg type="pāda" n="b">chaknoty adṛṣṭasadṛśīṃ ca parigrahaṃ me</seg> </l>
-<l><seg type="pāda" n="c">dṛṣṭaṃ tayor sadṛśayor khalu yena rūpaṃ</seg> <seg type="pāda" n="d">śakto bhaved yadi saiva naro na cānyaḥ</seg> //</l>
+<l><seg type="pāda" n="c">dṛṣṭaṃ tayor sadṛśayor khalu yena rūpaṃ</seg> <seg type="pāda" n="d">śakto bhaved yadi saiva naro na cānyaḥ</seg> // 38 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.38">
 <lg>
@@ -732,7 +736,7 @@
 
 <lg xml:id="BiCaup.39">
 <l><seg type="pāda" n="a">adyāpi tāṃ na khalu vedmi kim īśapatnī</seg> <seg type="pāda" n="b">śāpaṃ gatā surapater atha kṛṣṇalakṣmī</seg> </l>
-<l><seg type="pāda" n="c">dhātraiva kiṃ nu jagataḥ parimohanāya</seg> <seg type="pāda" n="d">sā nirmitā yuvatiratnadidṛkṣayā vā</seg> //</l>
+<l><seg type="pāda" n="c">dhātraiva kiṃ nu jagataḥ parimohanāya</seg> <seg type="pāda" n="d">sā nirmitā yuvatiratnadidṛkṣayā vā</seg> // 39 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.39">
 <lg>
@@ -743,7 +747,7 @@
 
 <lg xml:id="BiCaup.40">
 <l><seg type="pāda" n="a">adyāpi tannayanakajjalam ujjvalāsyaṃ</seg> <seg type="pāda" n="b">viśrāntakarṇayugalaṃ parihāsahetor</seg> </l>
-<l><seg type="pāda" n="c">paśye tavātmani navīnapayodharābhyāṃ</seg> <seg type="pāda" n="d">kṣīṇāṃ vapur yadi vinaśyati no na doṣaḥ</seg> //</l>
+<l><seg type="pāda" n="c">paśye tavātmani navīnapayodharābhyāṃ</seg> <seg type="pāda" n="d">kṣīṇāṃ vapur yadi vinaśyati no na doṣaḥ</seg> // 40 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.40">
 <lg>
@@ -754,7 +758,7 @@
 
 <lg xml:id="BiCaup.41">
 <l><seg type="pāda" n="a">adyāpi nirmalaśaracchaśigaurakānti</seg> <seg type="pāda" n="b">ceto muner api haret kim utāsmadīyam</seg> </l>
-<l><seg type="pāda" n="c">vaktraṃ sudhāmayam ahaṃ yadi tat prapadye</seg> <seg type="pāda" n="d">cumban pibāmy avirataṃ vyadhate mano me</seg> //</l>
+<l><seg type="pāda" n="c">vaktraṃ sudhāmayam ahaṃ yadi tat prapadye</seg> <seg type="pāda" n="d">cumban pibāmy avirataṃ vyadhate mano me</seg> // 41 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.41">
 <lg>
@@ -765,7 +769,7 @@
 
 <lg xml:id="BiCaup.42">
 <l><seg type="pāda" n="a">adyāpi tat+kamalareṇusugandhagandhi</seg> <seg type="pāda" n="b">tatpremavāri makaradhvajapātakāri</seg> </l>
-<l><seg type="pāda" n="c">prāpnomy ahaṃ yadi punaḥ surataikatīrthaṃ</seg> <seg type="pāda" n="d">prāṇāṃs tyajāmī niyataṃ tadavāptihetor</seg> //</l>
+<l><seg type="pāda" n="c">prāpnomy ahaṃ yadi punaḥ surataikatīrthaṃ</seg> <seg type="pāda" n="d">prāṇāṃs tyajāmī niyataṃ tadavāptihetor</seg> // 42 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.42">
 <lg>
@@ -776,7 +780,7 @@
 
 <lg xml:id="BiCaup.43">
 <l><seg type="pāda" n="a">adyāpy aho jagati sundaralakṣapūrṇe</seg> <seg type="pāda" n="b">'nyānyam uttamaguṇādhikasaṃprapanne</seg> </l>
-<l><seg type="pāda" n="c">anyābhir apy upamituṃ na mayā ca śakyaṃ</seg> <seg type="pāda" n="d">rūpaṃ tadīyam iti me hṛdaye vitarkaḥ</seg> //</l>
+<l><seg type="pāda" n="c">anyābhir apy upamituṃ na mayā ca śakyaṃ</seg> <seg type="pāda" n="d">rūpaṃ tadīyam iti me hṛdaye vitarkaḥ</seg> // 43 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.43">
 <lg>
@@ -786,30 +790,19 @@
 </note>
 
 <lg xml:id="BiCaup.44">
-<l><seg type="pāda" n="a">adyāpi sā mama manastaṭinī sadāste</seg> <seg type="pāda" n="b">romāñcavīcivilasadvipulasvabhāvā%</seg> </l>
-<l><seg type="pāda" n="c">kādambakeśararuciḥ kṣatavīkṣaṇaṃ māṃ</seg> <seg type="pāda" n="d">gātraklamaṃ kathayatī priyarājahaṃsī</seg> //</l>
+<l><seg type="pāda" n="a">adyāpi sā mama manastaṭinī sadāste</seg> <seg type="pāda" n="b">romāñcavīcivilasadvipulasvabhāvā /</seg> </l>
+<l><seg type="pāda" n="c">kādambakeśararuciḥ kṣatavīkṣaṇaṃ māṃ</seg> <seg type="pāda" n="d">gātraklamaṃ kathayatī priyarājahaṃsī</seg> // 44 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.44">
 <lg>
-<l><seg type="pāda" n="a">adya api sā mama manas-taṭinī sadā āste</seg> <seg type="pāda" n="b">romāñca-vīci-vilasad-vipula-svabhāvā%</seg> </l>
+<l><seg type="pāda" n="a">adya api sā mama manas-taṭinī sadā āste</seg> <seg type="pāda" n="b">romāñca-vīci-vilasad-vipula-svabhāvā /</seg> </l>
 <l><seg type="pāda" n="c">kādamba-keśara-ruciḥ kṣata-vīkṣaṇaṃ māṃ</seg> <seg type="pāda" n="d">gātra-klamaṃ kathayatī priya-rāja-haṃsī</seg> //</l>
-</lg>
-</note>
-
-<lg xml:id="BiCaup.44x" n="BiCaup.44*">
-<l><seg type="pāda" n="a">adyāpi sā hi navayauvanasundarāṅgī</seg> <seg type="pāda" n="b">romāñcavīcivilasaccapalāṅgayaṣṭiḥ</seg> </l>
-<l><seg type="pāda" n="c">matsvāntasārasacaladvirahoccapaṃkāt+</seg> <seg type="pāda" n="d">kim+cidgamaṃ prathayati priyarājahaṃsī</seg> //</l>
-</lg>
-<note type="analysis" corresp="#BiCaup.44x">
-<lg n="BiCaup.44*">
-<l><seg type="pāda" n="a">adya api sā hi nava-yauvana-sundara-aṅgī</seg> <seg type="pāda" n="b">roma-añca-vīci-vilasac-capala-aṅga-yaṣṭiḥ</seg> </l>
-<l><seg type="pāda" n="c">mat-svānta-sārasa-calad-viraha-ucca-paṃkāt+</seg> <seg type="pāda" n="d">kim+cid-gamaṃ prathayati priya-rāja-haṃsī</seg> //</l>
 </lg>
 </note>
 
 <lg xml:id="BiCaup.45">
 <l><seg type="pāda" n="a">adyāpi tāṃ nṛpatī śekhararājaputrīṃ</seg> <seg type="pāda" n="b">saṃpūrṇayauvanamadālasaghūrṇanetrīm</seg> </l>
-<l><seg type="pāda" n="c">gandharvayakṣasurakiṃnaranāgakanyāṃ</seg> <seg type="pāda" n="d">svargād aho nipatitām iva cintayāmi</seg> //</l>
+<l><seg type="pāda" n="c">gandharvayakṣasurakiṃnaranāgakanyāṃ</seg> <seg type="pāda" n="d">svargād aho nipatitām iva cintayāmi</seg> // 45 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.45">
 <lg>
@@ -819,19 +812,19 @@
 </note>
 
 <lg xml:id="BiCaup.46">
-<l><seg type="pāda" n="a">adyāpi tāṃ nijavapuḥ+kṛśavedimadhyām</seg> <seg type="pāda" n="b">uttuṃgasaṃbhṛtasudhāstanakumbhayugmām</seg> </l>
-<l><seg type="pāda" n="c">nānāvicitrakṛtamaṇḍamaṇḍitāṅgī</seg> <seg type="pāda" n="d">suptotthitāṃ niśi divā na hi vismarāmi</seg> //</l>
+<l><seg type="pāda" n="a">adyāpi tāṃ nijavapuḥkṛśavedimadhyām</seg> <seg type="pāda" n="b">uttuṃgasaṃbhṛtasudhāstanakumbhayugmām</seg> </l>
+<l><seg type="pāda" n="c">nānāvicitrakṛtamaṇḍamaṇḍitāṅgī</seg> <seg type="pāda" n="d">suptotthitāṃ niśi divā na hi vismarāmi</seg> // 46 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.46">
 <lg>
-<l><seg type="pāda" n="a">adya api tāṃ nija-vapuḥ+kṛśa-vedi-madhyām</seg> <seg type="pāda" n="b">uttuṃga-saṃbhṛta-sudhā-stana-kumbha-yugmām</seg> </l>
+<l><seg type="pāda" n="a">adya api tāṃ nija-vapuḥ-kṛśa-vedi-madhyām</seg> <seg type="pāda" n="b">uttuṃga-saṃbhṛta-sudhā-stana-kumbha-yugmām</seg> </l>
 <l><seg type="pāda" n="c">nānā-vicitra-kṛta-maṇḍa-maṇḍita-aṅgī</seg> <seg type="pāda" n="d">supta-utthitāṃ niśi divā na hi vismarāmi</seg> //</l>
 </lg>
 </note>
 
 <lg xml:id="BiCaup.47">
 <l><seg type="pāda" n="a">adyāpi tāṃ kanakakāntimadālasāṅgīṃ</seg> <seg type="pāda" n="b">vrīḍotsukāṃ nipatitām iva ceṣṭamānām</seg> </l>
-<l><seg type="pāda" n="c">agāṃgasaṃgaparicumbanajātamohāṃ</seg> <seg type="pāda" n="d">tāṃ jīvanauṣadhim iva pramadāṃ smarāmi</seg> //</l>
+<l><seg type="pāda" n="c">agāṃgasaṃgaparicumbanajātamohāṃ</seg> <seg type="pāda" n="d">tāṃ jīvanauṣadhim iva pramadāṃ smarāmi</seg> // 47 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.47">
 <lg>
@@ -842,7 +835,7 @@
 
 <lg xml:id="BiCaup.48">
 <l><seg type="pāda" n="a">adyāpi tatsuratakelinirastrayuddhaṃ</seg> <seg type="pāda" n="b">bandhopabandhapatanotthitaśūnyahastam</seg> </l>
-<l><seg type="pāda" n="c">dantauṣṭhapīḍananakhakṣataraktasiktaṃ</seg> <seg type="pāda" n="d">tasyā smarāmi ratibandhuraniṣṭhuratvam</seg> //</l>
+<l><seg type="pāda" n="c">dantauṣṭhapīḍananakhakṣataraktasiktaṃ</seg> <seg type="pāda" n="d">tasyā smarāmi ratibandhuraniṣṭhuratvam</seg> // 48 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.48">
 <lg>
@@ -853,7 +846,7 @@
 
 <lg xml:id="BiCaup.49">
 <l><seg type="pāda" n="a">adyāpy ahaṃ varavadhūsuratopabhogaṃ</seg> <seg type="pāda" n="b">jīvāmi nānyavidhinā kṣaṇam antareṇa</seg> </l>
-<l><seg type="pāda" n="c">tad bhrātaro maraṇam eva hi duḥkha</seg> <seg type="pāda" n="d">śāntyai vijñāpayāmi bhavatas tvaritaṃ lunīdhvam</seg> //</l>
+<l><seg type="pāda" n="c">tad bhrātaro maraṇam eva hi duḥkhaśāntyai</seg> <seg type="pāda" n="d">vijñāpayāmi bhavatas tvaritaṃ lunīdhvam</seg> // 49 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.49">
 <lg>
@@ -864,7 +857,7 @@
 
 <lg xml:id="BiCaup.50">
 <l><seg type="pāda" n="a">adyāpi nojjhati haraḥ kila kālakūṭaṃ</seg> <seg type="pāda" n="b">kūrmo bibharti dharaṇīṃ khalu pṛṣṭabhāge</seg> </l>
-<l><seg type="pāda" n="c">ambhonidhir vahati duḥsahavaḍavāgnim</seg> <seg type="pāda" n="d">aṅgīkṛtaṃ sukṛtinaḥ paripālayanti</seg> //</l>
+<l><seg type="pāda" n="c">ambhonidhir vahati duḥsahavaḍavāgnim</seg> <seg type="pāda" n="d">aṅgīkṛtaṃ sukṛtinaḥ paripālayanti</seg> // 50 //</l>
 </lg>
 <note type="analysis" corresp="#BiCaup.50">
 <lg>
