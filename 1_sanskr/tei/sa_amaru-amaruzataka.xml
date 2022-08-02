@@ -23,6 +23,10 @@
 	 <resp>normalization and conversion to TEI-conformant markup</resp>
 	 <name>Maximilian Mehner</name>
 	</respStmt>
+	<respStmt>
+	 <resp>normalization to Ambuda-conformant TEI markup </resp>
+	 <name>Kiran L A</name>
+	</respStmt>
   </titleStmt>
 
   <publicationStmt>
