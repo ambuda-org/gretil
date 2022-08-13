@@ -23,6 +23,10 @@
 	 <resp>normalization and conversion to TEI-conformant markup</resp>
 	 <name>Maximilian Mehner</name>
 	</respStmt>
+	<respStmt>
+	 <resp>normalization and conversion to Ambuda conformant TEIt markup</resp>
+	 <name>Kiran L A</name>
+	</respStmt>
   </titleStmt>
 
   <publicationStmt>
@@ -309,504 +313,621 @@
 </teiHeader>
 
 <text xml:lang="sa-Latn">
+  <front>
+    <castList>
+	  <castItem>
+	    <role>sūtradhāraḥ</role>
+		<roleDesc>nāṭaka kathā nirvāhakaḥ</roleDesc>
+	  </castItem>
+	  <castItem>
+	    <role>kāñcukīyaḥ(bādarāyaṇaḥ)</role>
+		<roleDesc>dvauvārikaḥ bhṛtyaḥ</roleDesc>
+	  </castItem>
+	  <castItem>
+	    <role>duryodhanaḥ</role>
+		<roleDesc>rājā - kathāpratināyakaḥ</roleDesc>
+	  </castItem>
+	  <castItem>
+	    <role>vāsudevaḥ</role>
+		<roleDesc>pāṇḍavānām dūtaḥ - kathāmukhya nāyakaḥ</roleDesc>
+	  </castItem>
+	  <castItem>
+	    <role>sudarśanaḥ</role>
+		<roleDesc>vāsudevasya cakram</roleDesc>
+	  </castItem>
+	  <castItem>
+	    <role>sudarśanaḥ</role>
+		<roleDesc>vāsudevasya cakram</roleDesc>
+	  </castItem>
+	  <castItem>
+	    <role>dhṛtarāṣṭraḥ</role>
+		<roleDesc>duryodhanasya pitā - vāsudevānugrahakāṅkṣī</roleDesc>
+	  </castItem>
+	</castList>
+  </front>
+
   <body>
 
-<p>Stage director
-Chamberlain:
-Badarayana, a servant of Duryodhana
-Duryodhana: eldest son of Dhrtarastra
-Vasudeva: Krsna, incarnation of Visnu
-Sudarsana: Vasudeva's discus
-Dhrtarastra: king of Hastinapura</p>
+<head>>|| dūtavākyam ||</head>
 
-<p>dūtavākyam|
-nāndyante tataḥ praviśati sūtradhāraḥ|</p>
+<stage>nāndyante tataḥ praviśati sūtradhāraḥ|</stage>
 
-<p>sūtradhāraḥ
-pādaḥ pāyādupendrasya sarvalokotsavaḥ sa vaḥ|
-vyāviddho namuciryena tanutāmranakhena khe|| 1||</p>
+<sp>
+  <speaker>sūtradhāraḥ</speaker>
+  <lg xml:id="BhDv.1.1">
+  <l>pādaḥ pāyādupendrasya sarvalokotsavaḥ sa vaḥ|</l>
+  <l>vyāviddho namuciryena tanutāmranakhena khe || 1 ||</l>
+  </lg>
+  <p>evamāryamiśrān vijñāpayāmi| aye kiṃ nu khalu mayi vijñāpanavyagre śabda iva śrūyate| aṅga paśyāmi|</p>
+</sp>
 
-<p>evamāryamiśrān vijñāpayāmi| aye kiṃ nu khalu mayi vijñāpanavyagre śabda iva
-śrūyate| aṅga
-paśyāmi|</p>
+<stage>nepathye|</stage>
 
-<p>nepathye|</p>
+<p>bho bhoḥ pratihārādhikṛtāḥ| mahārājo duryodhanaḥ samājñāpayati|</p>
 
-<p>bho bhoḥ pratihārādhikṛtāḥ mahārājo duryodhanaḥ samājñāpayati|</p>
+<sp>
+  <speaker>sūtradhāraḥ</speaker>
+  <p>bhavatu vijñātam|</p>
+  <lg xml:id="BhDv.1.2">
+  <l>utpanne dhārtarāṣṭrāṇāṃ virodhe pāṇḍavaiḥ saha|</l>
+  <l>mantraśālāṃ racayati bhṛtyo duryodhanājñayā || 2 ||</l>
+  </lg>
+</sp>
 
-<p>sūtradhāraḥ</p>
+<stage>niṣkrāntaḥ|</stage>
 
-<p>bhavatu vijñātam|</p>
+<p>sthāpanā|</p>
 
-<p>utpanne dhārtarāṣṭrāṇāṃ virodhe pāṇḍavaiḥ saha|
-mantraśālāṃ racayati bhṛtyo duryodhanājñayā|| 2||</p>
+<stage>tataḥ praviśati kāñcukīyaḥ|</stage>
 
-<p>niṣkrāntaḥ| sthāpanā| tataḥ praviśati kāñcukīyaḥ| kāñcukīyaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>bho bhoḥ pratihārādhikṛtāḥ mahārājo duryodhanaḥ samājñāpayati| adya sarvapārthivaiḥ saha mantrayitumicchāmi| tadāhūyantāṃ sarve rājāna iti|</p>
+  <stage>(parikramyāvalokya)</stage>
+  <p>aye ayaṃ mahārājo duryodhana ita evābhivartate| ya eṣaḥ</p>
+  <lg xml:id="BhDv.1.3">
+  <l>śyāmo yuvā sitadukūlakṛtottarīyaḥ sacchattracāmaravaro racitāṅgarāgaḥ|</l>
+  <l>śrīmānvibhūṣaṇamaṇidyutirañjitāṅgo nakṣatramadhya iva parvagataḥ śaśāṅkaḥ || 3 ||</l>
+  </lg>
+</sp>
 
-<p>bho bhoḥ pratihārādhikṛtāḥ mahārājo duryodhanaḥ samājñāpayati| adya
-sarvapārthivaiḥ saha
-mantrayitumicchāmi| tadāhūyantāṃ sarve rājāna iti|parikramyāvalokya|aye ayaṃ
-mahārājo
-duryodhana ita evābhivartate| ya eṣaḥ</p>
+<stage>tataḥ praviśati yathānirdiṣṭo duryodhanaḥ|</stage>
 
-<p>śyāmo yuvā sitadukūlakṛtottarīyaḥ sacchattracāmaravaro racitāṅgarāgaḥ|
-śrīmānvibhūṣaṇamaṇidyutirañjitāṅgo nakṣatramadhya iva parvagataḥ śaśāṅkaḥ|| 3||</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <lg xml:id="BhDv.1.4">
+  <l>uddhūtaroṣamiva me hṛdayaṃ saharṣaṃ prāptaṃ raṇotsavamimaṃ sahasā vicintya|</l>
+  <l>icchāmi pāṇḍavabale varavāraṇānāmutkṛttadantamusalāni mukhāni kartum || 4 ||</l>
+  </lg>
+</sp>
 
-<p>tataḥ praviśati yathānirdiṣṭo duryodhanaḥ| duryodhanaḥ uddhūtaroṣamiva me
-hṛdayaṃ saharṣaṃ prāptaṃ
-raṇotsavamimaṃ sahasā vicintya| icchāmi pāṇḍavabale varavāraṇānā-
-mutkṛttadantamusalāni
-mukhāni kartum|| 4|| kāñcukīyaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>jayatu mahārājaḥ| mahārājaśāsanātsamānītaṃ sarvarājamaṇḍalam|</p>
+</sp>
 
-<p>jayatu mahārājaḥ| mahārājaśāsanātsamānītaṃ sarvarājamaṇḍalam|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>samyakkṛtam| praviśa tvamavarodhanam|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>yadājñāpayati mahārājaḥ|</p>
+  <stage>niṣkrāntaḥ|</stage>
+</sp>
 
-<p>samyakkṛtam| praviśa tvamavarodhanam|</p>
-
-<p>kāñcukīyaḥ</p>
-
-<p>yadājñāpayati mahārājaḥ|</p>
-
-<p>niṣkrāntaḥ| duryodhanaḥ</p>
-
-<p>āryau vaikarṇavarṣadevau ucyatām| asti mamaikādaśākṣauhiṇībalasamudayaḥ| asya
-kaḥ
-senāpatirbhavitumarhatīti| kimāhaturbhavantau| mahānkhalvayamarthaḥ|
-mantrayitvā vaktavyamiti|
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>āryau vaikarṇavarṣadevau ucyatām| asti mamaikādaśākṣauhiṇībalasamudayaḥ| asya kaḥ
+senāpatirbhavitumarhatīti| kimāhaturbhavantau| mahānkhalvayamarthaḥ| mantrayitvā vaktavyamiti|
 sadṛśametat| tadāgamyatāṃ mantraśālāmeva praviśāmaḥ|</p>
-
-<p>ācārya abhivādaye| praviśatu bhavānmantraśālām| pitāmaha abhivādaye| praviśatu
-bhavānmantraśālām| mātula abhivādaye| praviśatu bhavānmantraśālām| āryau
-vaikarṇavarṣadevau praviśatāṃ bhavantau| bho bhoḥ sarvakṣatriyāḥ svairaṃ
-praviśantu bhavantaḥ|
-vayasya karṇa praviśāvastāvat|</p>
-
-<p>praviśya|ācārya etatkūrmāsanam| āsyatām| pitāmaha etatsiṃhāsanam| āsyatām| mātula
-etaccarmāsanam| āsyatām| āryau vaikarṇavarṣadevau āsātāṃ bhavantau| bho bhoḥ
-sarvakṣatriyāḥ
-svairamāsatāṃ bhavantaḥ| kimiti kimiti| mahārājo nāsta iti| aho sevādharmaḥ|
-nanvayamahamāse|
-vayasya karṇa tvamapyāssva|</p>
-
-<p>upaviśya|āryau vaikarṇavarṣadevau ucyatām| asti
-mamaikādaśākṣauhiṇībalasamudayaḥ| asya kaḥ
+  <p>ācārya abhivādaye| praviśatu bhavānmantraśālām| pitāmaha abhivādaye| praviśatu
+bhavānmantraśālām| mātula abhivādaye| praviśatu bhavānmantraśālām| āryau vaikarṇavarṣadevau
+praviśatāṃ bhavantau| bho bhoḥ sarvakṣatriyāḥ svairaṃ praviśantu bhavantaḥ| vayasya karṇa
+praviśāvastāvat|</p>
+  <stage>praviśya|</stage>
+  <p>ācārya etatkūrmāsanam| āsyatām| pitāmaha etatsiṃhāsanam| āsyatām| mātula etaccarmāsanam|
+āsyatām| āryau vaikarṇavarṣadevau āsātāṃ bhavantau| bho bhoḥ sarvakṣatriyāḥ svairamāsatāṃ bhavantaḥ|
+kimiti kimiti| mahārājo nāsta iti| aho sevādharmaḥ| nanvayamahamāse| vayasya karṇa tvamapyāssva|</p>
+  <stage>upaviśya|</stage>
+  <p>āryau vaikarṇavarṣadevau ucyatām| asti mamaikādaśākṣauhiṇībalasamudayaḥ| asya kaḥ
 senāpatirbhavitumarhatīti|</p>
-
-<p>kimāhaturbhavantau| atrabhavāngāndhārarājo vakṣyatīti| bhavatu
+  <p>kimāhaturbhavantau| atrabhavāngāndhārarājo vakṣyatīti| bhavatu
 mātulenābhidhīyatām|</p>
-
-<p>kimāha mātulaḥ| atrabhavati gāṅgeye sthite ko.anyaḥ senāpatirbhavitumarhatīti|
+  <p>kimāha mātulaḥ| atrabhavati gāṅgeye sthite ko'anyaḥ senāpatirbhavitumarhatīti|
 samyagāha mātulaḥ|
 bhavatu bhavatu pitāmaha eva bhavatu| vayamapyetadabhilaṣāmaḥ|</p>
+  <lg xml:id="BhDv.1.5">
+  <l>senāninādapaṭahasvanaśaṅkhanādai- ścaṇḍānilāhatamahodadhinādakalpaiḥ|</l>
+  <l>gāṅgeyamūrdhni patitairabhiṣekatoyaiḥ sārdhaṃ patantu hṛdayāni narādhipānām|| 5 ||</l>
+  </lg>
+</sp>
 
-<p>senāninādapaṭahasvanaśaṅkhanādai- ścaṇḍānilāhatamahodadhinādakalpaiḥ|
-gāṅgeyamūrdhni
-patitairabhiṣekatoyaiḥ sārdhaṃ patantu hṛdayāni narādhipānām|| 5|| praviśya|
-kāñcukīyaḥ</p>
+<stage>praviśya|</stage>
 
-<p>jayatu mahārājaḥ| eṣa khalu pāṇḍavaskandhāvārāddautyenāgataḥ puruṣottamo
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>jayatu mahārājaḥ| eṣa khalu pāṇḍavaskandhāvārāddautyenāgataḥ puruṣottamo
 nārāyaṇaḥ|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
-
-<p>mā tāvat| bho bādarāyaṇa kiṃ kiṃ kaṃsabhṛtyo dāmodarastava puruṣottamaḥ| sa
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>mā tāvat| bho bādarāyaṇa kiṃ kiṃ kaṃsabhṛtyo dāmodarastava puruṣottamaḥ| sa
 gopālakastava
 puruṣottamaḥ| bārhadrathāpahṛtaviṣayakīrtibhogastava puruṣottamaḥ| aho
 pārthivāsannamāśritya
 bhṛtyajanasya samudācāraḥ| sagarvaṃ khalvasya vacanam| ā apadhvaṃsa|</p>
+</sp>
 
-<p>kāñcukīyaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>prasīdatu mahārājaḥ| saṃbhrameṇa samudācāro vismṛtaḥ|</p>
+  <stage>pādayoḥ patati|</stage>
+</sp>
 
-<p>prasīdatu mahārājaḥ| saṃbhrameṇa samudācāro vismṛtaḥ|pādayoḥ patati|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>saṃbhrama iti| ā manuṣyāṇāmastyeva saṃbhramaḥ| uttiṣṭhotiṣṭha|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>anugṛhīto'asmi|</p>
+</sp>
 
-<p>saṃbhrama iti| ā manuṣyāṇāmastyeva saṃbhramaḥ| uttiṣṭhotiṣṭha|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>idānīṃ prasanno'asmi| ka eṣa dūtaḥ prāptaḥ|</p>
+</sp>
 
-<p>kāñcukīyaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>dūtaḥ prāptaḥ keśavaḥ|</p>
+</sp>
 
-<p>anugṛhīto.asmi|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>idānīṃ prasanno.asmi| ka eṣa dūtaḥ prāptaḥ|</p>
-
-<p>kāñcukīyaḥ</p>
-
-<p>dūtaḥ prāptaḥ keśavaḥ|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>keśava iti| evameṣṭavyam| ayameva samudācāraḥ| bho bho rājānaḥ dautyenāgatasya
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>keśava iti| evameṣṭavyam| ayameva samudācāraḥ| bho bho rājānaḥ dautyenāgatasya
 keśavasya kiṃ
 yuktam|</p>
-
-<p>kimāhurbhavantaḥ| arghyapradānena pūjayitavyaḥ keśava iti| na me rocate|
+  <p>kimāhurbhavantaḥ| arghyapradānena pūjayitavyaḥ keśava iti| na me rocate|
 grahaṇamasyātra hitaṃ
 paśyāmi|</p>
+  <lg xml:id="BhDv.1.6">
+  <l>grahaṇamupagate tu vāsubhadre hṛtanayanā iva pāṇḍavā bhaveyuḥ|</l>
+  <l>gatimatirahiteṣu pāṇḍaveṣukṣitirakhilāpi bhavenmamāsapatnā|| 6 ||</l>
+  </lg>
 
-<p>grahaṇamupagate tu vāsubhadre hṛtanayanā iva pāṇḍavā bhaveyuḥ| gatimatirahiteṣu
-pāṇḍaveṣu
-kṣitirakhilāpi bhavenmamāsapatnā|| 6||</p>
-
-<p>api ca yo.atra keśavasya pratyutthāsyati sa mayā dvādaśasuvarṇabhāreṇa daṇḍyaḥ|
+  <p>api ca yo'atra keśavasya pratyutthāsyati sa mayā dvādaśasuvarṇabhāreṇa daṇḍyaḥ|
 tadapramattā
-bhavantu bhavantaḥ|ātmagatam|ko nu khalvidānīṃ mamāpratyutthānasyopāyaḥ| hanta
+bhavantu bhavantaḥ|<stage>ātmagatam</stage>ko nu khalvidānīṃ mamāpratyutthānasyopāyaḥ| hanta
 dṛṣṭa
-upāyaḥ|prakāśam|bādarāyaṇa ānīyatāṃ sa citrapaṭo nanu yatra
-draupadīkeśāmbarāvakarṣaṇamālikhitam|ātmagatam|tasmindṛṣṭivinyāsaṃ
+upāyaḥ|<stage>prakāśam</stage>bādarāyaṇa ānīyatāṃ sa citrapaṭo nanu yatra
+draupadīkeśāmbarāvakarṣaṇamālikhitam|<stage>ātmagatam</stage>tasmindṛṣṭivinyāsaṃ
 kurvannotthāsyāmi
 keśavasya|</p>
+</sp>
 
-<p>kāñcukīyaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>yadājñāpayati mahārājaḥ|niṣkramya praviśya|jayatu mahārājaḥ| ayaṃ sa citrapaṭaḥ|</p>
+</sp>
 
-<p>yadājñāpayati mahārājaḥ|niṣkramya praviśya|jayatu mahārājaḥ| ayaṃ sa citrapaṭaḥ|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>mamāgrataḥ prasāraya|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>yadājñāpayati mahārājaḥ|</p><stage>prasārayati|</stage>
+</sp>
 
-<p>mamāgrataḥ prasāraya|</p>
-
-<p>kāñcukīyaḥ</p>
-
-<p>yadājñāpayati mahārājaḥ|prasārayati|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>aho darśanīyo.ayaṃ citrapaṭaḥ| eṣa duḥśāsano draupadīṃ keśahaste gṛhītavān| eṣā
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>aho darśanīyo'ayaṃ citrapaṭaḥ| eṣa duḥśāsano draupadīṃ keśahaste gṛhītavān| eṣā
 khalu
 draupadī|</p>
-
-<p>duḥśāsanaparāmṛṣṭā saṃbhramotphullalocanā| rāhuvaktrāntaragatā candralekheva
-śobhate|| 7||</p>
-
-<p>eṣa durātmā bhīmaḥ sarvarājasamakṣamavamānitāṃ draupadīṃ dṛṣṭvā
+  <lg xml:id="BhDv.1.7">
+  <l>duḥśāsanaparāmṛṣṭā saṃbhramotphullalocanā|</l>
+  <l>rāhuvaktrāntaragatā candralekheva śobhate|| 7 ||</l>
+  </lg>
+  <p>eṣa durātmā bhīmaḥ sarvarājasamakṣamavamānitāṃ draupadīṃ dṛṣṭvā
 pravṛddhāmarṣaḥ
 sabhāstambhaṃ tulayati| eṣa yudhiṣṭhiraḥ</p>
-
-<p>satyadharmaghṛṇāyukto dyūtavibhraṣṭacetanaḥ| karotyapāṅgavikṣepaiḥ śāntāmarṣaṃ
-vṛkodaram|| 8||</p>
-
-<p>eṣa idānīmarjunaḥ|</p>
-
-<p>roṣākulākṣaḥ sphuritādharoṣṭhastṛṇāya matvā ripumaṇḍalaṃ tat| utsādayiṣyanniva
-sarvarājñaḥ
-śanaiḥ samākarṣati gāṇḍivajyām|| 9||</p>
-
-<p>eṣa yudhiṣṭhiro.arjunaṃ nivārayati| etau nakulasahadevau</p>
-
-<p>kṛtaparikarabandhau carmanistriṃśahastau paruṣitamukharāgau
-spaṣṭadaṣṭādharoṣṭhau|
-vigatamaraṇaśaṅkau satvaraṃ bhrātaraṃ me harimiva mṛgapotau tejasābhiprayātau||</p>
-
-<p>10||</p>
-
-<p>eṣa yudhiṣṭhiraḥ kumārāvupetya nivārayati|</p>
-
-<p>nīco.ahameva viparītamatiḥ kathaṃ vā roṣaṃ parityajatamadya nayānayajñau|
-dyūtādhikāramavamānamamṛṣyamāṇāḥ sattvādhikeṣu vacanīyaparākramāḥ syuḥ|| 11||</p>
-
-<p>iti| eṣa gāndhārarājaḥ</p>
-
-<p>akṣānkṣipansa kitavaḥ prahasansagarvaṃ saṃkocayanniva mudaṃ dviṣatāṃ
-svakīrtyā| svairāsano
-drupadarājasutāṃ rudantīṃ kākṣeṇa paśyati likhatyapi gāṃ nayajñaḥ|| 12||</p>
-
-<p>etāvācāryapitāmahau tāṃ dṛṣṭvā lajjāyamānau paṭāntāntarhitamukhau sthitau| aho
+  <lg xml:id="BhDv.1.8">
+  <l>satyadharmaghṛṇāyukto dyūtavibhraṣṭacetanaḥ|</l>
+  <l>karotyapāṅgavikṣepaiḥ śāntāmarṣaṃ vṛkodaram|| 8 ||</l>
+  </lg>	
+  <p>eṣa idānīmarjunaḥ|</p>
+  <lg xml:id="BhDv.1.9">
+  <l>roṣākulākṣaḥ sphuritādharoṣṭhastṛṇāya matvā ripumaṇḍalaṃ tat|</l>
+  <l>utsādayiṣyanniva sarvarājñaḥ śanaiḥ samākarṣati gāṇḍivajyām|| 9 ||</l>
+  </lg>
+  <p>eṣa yudhiṣṭhiro'arjunaṃ nivārayati| etau nakulasahadevau</p>
+  <lg xml:id="BhDv.1.10">
+  <l>kṛtaparikarabandhau carmanistriṃśahastau paruṣitamukharāgau spaṣṭadaṣṭādharoṣṭhau|</l>
+  <l>vigatamaraṇaśaṅkau satvaraṃ bhrātaraṃ me harimiva mṛgapotau tejasābhiprayātau|| 10 ||</l>
+  </lg>
+  <p>eṣa yudhiṣṭhiraḥ kumārāvupetya nivārayati|</p>
+  <lg xml:id="BhDv.1.11">
+  <l>nīco'ahameva viparītamatiḥ kathaṃ vā roṣaṃ parityajatamadya nayānayajñau|</l>
+  <l>dyūtādhikāramavamānamamṛṣyamāṇāḥ sattvādhikeṣu vacanīyaparākramāḥ syuḥ|| 11 ||</l>
+  </lg>
+  <p>iti| eṣa gāndhārarājaḥ</p>
+  <lg xml:id="BhDv.1.12">
+  <l>akṣānkṣipansa kitavaḥ prahasansagarvaṃ saṃkocayanniva mudaṃ dviṣatāṃ svakīrtyā|</l>
+  <l>svairāsano drupadarājasutāṃ rudantīṃ kākṣeṇa paśyati likhatyapi gāṃ nayajñaḥ|| 12 ||</l>
+  </lg>
+  <p>etāvācāryapitāmahau tāṃ dṛṣṭvā lajjāyamānau paṭāntāntarhitamukhau sthitau| aho
 asya
-varṇāḍhyatā| aho bhāvopapannatā| aho yuktalekhatā| suvyaktamālikhito.ayaṃ
+varṇāḍhyatā| aho bhāvopapannatā| aho yuktalekhatā| suvyaktamālikhito'ayaṃ
 citrapaṭaḥ|
-prīto.asmi| ko.atra|</p>
+prīto'asmi| ko'atra|</p>
+</sp>
 
-<p>kāñcukīyaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>jayatu mahārājaḥ|</p>
+</sp>
 
-<p>jayatu mahārājaḥ|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bādarāyaṇa ānīyatāṃ sa vihagavāhanamātravismito dūtaḥ|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>yadājñāpayati mahārājaḥ|</p>
+  <stage>niṣkrāntaḥ|</stage>
+</sp>
 
-<p>bādarāyaṇa ānīyatāṃ sa vihagavāhanamātravismito dūtaḥ|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>vayasya karṇa</p>
+  <lg xml:id="BhDv.1.13">
+  <l>prāptaḥ kilādya vacanādiha pāṇḍavānāṃ dautyena bhṛtya iva kṛṣṇamatiḥ sa kṛṣṇaḥ |</l>
+  <l>śrotuṃ sakhe tvamapi sajjaya karṇa karṇau nārīmṛdūni vacanāni yudhiṣṭhirasya || 13 ||</l>
+  </lg>
+  <stage>tataḥ praviśati vāsudevaḥ kāñcukīyaśca|</stage>
+</sp>
 
-<p>kāñcukīyaḥ</p>
-
-<p>yadājñāpayati mahārājaḥ|</p>
-
-<p>niṣkrāntaḥ| duryodhanaḥ</p>
-
-<p>vayasya karṇa
-prāptaḥ kilādya vacanādiha pāṇḍavānāṃ dautyena bhṛtya iva kṛṣṇamatiḥ sa kṛṣṇaḥ|
-śrotuṃ
-sakhe tvamapi sajjaya karṇa karṇau nārīmṛdūni vacanāni yudhiṣṭhirasya|| 13|| tataḥ
-praviśati
-vāsudevaḥ kāñcukīyaśca| vāsudevaḥ</p>
-
-<p>adya khalu dharmarājavacanāddhanaṃjayākṛtrimamitratayā
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>adya khalu dharmarājavacanāddhanaṃjayākṛtrimamitratayā
 cāhavadarpamanuktagrāhiṇaṃ
-suyodhanaṃ prati mayāpyanucitadautyasamayo.anuṣṭhitaḥ| atha ca</p>
+suyodhanaṃ prati mayāpyanucitadautyasamayo'anuṣṭhitaḥ| atha ca</p>
+  <lg xml:id="BhDv.1.14">
+  <l>kṛṣṇāparābhavabhuvā ripuvāhinībha- kumbhasthalīdalanatīkṣṇagadādharasya|</l>
+  <l>bhīmasya kopaśikhinā yudhi pārthapattri- caṇḍānilaiśca kuruvaṃśavanaṃ vinaṣṭam|| 14 ||</l>
+  </lg>
+  <p>idaṃ suyodhanaśibiram| iha hi</p>
+  <lg xml:id="BhDv.1.15">
+  <l>āvāsāḥ pārthivānāṃ surapurasadṛśāḥ svacchandavihitā</l>
+  <l>vistīrṇāḥ śastraśālā bahuvidhakaraṇaiḥ śastrairupacitāḥ|</l>
+  <l>heṣante mandurāsthāsturagavaraghaṭā bṛṃhanti kariṇa</l>
+  <l>aiśvaryaṃ sphītametatsvajanaparibhavādāsannavilayam|| 15 ||</l>
+  </lg>
+  <p>bhoḥ</p>
+  <lg xml:id="BhDv.1.16">
+  <l>duṣṭavādī guṇadveṣī śaṭhaḥ svajananirdayaḥ|</l>
+  <l>suyodhano hi māṃ dṛṣṭvā naiva kāryaṃ kariṣyati|| 16 ||</l>
+  </lg>
+  <p>bho bādarāyaṇa kiṃ praveṣṭavyam|</p>
+</sp>
 
-<p>kṛṣṇāparābhavabhuvā ripuvāhinībha- kumbhasthalīdalanatīkṣṇagadādharasya|
-bhīmasya
-kopaśikhinā yudhi pārthapattri- caṇḍānilaiśca kuruvaṃśavanaṃ vinaṣṭam|| 14||</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>atha kimatha kim| praveṣṭumarhati padmanābhaḥ|</p>
+</sp>
 
-<p>idaṃ suyodhanaśibiram| iha hi</p>
-
-<p>āvāsāḥ pārthivānāṃ surapurasadṛśāḥ svacchandavihitā vistīrṇāḥ śastraśālā
-bahuvidhakaraṇaiḥ śastrairupacitāḥ| heṣante mandurāsthāsturagavaraghaṭā bṛṃhanti
-kariṇa
-aiśvaryaṃ sphītametatsvajanaparibhavādāsannavilayam|| 15||</p>
-
-<p>bhoḥ</p>
-
-<p>duṣṭavādī guṇadveṣī śaṭhaḥ svajananirdayaḥ| suyodhano hi māṃ dṛṣṭvā naiva
-kāryaṃ kariṣyati||</p>
-
-<p>16||</p>
-
-<p>bho bādarāyaṇa kiṃ praveṣṭavyam|</p>
-
-<p>kāñcukīyaḥ</p>
-
-<p>atha kimatha kim| praveṣṭumarhati padmanābhaḥ|</p>
-
-<p>vāsudevaḥ</p>
-
-<p>praviśya| kathaṃ kathaṃ māṃ dṛṣṭvā saṃbhrāntāḥ sarvakṣatriyāḥ| alamalaṃ
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <stage>praviśya|</stage>
+  <p>kathaṃ kathaṃ māṃ dṛṣṭvā saṃbhrāntāḥ sarvakṣatriyāḥ| alamalaṃ
 saṃbhrameṇa|
 svairamāsatāṃ bhavantaḥ|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
-
-<p>kathaṃ kathaṃ keśavaṃ dṛṣṭvā saṃbhrāntāḥ sarvakṣatriyāḥ| alamalaṃ saṃbhrameṇa|
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>kathaṃ kathaṃ keśavaṃ dṛṣṭvā saṃbhrāntāḥ sarvakṣatriyāḥ| alamalaṃ saṃbhrameṇa|
 smaraṇīyaḥ pūrvamāśrāvito daṇḍaḥ| nanvahamājñaptā|</p>
+</sp>
 
-<p>vāsudevaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <stage>upagamya|</stage>
+  <p>bhoḥ suyodhana kimāsse|</p>
+</sp>
 
-<p>upagamya|bhoḥ suyodhana kimāsse|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <stage>āsanātpatitvātmagatam|</stage>
+  <p>suvyaktaṃ prāpta eva keśavaḥ|</p>
+  <lg xml:id="BhDv.1.17">
+  <l>utsāhena matiṃ kṛtvāpyāsīno'asmi samāhitaḥ|</l>
+  <l>keśavasya prabhāvena calito'asmyāsanādaham|| 17 ||</l>
+  </lg>
+  <p>aho bahumāyo'ayaṃ dūtaḥ|<stage>prakāśam</stage>bho dūta etadāsanamāsyatām|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
-
-<p>āsanātpatitvātmagatam|suvyaktaṃ prāpta eva keśavaḥ|</p>
-
-<p>utsāhena matiṃ kṛtvāpyāsīno.asmi samāhitaḥ| keśavasya prabhāvena
-calito.asmyāsanādaham|| 17||</p>
-
-<p>aho bahumāyo.ayaṃ dūtaḥ|prakāśam|bho dūta etadāsanamāsyatām|</p>
-
-<p>vāsudevaḥ</p>
-
-<p>ācārya āsyatāṃ| gāṅgeyapramukhā rājānaḥ svairamāsatāṃ bhavantaḥ|
-vayamapyupaviśāmaḥ|upaviśya|aho darśanīyo.ayaṃ citrapaṭaḥ| mā tāvat|
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>ācārya āsyatāṃ| gāṅgeyapramukhā rājānaḥ svairamāsatāṃ bhavantaḥ|
+vayamapyupaviśāmaḥ|<stage>upaviśya</stage>aho darśanīyo'ayaṃ citrapaṭaḥ| mā tāvat|
 draupadīkeśāmbarākarṣaṇamatrālikhitam| aho nu khalu</p>
+  <lg xml:id="BhDv.1.18">
+  <l>suyodhano'ayaṃ svajanāvamānaṃ parākramaṃ paśyati bāliśatvāt|</l>
+  <l>ko nāma loke svayamātmadoṣamudghāṭayennaṣṭaghṛṇaḥ sabhāsu|| 18 ||</l>
+  </lg>
+  <p>āḥ apanīyatāmeṣa citrapaṭaḥ|</p>
+</sp>
 
-<p>suyodhano.ayaṃ svajanāvamānaṃ parākramaṃ paśyati bāliśatvāt| ko nāma loke
-svayamātmadoṣamudghāṭayennaṣṭaghṛṇaḥ sabhāsu|| 18||</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bādarāyaṇa apanīyatāṃ kila citrapaṭaḥ|</p>
+</sp>
 
-<p>āḥ apanīyatāmeṣa citrapaṭaḥ|</p>
+<sp>
+  <speaker>kāñcukīyaḥ</speaker>
+  <p>yadājñāpayati maharājaḥ|<stage>apanayati</stage></p>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bho dūta</p>
+  <lg xml:id="BhDv.1.19">
+  <l>dharmātmajo vāyusutaśca bhīmo bhrātārjuno me tridaśendrasūnuḥ|</l>
+  <l>yamau ca tāvaśvisutau vinītau sarve sabhṛtyāḥ kuśalopapannāḥ|| 19 ||</l>
+  </lg>
+</sp>  
 
-<p>bādarāyaṇa apanīyatāṃ kila citrapaṭaḥ|</p>
-
-<p>kāñcukīyaḥ</p>
-
-<p>yadājñāpayati maharājaḥ|apanayati|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>bho dūta</p>
-
-<p>dharmātmajo vāyusutaśca bhīmo bhrātārjuno me tridaśendrasūnuḥ| yamau ca
-tāvaśvisutau vinītau
-sarve sabhṛtyāḥ kuśalopapannāḥ|| 19|| vāsudevaḥ</p>
-
-<p>sadṛśametadgāndhārīputrasya| atha kimatha kim| kuśalinaḥ sarve| bhavato rājye
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>sadṛśametadgāndhārīputrasya| atha kimatha kim| kuśalinaḥ sarve| bhavato rājye
 śarīre
 bāhyābhyantare ca kuśalamanāmayaṃ ca pṛṣṭvā vijñāpayanti yudhiṣṭhirādayaḥ
 pāṇḍavāḥ|</p>
+  <lg xml:id="BhDv.1.20">
+  <l>anubhūtaṃ mahadduḥkhaṃ saṃpūrṇaḥ samayaḥ sa ca|</l>
+  <l>asmākamapi dharmyaṃ yaddāyādyaṃ tadvibhajyatām|| 20 ||</l>
+  </lg>
+  <p>iti|</p>
+</sp>
 
-<p>anubhūtaṃ mahadduḥkhaṃ saṃpūrṇaḥ samayaḥ sa ca| asmākamapi dharmyaṃ
-yaddāyādyaṃ
-tadvibhajyatām|| 20||</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>kathaṃ kathaṃ dāyādyamiti| bhoḥ</p>
+  <lg xml:id="BhDv.1.21">
+  <l>vane pitṛvyo mṛgayāprasaṃgataḥ kṛtāparādho muniśāpamāptavān|</l>
+  <l>tadāprabhṛtyeva sa dāraniḥspṛhaḥ parātmajānāṃ pitṛtāṃ kathaṃ vrajet|| 21 ||</l>
+  </lg>
+</sp>
 
-<p>iti|</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>purāvidaṃ bhavantaṃ pṛcchāmi|</p>
+  <lg xml:id="BhDv.1.22">
+  <l>vicitravīryo viṣayī vipattiṃ kṣayeṇa yātaḥ punarambikāyām|</l>
+  <l>vyāsena jāto dhṛtarāṣṭra eva labheta rājyaṃ janakaḥ kathaṃ te|| 22 ||</l>
+  </lg>
+  <p>mā mā bhavān|</p>
+  <lg xml:id="BhDv.1.23">
+  <l>evaṃ parasparavirodhavivardhanena śīghraṃ bhavetkurukulaṃ nṛpa nāmaśeṣam|</l>
+  <l>tatkartumarhati bhavānapakṛtya roṣaṃ yattvāṃ yudhiṣṭhiramukhāḥ praṇayādbruvanti|| 23 ||</l>
+  </lg>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bho dūta na jānāti bhavānrājyavyavahāram|</p>
+  <lg xml:id="BhDv.1.24">
+  <l>rājyaṃ nāma nṛpātmajaiḥ sahṛdairjitvā ripūnbhujyate</l>
+  <l>talloke na tu yācyate na tu punardīnāya vā dīyate|</l>
+  <l>kāṅkṣā cennṛpatitvamāptumacirātkurvantu te sāhasaṃ</l>
+  <l>svairaṃ vā praviśantu śāntamatibhirjuṣṭaṃ śamāyāśramam|| 24 ||</l>
+  </lg>
+</sp>  
 
-<p>kathaṃ kathaṃ dāyādyamiti| bhoḥ</p>
+<sp>   
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhoḥ suyodhana alaṃ bandhujane paruṣamabhidhātum|</p>
+  <lg xml:id="BhDv.1.25">
+  <l>puṇyasaṃcayaprāptāmadhigamya nṛpaśriyam|</l>
+  <l>vañcayedyaḥ suhṛdbandhūnsa bhavedviphalaśramaḥ|| 25 ||</l>
+  </lg>
+</sp>
 
-<p>vane pitṛvyo mṛgayāprasaṃgataḥ kṛtāparādho muniśāpamāptavān| tadāprabhṛtyeva sa
-dāraniḥspṛhaḥ parātmajānāṃ pitṛtāṃ kathaṃ vrajet|| 21|| vāsudevaḥ</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bho dūta</p>
+  <lg xml:id="BhDv.1.26">
+  <l>syālaṃ tava gurorbhūpaṃ kaṃsaṃ na te dayā|</l>
+  <l> kathamasmākamevaṃ syātteṣu nityāpakāriṣu|| 26 ||</l>
+  </lg>
+</sp>
 
-<p>purāvidaṃ bhavantaṃ pṛcchāmi|</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>alaṃ tanmaddoṣato jñātum|</p>
+  <lg xml:id==="BhDv.1.27">
+  <l>kṛtvā putraviyogārtāṃ bahuśo jananīṃ mama|</l>
+  <l>vṛddhaṃ svapitaraṃ baddhvā hato'ayaṃ mṛtyunā svayam|| 27 ||</l>
+  </lg>
+</sp>
 
-<p>vicitravīryo viṣayī vipattiṃ kṣayeṇa yātaḥ punarambikāyām| vyāsena jāto
-dhṛtarāṣṭra eva labheta
-rājyaṃ janakaḥ kathaṃ te|| 22||</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>sarvathā vañcitastvayā kaṃsaḥ| alamātmastavena| na śauryametat| paśya|</p>
+  <lg xml:id="BhDv.1.28">
+  <l>jāmātṛnāśavyasanābhitapte roṣābhibhūte magadheśvare'atha|</l>
+  <l>palāyamānasya bhayāturasya śauryaṃ tadetatkva gataṃ tavāsīt|| 28 ||</l>
+  </lg>
+</sp>
 
-<p>mā mā bhavān|</p>
-
-<p>evaṃ parasparavirodhavivardhanena śīghraṃ bhavetkurukulaṃ nṛpa nāmaśeṣam|
-tatkartumarhati
-bhavānapakṛtya roṣaṃ yattvāṃ yudhiṣṭhiramukhāḥ praṇayādbruvanti|| 23||</p>
-
-<p>duryodhanaḥ</p>
-
-<p>bho dūta na jānāti bhavānrājyavyavahāram|</p>
-
-<p>rājyaṃ nāma nṛpātmajaiḥ sahṛdairjitvā ripūnbhujyate talloke na tu yācyate na tu
-punardīnāya vā
-dīyate| kāṅkṣā cennṛpatitvamāptumacirātkurvantu te sāhasaṃ svairaṃ vā praviśantu
-śāntamatibhirjuṣṭaṃ śamāyāśramam|| 24|| vāsudevaḥ</p>
-
-<p>bhoḥ suyodhana alaṃ bandhujane paruṣamabhidhātum|</p>
-
-<p>puṇyasaṃcayaprāptāmadhigamya nṛpaśriyam| vañcayedyaḥ suhṛdbandhūnsa
-bhavedviphalaśramaḥ|| 25|| duryodhanaḥ</p>
-
-<p>bho dūta</p>
-
-<p>syālaṃ tava gurorbhūpaṃ kaṃsaṃ na te dayā| kathamasmākamevaṃ syātteṣu
-nityāpakāriṣu|| 26||</p>
-
-<p>vāsudevaḥ</p>
-
-<p>alaṃ tanmaddoṣato jñātum|
-kṛtvā putraviyogārtāṃ bahuśo jananīṃ mama| vṛddhaṃ svapitaraṃ baddhvā hato.ayaṃ
-mṛtyunā
-svayam|| 27|| duryodhanaḥ</p>
-
-<p>sarvathā vañcitastvayā kaṃsaḥ| alamātmastavena| na śauryametat| paśya|</p>
-
-<p>jāmātṛnāśavyasanābhitapte roṣābhibhūte magadheśvare.atha| palāyamānasya
-bhayāturasya
-śauryaṃ tadetatkva gataṃ tavāsīt|| 28|| vāsudevaḥ</p>
-
-<p>bhoḥ suyodhana deśakālāvasthāpekṣitaṃ khalu śauryaṃ nayānugāminām| iha
+<sp>  
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhoḥ suyodhana deśakālāvasthāpekṣitaṃ khalu śauryaṃ nayānugāminām| iha
 tiṣṭhatu
 tāvadasmadgataḥ parihāsaḥ| svakāryamanuṣṭhīyatām|</p>
+  <lg xml:id="BhDv.1.29">
+  <l>kartavyo bhrātṛṣu sneho vismartavyā guṇetarāḥ|</l>
+  <l>saṃbandho bandhubhiḥ śreyānlokayorubhayorapi|| 29 ||</l>
+  </lg>
+</sp>
 
-<p>kartavyo bhrātṛṣu sneho vismartavyā guṇetarāḥ| saṃbandho bandhubhiḥ
-śreyānlokayorubhayorapi||</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <lg xml:id="BhDv.1.30">
+  <l>devātmajairmanuṣyāṇāṃ kathaṃ vā bandhutā bhavet|</l>
+  <l>piṣṭapeṣaṇametāvatparyāptaṃ chidyatāṃ kathā|| 30 ||</l>
+  </lg>
+</sp>
 
-<p>29|| duryodhanaḥ devātmajairmanuṣyāṇāṃ kathaṃ vā bandhutā bhavet|
-piṣṭapeṣaṇametāvatparyāptaṃ chidyatāṃ kathā|| 30|| vāsudevaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <stage>ātmagatam|</stage>
+  <lg xml:id="BhDv.1.31">
+  <l>prasādyamānaḥ sāmnāyaṃ na svabhāvaṃ vimuñcati|</l>
+  <l>hanta saṃkṣobhayāmyenaṃ vacobhiḥ paruṣākṣaraiḥ|| 31 ||</l>
+  </lg> 
+  <stage>>prakāśam</stage>
+  <p>bhoḥ suyodhana kiṃ na jānīṣe'arjunasya balaparākramam|</p>
+</sp>
 
-<p>ātmagatam|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>na jāne|</p>
+</sp>
 
-<p>prasādyamānaḥ sāmnāyaṃ na svabhāvaṃ vimuñcati| hanta saṃkṣobhayāmyenaṃ
-vacobhiḥ
-paruṣākṣaraiḥ|| 31||</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhoḥ śrūyatām|</p>
+  <lg xml:id="BhDv.1.32">
+  <l>kairātaṃ vapurāsthitaḥ paśupatiryuddhena saṃtoṣito</l>
+  <l>vahneḥ khāṇḍavamaśnataḥ sumahatī vṛṣṭiḥ śaraiśchāditā|</l>
+  <l>devendrārtikarā nivātakavacā nītāḥ kṣayaṃ līlayā</l>
+  <l>nanvekena tadā virāṭanagare bhīṣmādayo nirjitāḥ|| 32 ||</l>
+  </lg>
+  <p>api ca tavāpi pratyakṣamaparaṃ kathayāmi|</p>
+  <lg xml:id="BhDv.1.33">
+  <l>nanu tvaṃ citrasenena nīyamāno nabhastalam|</l>
+  <l>vikrośanghoṣayātrāyāṃ phalgunenaiva mokṣitaḥ|| 33 ||</l>
+  </lg>
+  <p>kiṃ bahunā|</p>
+  <lg xml:id="BhDv.1.34">
+  <l>dātumarhasi madvākyādrājyārdhaṃ dhṛtarāṣṭraja|</l>
+  <l>anyathā sāgarāntāṃ gāṃ hariṣyanti hi pāṇḍavāḥ|| 34 ||</l>
+  </lg>
+</sp>
 
-<p>prakāśam|bhoḥ suyodhana kiṃ na jānīṣe.arjunasya balaparākramam|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>kathaṃ kathaṃ| hariṣyanti hi pāṇḍavāḥ|</p>
+  <lg xml:id="BhDv.1.35">
+  <l>praharati yadi yuddhe māruto bhīmarūpī</l>
+  <l>praharati yadi sākṣātpārtharūpeṇa śakraḥ|</l>
+  <l>paruṣavacanadakṣa tvadvacobhirna dāsye</l>
+  <l>tṛṇamapi pitṛbhukte vīryagupte svarājye|| 35 ||</l>
+  </lg>
+</sp>  
 
-<p>duryodhanaḥ</p>
+<sp>  
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhoḥ kurukulakalaṅkabhūta ayaśolubdha vayaṃ kila tṛṇāntarābhibhāṣakāḥ|</p>
+</sp>
 
-<p>na jāne|</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bho gopālaka tṛṇānyabhibhāṣyo bhavān|</p>
+  <lg xml:id="BhDv.1.36">
+  <l>avadhyāṃ pramadāṃ hatvā hayaṃ govṛṣameva ca|</l>
+  <l>mallānapi sunirlajjo vaktumicchasi sādhubhiḥ|| 36 ||</l>
+  </lg>
+</sp>  
+   
+<sp>   
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhoḥ suyodhana nanu kṣipasi mām|</p>
+</sp>
 
-<p>vāsudevaḥ</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>nanu satyamevaitat|</p>
+</sp>
 
-<p>bhoḥ śrūyatām|</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>gacchāmi tāvat|</p>
+</sp>
 
-<p>kairātaṃ vapurāsthitaḥ paśupatiryuddhena saṃtoṣito vahneḥ khāṇḍavamaśnataḥ
-sumahatī vṛṣṭiḥ
-śaraiśchāditā| devendrārtikarā nivātakavacā nītāḥ kṣayaṃ līlayā nanvekena tadā
-virāṭanagare
-bhīṣmādayo nirjitāḥ|| 32||</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>gaccha gaccha paśukhuroddhatareṇurūpitāṅgo vrajameva| viphalīkṛtaḥ kālaḥ|</p>
+</sp>
 
-<p>api ca tavāpi pratyakṣamaparaṃ kathayāmi|</p>
-
-<p>nanu tvaṃ citrasenena nīyamāno nabhastalam| vikrośanghoṣayātrāyāṃ phalgunenaiva
-mokṣitaḥ|| 33||</p>
-
-<p>kiṃ bahunā|</p>
-
-<p>dātumarhasi madvākyādrājyārdhaṃ dhṛtarāṣṭraja| anyathā sāgarāntāṃ gāṃ hariṣyanti
-hi
-pāṇḍavāḥ|| 34|| duryodhanaḥ</p>
-
-<p>kathaṃ kathaṃ| hariṣyanti hi pāṇḍavāḥ|</p>
-
-<p>praharati yadi yuddhe māruto bhīmarūpī praharati yadi sākṣātpārtharūpeṇa śakraḥ|
-paruṣavacanadakṣa tvadvacobhirna dāsye tṛṇamapi pitṛbhukte vīryagupte svarājye||</p>
-
-<p>35|| vāsudevaḥ</p>
-
-<p>bhoḥ kurukulakalaṅkabhūta ayaśolubdha vayaṃ kila tṛṇāntarābhibhāṣakāḥ|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>bho gopālaka tṛṇānyabhibhāṣyo bhavān|</p>
-
-<p>avadhyāṃ pramadāṃ hatvā hayaṃ govṛṣameva ca| mallānapi sunirlajjo vaktumicchasi
-sādhubhiḥ||</p>
-
-<p>36|| vāsudevaḥ</p>
-
-<p>bhoḥ suyodhana nanu kṣipasi mām|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>nanu satyamevaitat|</p>
-
-<p>vāsudevaḥ</p>
-
-<p>gacchāmi tāvat|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>gaccha gaccha paśukhuroddhatareṇurūpitāṅgo vrajameva| viphalīkṛtaḥ kālaḥ|</p>
-
-<p>vāsudevaḥ</p>
-
-<p>evamastu| na vayamanuktasaṃdeśā gantumicchāmaḥ| tadākarṇyatāṃ yudhiṣṭhirasya
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>evamastu| na vayamanuktasaṃdeśā gantumicchāmaḥ| tadākarṇyatāṃ yudhiṣṭhirasya
 saṃdeśaḥ|</p>
+</sp>
 
-<p>duryodhanaḥ</p>
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>āḥ abhāṣyastvam|</p>
+  <lg xml:id="BhDv.1.37">
+  <l>ahamavadhṛtapāṇḍarātapatro dvijavarahastadhṛtāmbusiktamūrdhā|</l>
+  <l>avanatanṛpamaṇḍalānuyātraiḥ saha kathayāmi bhavadvidhairna bhāṣe|| 37 ||</l>
+  </lg>
+</sp>
 
-<p>āḥ abhāṣyastvam|</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>na vyāharati kila māṃ suyodhanaḥ| bhoḥ</p>
+  <lg xml:id="BhDv.1.38">
+  <l>śaṭha bāndhavaniḥsneha kāka kekara piṅgala|</l>
+  <l>tvadarthātkuruvaṃśo'ayamacirānnāśameṣyati|| 38 ||</l>
+  </lg>
+  <p>bho bho rājānaḥ gacchāmastāvat|</p>
+</sp>
 
-<p>ahamavadhṛtapāṇḍarātapatro dvijavarahastadhṛtāmbusiktamūrdhā|
-avanatanṛpamaṇḍalānuyātraiḥ
-saha kathayāmi bhavadvidhairna bhāṣe|| 37|| vāsudevaḥ</p>
-
-<p>na vyāharati kila māṃ suyodhanaḥ| bhoḥ</p>
-
-<p>śaṭha bāndhavaniḥsneha kāka kekara piṅgala|
-tvadarthātkuruvaṃśo.ayamacirānnāśameṣyati|| 38||</p>
-
-<p>bho bho rājānaḥ gacchāmastāvat|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>kathaṃ yāsyati kila keśavaḥ| duḥśāsana durmarṣaṇa durmukha durbuddhe
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>kathaṃ yāsyati kila keśavaḥ| duḥśāsana durmarṣaṇa durmukha durbuddhe
 duṣṭeśvara
 dūtasamudācāramatikrāntaḥ keśavo badhyatām| kathamaśaktāḥ| duḥśāsana na
 samarthaḥ
 khalvasi|</p>
-
-<p>karituraganihantā kaṃsahantā sa kṛṣṇaḥ paśupakulanivāsādānujīvyānabhijñaḥ|
-hṛtabhujabalavīryaḥ pārthivānāṃ samakṣaṃ svavacanakṛtadoṣo badhyatāmeṣa
-śīghram|| 39||</p>
-
-<p>ayamaśaktaḥ| mātula badhyatāmayaṃ keśavaḥ| kathaṃ parāṅmukhaḥ patati| bhavatu|
+  <lg xml:id="BhDv.1.39">
+  <l>karituraganihantā kaṃsahantā sa kṛṣṇaḥ</l>
+  <l>paśupakulanivāsādānujīvyānabhijñaḥ|</l>
+  <l>hṛtabhujabalavīryaḥ pārthivānāṃ samakṣaṃ</l>
+  <l>svavacanakṛtadoṣo badhyatāmeṣa śīghram|| 39 ||</l>
+  </lg>
+  <p>ayamaśaktaḥ| mātula badhyatāmayaṃ keśavaḥ| kathaṃ parāṅmukhaḥ patati| bhavatu|
 ahameva
-pāśairbadhnāmi|pāśamudyamyopasarpati|</p>
+pāśairbadhnāmi|<stage>pāśamudyamyopasarpati</stage></p>
+</sp>
 
-<p>vāsudevaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>kathaṃ baddhukāmo māṃ kila suyodhanaḥ| bhavatu| suyodhanasya sāmarthyaṃ
+paśyāmi|<stage>viśvarūpamāsthitaḥ</stage></p>
+</sp>
 
-<p>kathaṃ baddhukāmo māṃ kila suyodhanaḥ| bhavatu| suyodhanasya sāmarthyaṃ
-paśyāmi|viśvarūpamāsthitaḥ|</p>
-
-<p>duryodhanaḥ</p>
-
-<p>bho dūta</p>
-
-<p>sṛjasi yadi samantāddevamāyāḥ svamāyāḥ praharasi yadi vā tvaṃ durnivāraiḥ
-surāstraiḥ|
-hayagajavṛṣabhāṇāṃ pātanājjātadarpo narapatigaṇamadhye badhyase tvaṃ mayādya||</p>
-
-<p>40||</p>
-
-<p>āḥ tiṣṭhedānīm| kathaṃ na dṛṣṭaḥ keśavaḥ| ayaṃ keśavaḥ| aho hrasvatvaṃ keśavasya|
+<sp>
+  <speaker>duryodhanaḥ</speaker>
+  <p>bho dūta</p>
+  <lg xml:id="BhDv.1.40">
+  <l>sṛjasi yadi samantāddevamāyāḥ svamāyāḥ</l>
+  <l>praharasi yadi vā tvaṃ durnivāraiḥ surāstraiḥ|</l>
+  <l>hayagajavṛṣabhāṇāṃ pātanājjātadarpo</l>
+  <l>narapatigaṇamadhye badhyase tvaṃ mayādya|| 40 ||</l>
+  </lg>
+  <p>āḥ tiṣṭhedānīm| kathaṃ na dṛṣṭaḥ keśavaḥ| ayaṃ keśavaḥ| aho hrasvatvaṃ keśavasya|
 āḥ
 tiṣṭhedānīm| kathaṃ na dṛṣṭaḥ keśavaḥ| ayaṃ keśavaḥ| aho dīrghatvaṃ keśavasya|
 kathaṃ na
@@ -815,186 +936,232 @@ kariṣye|
 bhavatu dṛṣṭam| bho bho rājānaḥ ekenaikaḥ keśavo badhyatām| kathaṃ svayameva
 pāśairbaddhāḥ
 patanti rājānaḥ| sādhu bho jambhaka sādhu|</p>
+  <lg xml:id="BhDv.1.41">
+  <l>matkārmukodaraviniḥsṛtabāṇajālai-</l>
+  <l>rviddhaṃ kṣaratkṣatajarañjitasarvagātram|</l>
+  <l>paśyantu pāṇḍutanayāḥ śibiropanītaṃ</l>
+  <l>tvāṃ bāṣparuddhanayanāḥ pariniśvasantaḥ|| 41 ||</l>
+  </lg>
+  <stage>niṣkrāntaḥ</stage>
+</sp>
 
-<p>matkārmukodaraviniḥsṛtabāṇajālai- rviddhaṃ kṣaratkṣatajarañjitasarvagātram|
-paśyantu
-pāṇḍutanayāḥ śibiropanītaṃ tvāṃ bāṣparuddhanayanāḥ pariniśvasantaḥ|| 41||</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhavatu pāṇḍavānāṃ kāryamahameva sādhayāmi| bhoḥ sudarśana itastāvat|</p>
+  <stage>tataḥ praviśati sudarśanaḥ</stage>
+</sp>
 
-<p>niṣkrāntaḥ|
-vāsudevaḥ</p>
-
-<p>bhavatu pāṇḍavānāṃ kāryamahameva sādhayāmi| bhoḥ sudarśana itastāvat|</p>
-
-<p>tataḥ praviśati sudarśanaḥ| sudarśanaḥ</p>
-
-<p>eṣa bhoḥ|</p>
-
-<p>śrutvā giraṃ bhagavato vipulaprasādā- nnirdhāvito.asmi parivāritatoyadaughaḥ|
-kasminkhalu
-prakupitaḥ kamalāyatākṣaḥ kasyādya mūrdhani mayā pravijṛmbhitavyam|| 42||</p>
-
-<p>kva nu khalu bhagavānnārāyaṇaḥ|</p>
-
-<p>avyaktādiracintyātmā lokasaṃrakṣaṇodyataḥ| eko.anekavapuḥ
-śrīmāndviṣadbalaniṣūdanaḥ|| 43||</p>
-
-<p>vilokya|aye ayaṃ bhagavānhastinapuradvāre dūtasamudācāreṇopasthitaḥ| kutaḥ
+<sp>
+  <speaker>sudarśanaḥ</speaker>
+  <p>eṣa bhoḥ|</p>
+  <lg xml:id="BhDv.1.42">
+  <l>śrutvā giraṃ bhagavato vipulaprasādā-</l>
+  <l>nnirdhāvito'asmi parivāritatoyadaughaḥ|</l>
+  <l>kasminkhalu prakupitaḥ kamalāyatākṣaḥ</l>
+  <l>kasyādya mūrdhani mayā pravijṛmbhitavyam|| 42 ||</l>
+  </lg>
+  <p>kva nu khalu bhagavānnārāyaṇaḥ|</p>
+  <lg xml:id="BhDv.1.43">
+  <l>avyaktādiracintyātmā lokasaṃrakṣaṇodyataḥ|</l>
+  <l>eko'anekavapuḥ śrīmāndviṣadbalaniṣūdanaḥ|| 43 ||</l>
+  </lg>
+  <p><stage>vilokya</stage>aye ayaṃ bhagavānhastinapuradvāre dūtasamudācāreṇopasthitaḥ| kutaḥ
 khalvāpaḥ kutaḥ
-khalvāpaḥ| bhagavati ākāśagaṅge āpastāvat| hanta sravati|ācamyopasṛtya|jayatu
-bhagavānnārāyaṇaḥ|praṇamati|</p>
+khalvāpaḥ| bhagavati ākāśagaṅge āpastāvat| hanta sravati|<stage>ācamyopasṛtya</stage>jayatu
+bhagavānnārāyaṇaḥ|<stage>praṇamati</stage></p>
+</sp>
 
-<p>vāsudevaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>sudarśana apratihataparākramo bhava|</p>
+</sp>
 
-<p>sudarśana apratihataparākramo bhava|</p>
+<sp>
+  <speaker>sudarśanaḥ</speaker>
+  <p>anugṛhīto'asmi|</p>
+</sp>
 
-<p>sudarśanaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>diṣṭyā bhavānkarmakāle prāptaḥ|</p>
+</sp>
 
-<p>anugṛhīto.asmi|</p>
+<sp>
+  <speaker>sudarśanaḥ</speaker>
+  <p>kathaṃ kathaṃ karmakāla iti| ājñāpayatu bhagavānājñāpayatu|</p>
+  <lg xml:id="BhDv.1.44">
+  <l>kiṃ merumandarakulaṃ parivartayāmi</l>
+  <l>saṃkṣobhayāmi sakalaṃ makarālayaṃ vā|</l>
+  <l>nakṣatravaṃśamakhilaṃ bhuvi pātayāmi</l>
+  <l>nāśakyamasti mama deva tava prasādāt|| 44 ||</l>
+  </lg>
+</sp>
 
-<p>vāsudevaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>bhoḥ sudarśana itastāvat| bhoḥ suyodhana</p>
+  <lg xml:id="BhDv.1.45">
+  <l>yadi lavaṇajalaṃ vā kandaraṃ vā girīṇāṃ</l>
+  <l>grahagaṇacaritaṃ vā vāyumārgaṃ prayāsi|</l>
+  <l>mama bhujabalayogaprāptasaṃjātavegaṃ</l>
+  <l>bhavatu capala cakraṃ kālacakraṃ tavādya|| 45 ||</l>
+  </lg>
+</sp>
 
-<p>diṣṭyā bhavānkarmakāle prāptaḥ|</p>
+<sp>
+  <speaker>sudarśanaḥ</speaker>
+  <p>bhoḥ suyodhanahataka tiṣṭha tiṣṭha|punarvicārya|prasīdatu bhagavānnārāyṇaḥ|</p>
+  <lg xml:id="BhDv.1.46">
+  <l>mahībhārāpanayanaṃ kartuṃ jātasya bhūtale|</l>
+  <l>asminnevaṃ gate deva nanu syādviphalaśramaḥ|| 46 ||</l>
+  </lg>
+</sp>
 
-<p>sudarśanaḥ</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>sudarśana roṣātsamudācāro nāvekṣitaḥ| gamyatāṃ svanilayameva|</p>
+</sp>
 
-<p>kathaṃ kathaṃ karmakāla iti| ājñāpayatu bhagavānājñāpayatu|</p>
-
-<p>kiṃ merumandarakulaṃ parivartayāmi saṃkṣobhayāmi sakalaṃ makarālayaṃ vā|
-nakṣatravaṃśamakhilaṃ bhuvi pātayāmi nāśakyamasti mama deva tava prasādāt|| 44||</p>
-
-<p>vāsudevaḥ</p>
-
-<p>bhoḥ sudarśana itastāvat| bhoḥ suyodhana</p>
-
-<p>yadi lavaṇajalaṃ vā kandaraṃ vā girīṇāṃ grahagaṇacaritaṃ vā vāyumārgaṃ prayāsi|
-mama
-bhujabalayogaprāptasaṃjātavegaṃ bhavatu capala cakraṃ kālacakraṃ tavādya|| 45||</p>
-
-<p>sudarśanaḥ</p>
-
-<p>bhoḥ suyodhanahataka tiṣṭha tiṣṭha|punarvicārya|prasīdatu bhagavānnārāyṇaḥ|</p>
-
-<p>mahībhārāpanayanaṃ kartuṃ jātasya bhūtale| asminnevaṃ gate deva nanu
-syādviphalaśramaḥ|| 46||</p>
-
-<p>vāsudevaḥ</p>
-
-<p>sudarśana roṣātsamudācāro nāvekṣitaḥ| gamyatāṃ svanilayameva|</p>
-
-<p>sudarśanaḥ</p>
-
-<p>yadājñāpayati bhagavānnārāyaṇaḥ| kathaṃ kathaṃ gopālaka iti| tricaraṇātikrāntatriloko
+<sp>
+  <speaker>sudarśanaḥ</speaker>
+  <p>yadājñāpayati bhagavānnārāyaṇaḥ| kathaṃ kathaṃ gopālaka iti| tricaraṇātikrāntatriloko
 nārāyaṇaḥ khalvatra bhagavān| śaraṇaṃ vrajantu bhavantaḥ| yāvadgacchāmi| aye
 etadbhagavadāyudhavaraṃ śārṅgaṃ prāptam|</p>
-
-<p>tanumṛdulalitāṅgaṃ strīsvabhāvopapannaṃ harikaradhṛtamadhyaṃ
-śatrusaṃghaikakālaḥ|
-kanakakhacitapṛṣṭhaṃ bhāti kṛṣṇasya pārśve navasaliladapārśve cāruvidyullekheva||</p>
-
-<p>47||</p>
-
-<p>bho bhoḥ śārṅga praśāntaroṣo bhagavānnārāyaṇaḥ| gamyatāṃ svanilayameva| hanta
+  <lg xml:id="BhDv.1.47">
+  <l>tanumṛdulalitāṅgaṃ strīsvabhāvopapannaṃ</l>
+  <l>harikaradhṛtamadhyaṃ śatrusaṃghaikakālaḥ|</l>
+  <l>kanakakhacitapṛṣṭhaṃ bhāti kṛṣṇasya pārśve</l>
+  <l>navasaliladapārśve cāruvidyullekheva|| 47 ||</l>
+  </lg>
+  <p>bho bhoḥ śārṅga praśāntaroṣo bhagavānnārāyaṇaḥ| gamyatāṃ svanilayameva| hanta
 nivṛttaḥ|
 yāvadgacchāmi| aye iyaṃ kaumodakī prāptā|</p>
-
-<p>maṇikanakavicitrā citramālottarīyā suraripugaṇagātradhvaṃsane jātatṛṣṇā|
-girivarataṭarūpā
-durnivārātivīryā vrajati nabhasi śīghraṃ meghavṛndānuyātrā|| 48||</p>
-
-<p>he kaumodaki praśāntaroṣo bhagavānnārāyaṇaḥ| hanta nivṛttā| yāvadgacchāmi| aye
+  <lg xml:id="BhDv.1.48">
+  <l>maṇikanakavicitrā citramālottarīyā</l>
+  <l>suraripugaṇagātradhvaṃsane jātatṛṣṇā|</l>
+  <l>girivarataṭarūpā durnivārātivīryā</l>
+  <l>vrajati nabhasi śīghraṃ meghavṛndānuyātrā|| 48 ||</l>
+  </lg>
+  <p>he kaumodaki praśāntaroṣo bhagavānnārāyaṇaḥ| hanta nivṛttā| yāvadgacchāmi| aye
 ayaṃ
 pāñcajanyaḥ prāptaḥ|</p>
-
-<p>pūrṇendukundakumudodarahāragauro nārāyaṇānanasarojakṛtaprasādaḥ| yasya svanaṃ
-pralayasāgaraghoṣatulyaṃ garbhā niśamya nipatantyasurāṅganānām|| 49||</p>
-
-<p>he pāñcajanya praśāntaroṣo bhagavān| gamyatāṃ svanilayameva| hanta nivṛttaḥ| aye
+  <lg xml:id="BhDv.1.49">
+  <l>pūrṇendukundakumudodarahāragauro</l>
+  <l>nārāyaṇānanasarojakṛtaprasādaḥ|</l>
+  <l>asya svanaṃ pralayasāgaraghoṣatulyaṃ</l>
+  <l>garbhā niśamya nipatantyasurāṅganānām|| 49 ||</l>
+  </lg>
+  <p>he pāñcajanya praśāntaroṣo bhagavān| gamyatāṃ svanilayameva| hanta nivṛttaḥ| aye
 nandakāsiḥ
 prāptaḥ|</p>
-
-<p>vanitāvigraho yuddhe mahāsurabhayaṃkaraḥ| prayāti gagane śīghraṃ maholkeva
-vibhātyayam|| 50||</p>
-
-<p>he nandaka praśāntaroṣo bhagavān| gamyatāṃ svanilayameva| hanta nivṛttaḥ|
+  <lg xml:id="BhDv.1.50">
+  <l>vanitāvigraho yuddhe mahāsurabhayaṃkaraḥ|</l>
+  <l>prayāti gagane śīghraṃ maholkeva vibhātyayam|| 50 ||</l>
+  </lg>
+  <p>he nandaka praśāntaroṣo bhagavān| gamyatāṃ svanilayameva| hanta nivṛttaḥ|
 yāvadgacchāmi| aye
 etāni bhagavadāyudhavarāṇi|</p>
-
-<p>so.ayaṃ khaḍgaḥ kharāṃśorapahasitatanuḥ svaiḥ karairnandakākhyaḥ seyaṃ
-kaumodakī yā
-suraripukaṭhinoraḥsthalakṣodadakṣā| saiṣā śārṅgābhidhānā pralayaghanaravajyāravā
-cāpayaṣṭiḥ so.ayaṃ gambhīraghoṣaḥ śaśikaraviśadaḥ śaṅkharāṭpāñcajanyaḥ|| 51|| he
-śārṅga kaumodaki pāñcajanya daityāntakṛnnandaka śatruvahne| praśāntaroṣo
-bhagavānmurāriḥ
-svasthānamevātra hi gaccha tāvat|| 52||</p>
-
-<p>hanta nivṛttāḥ| yāvadgacchāmi| aye atyuddhūto vāyuḥ| atitapatyādityaḥ| calitāḥ
+  <lg xml:id="BhDv.1.51">
+  <l>so'ayaṃ khaḍgaḥ kharāṃśorapahasitatanuḥ svaiḥ karairnandakākhyaḥ</l>
+  <l>seyaṃ kaumodakī yā suraripukaṭhinoraḥsthalakṣodadakṣā|</l>
+  <l>saiṣā śārṅgābhidhānā pralayaghanaravajyāravā cāpayaṣṭiḥ</l>
+  <l>so'ayaṃ gambhīraghoṣaḥ śaśikaraviśadaḥ śaṅkharāṭpāñcajanyaḥ|| 51 ||</l>
+  </lg>
+  <lg xml:id="BhDv.1.52">
+  <l>he śārṅga kaumodaki pāñcajanya</l>
+  <l>daityāntakṛnnandaka śatruvahne|</l>
+  <l>praśāntaroṣo bhagavānmurāriḥ</l>
+  <l>svasthānamevātra hi gaccha tāvat|| 52 ||</l>
+  </lg>
+  <p>hanta nivṛttāḥ| yāvadgacchāmi| aye atyuddhūto vāyuḥ| atitapatyādityaḥ| calitāḥ
 parvatāḥ|
 kṣubdhāḥ sāgarāḥ| patitā vṛkṣāḥ| bhrāntā meghāḥ| pralīnā vāsukiprabhṛtayo
 bhujaṃgeśvarāḥ| kiṃ nu khalvidam| aye ayaṃ bhagavato vāhanaḥ garuḍaḥ prāptaḥ|</p>
-
-<p>surāsurāṇāṃ parikhedalabdhaṃ yenāmṛtaṃ mātṛvimokṣaṇārthaṃ|
-ācchinnamāsīddviṣato
-murārestvāmudvahāmīti varo.api dattaḥ|| 53||</p>
-
-<p>he kāśyapapriyasuta garuḍa praśāntaroṣo bhagavāndevadeveśaḥ| gamyatāṃ
+  <lg xml:id="BhDv.1.53">
+  <l>surāsurāṇāṃ parikhedalabdhaṃ yenāmṛtaṃ mātṛvimokṣaṇārthaṃ|</l>
+  <l>ācchinnamāsīddviṣato murārestvāmudvahāmīti varo'api dattaḥ|| 53 ||</l>
+  </lg>
+  <p>he kāśyapapriyasuta garuḍa praśāntaroṣo bhagavāndevadeveśaḥ| gamyatāṃ
 svanilayameva| hanta
 nivṛttaḥ| yāvadgacchāmi|</p>
+  <lg xml:id="BhDv.1.54">
+  <l>ete sthitā viyati kiṃnarayakṣasiddhāḥ</l>
+  <l>devāśca saṃbhramacalanmukuṭottamāṅgāḥ|</l>
+  <l>ruṣṭe'acyute vigatakāntiguṇāḥ praśāntaṃ</l>
+  <l>śrutvā śrayanti sadanāni nivṛttatāpāḥ|| 54 ||</l>
+  </lg>
+  <p>yāvadahamapi kāntāṃ meruguhāmeva yāsyāmi|</p>
+  <stage>niṣkrāntaḥ|</stage>
+</sp>  
+  
+<sp>  
+  <speaker>vāsudevaḥ</speaker>
+  <p>yāvadahamapi pāṇḍavaśibirameva yāsyāmi|</p>
+</sp>
 
-<p>ete sthitā viyati kiṃnarayakṣasiddhāḥ devāśca saṃbhramacalanmukuṭottamāṅgāḥ|
-ruṣṭe.acyute
-vigatakāntiguṇāḥ praśāntaṃ śrutvā śrayanti sadanāni nivṛttatāpāḥ|| 54||</p>
-
-<p>yāvadahamapi kāntāṃ meruguhāmeva yāsyāmi|</p>
-
-<p>niṣkrāntaḥ| vāsudevaḥ</p>
-
-<p>yāvadahamapi pāṇḍavaśibirameva yāsyāmi|</p>
-
-<p>nepathye|</p>
+<stage>nepathye</stage>
 
 <p>na khalu na khalu gantavyam|</p>
 
-<p>vāsudevaḥ</p>
-
-<p>aye vṛddharājasvara iva| bho rājan eṣa sthito.asmi|</p>
-
-<p>tataḥ praviśati dhṛtarāṣṭraḥ| dhṛtarāṣṭraḥ</p>
-
-<p>kva nu khalu bhagavānnārāyaṇaḥ| kva nu khalu bhagavānpāṇḍavaśreyaskaraḥ| kva nu
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>aye vṛddharājasvara iva| bho rājan eṣa sthito'asmi|</p>
+  <stage>tataḥ praviśati dhṛtarāṣṭraḥ</stage>
+</sp>  
+  
+<sp>  
+  <speaker>dhṛtarāṣṭraḥ</speaker>
+  <p>kva nu khalu bhagavānnārāyaṇaḥ| kva nu khalu bhagavānpāṇḍavaśreyaskaraḥ| kva nu
 khalu
 bhagavānviprapriyaḥ| kva nu khalu bhagavāndevakīnandanaḥ|</p>
+  <lg xml:id="BhDv.1.55">
+  <l>mama putrāparādhāttu śārṅgapāṇe tavādhunā|</l>
+  <l>etanme tridaśādhyākṣa pādayoḥ patitaṃ śiraḥ|| 55 ||</l>
+  </lg>
+</sp>  
+  
+<stage>patati</stage>
+  
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>hā dhik| patito'atrabhavān| uttiṣṭhottiṣṭha|</p>
+</sp>
 
-<p>mama putrāparādhāttu śārṅgapāṇe tavādhunā| etanme tridaśādhyākṣa pādayoḥ
-patitaṃ
-śiraḥ|| 55|| patati| vāsudevaḥ</p>
+<sp>
+  <speaker>dhṛtarāṣṭraḥ</speaker>
+  <p>anugṛhīto'asmi| bhagavan idamarghyaṃ pādyaṃ ca pratigṛhyatām|</p>
+</sp>
 
-<p>hā dhik| patito.atrabhavān| uttiṣṭhottiṣṭha|</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>sarvaṃ gṛhṇāmi| kiṃ te bhūyaḥ priyamupaharāmi|</p>
+</sp>
 
-<p>dhṛtarāṣṭraḥ</p>
+<sp>
+  <speaker>dhṛtarāṣṭraḥ</speaker>
+  <p>yadi me bhagavānprasannaḥ kimataḥ paramicchāmi|</p>
+</sp>
 
-<p>anugṛhīto.asmi| bhagavan idamarghyaṃ pādyaṃ ca pratigṛhyatām|</p>
+<sp>
+  <speaker>vāsudevaḥ</speaker>
+  <p>gacchatu bhavānpunardarśanāya|</p>
+</sp>
 
-<p>vāsudevaḥ</p>
+<sp>
+  <speaker>dhṛtarāṣṭraḥ</speaker>
+  <p>yadājñāpayati bhagavannārāyaṇaḥ|</p>
+</sp>
 
-<p>sarvaṃ gṛhṇāmi| kiṃ te bhūyaḥ priyamupaharāmi|</p>
+<stage>niṣkrāntaḥ</stage>
+<p>bharatavākyam</p>
+<lg xml:id="BhDv.1.56">
+<l>imāṃ sāgaraparyantāṃ himavadvindhyakuṇḍalām|</l>
+<l>mahīmekātapatrāṅkāṃ rājasiṃhaḥ praśāstu naḥ|| 56 ||</l>
+</lg>
+<stage>niṣkrāntāḥ sarvet</stage>
 
-<p>dhṛtarāṣṭraḥ</p>
-
-<p>yadi me bhagavānprasannaḥ kimataḥ paramicchāmi|</p>
-
-<p>vāsudevaḥ</p>
-
-<p>gacchatu bhavānpunardarśanāya|</p>
-
-<p>dhṛtarāṣṭraḥ</p>
-
-<p>yadājñāpayati bhagavannārāyaṇaḥ|</p>
-
-<p>niṣkrāntaḥ| bharatavākyam| imāṃ sāgaraparyantāṃ himavadvindhyakuṇḍalām|
-mahīmekātapatrāṅkāṃ rājasiṃhaḥ praśāstu naḥ|| 56|| niṣkrāntāḥ sarve| dūtavākyaṃ
-samāptam|
-ka iti| tricaraṇātikrāntatriloko
-nārāyaṇaḥ khalvatra bhagavān| śaraṇaṃ vrajantu bhavantaḥ| yāvadga</p>
+<trailer>|| dūtavākyaṃsamāptam ||</trailer>
+<trailer>ka iti| tricaraṇātikrāntatriloko nārāyaṇaḥ khalvatra bhagavān| śaraṇaṃ vrajantu bhavantaḥ| yāvadga</trailer>
 
   </body>
 </text>
