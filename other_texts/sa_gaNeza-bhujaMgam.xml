@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gbh" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ganesha Bhujangam</title>
+        <title type="sub">A machine-readable edition</title>
+        <author>Sankara</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ambuda</publisher>
+        <availability status="free">
+          <license target="https://creativecommons.org/publicdomain/zero/1.0/">Dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.</license>
+
+          This content is originally from <ref target="https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n7/mode/2up">this book.</ref>
+        </availability>
+        <date>2022</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Works of Sri Sankaracharya</title>
+          <author>Sankara</author>
+          <editor></editor>
+          <publisher>Sri Vani Vilas Press</publisher>
+          <pubPlace>Srirangam</pubPlace>
+          <date>1910</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Produced through the distributed proofreading interface on Ambuda.</p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change when-iso="2022-08-26" who="Ashwin Ramaswami">Initially created TEI file from <ref target="https://ambuda.org/proofing/worksofsrisankaracharya17-stotras1-text/">Ambuda proofing project.</ref></change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Deva">
+    <body>
+
+<lg xml:id="Gbh.01">
+  <l>रणत्क्षुद्रघण्टानिनादाभिरामं</l>
+  <l>चलत्ताण्डवोद्दण्डवत्पद्मतालम् ।</l>
+  <l>लसत्तुन्दिलाङ्गोपरिव्यालहारं</l>
+  <l>गणाधीशमीशानसूनुं तमीडे ॥ १ ॥</l>
+</lg>
+<lg xml:id="Gbh.02">
+  <l>ध्वनिध्वंसवीणालयोल्लासिवक्त्रं</l>
+  <l>स्फुरच्छुण्डदण्डोल्लसद्वीजपूरम् ।</l>
+  <l>गलद्दर्पसौगन्ध्यलोलालिमालं</l>
+  <l>गणाधीशमीशानसूनुं तमीडे ॥ २ ॥</l>
+</lg>
+<lg xml:id="Gbh.03">
+  <l>प्रकाशज्जपारतरत्नप्रसून-</l>
+  <l>प्रवालप्रभातारुणज्योतिरेकम् ।</l>
+  <l>प्रलम्बोदरं वक्रतुण्डैकदन्तं</l>
+  <l>गणाधीशमीशानसूनुं तमीडे ॥ ३ ॥</l>
+</lg>
+<lg xml:id="Gbh.04">
+  <l>विचित्रस्फुरद्रत्नमालाकिरीटं</l>
+  <l>किरीटोल्लसच्चन्द्ररेखाविभूषम् ।</l>
+  <l>विभूषैकभूषं भवध्वंसहेतुं</l>
+  <l>गणाधीशमीशानसूनुं तमीडे ॥ ४ ॥</l>
+</lg>
+<lg xml:id="Gbh.05">
+  <l>उदञ्चद्भुजावल्लरीदृश्यमूलो-</l>
+  <l>च्चलद्भ्रूलताविभ्रमभ्राजदक्षम् ।</l>
+  <l>मरुत्सुन्दरीचामरैः सेव्यमानं</l>
+  <l>गणाधीशमीशानसूनुं तमीडे ॥ ५ ॥</l>
+</lg>
+<lg xml:id="Gbh.06">
+  <l>स्फुरन्निष्ठुरालोलपिङ्गाक्षितारं</l>
+  <l>कृपाकोमलोदारलीलावतारम् ।</l>
+  <l>कलाबिन्दुगं गीयते योगिवर्यै-</l>
+  <l>र्गणाधीशमीशानसूनुं तमीडे ॥ ६ ॥</l>
+</lg>
+<lg xml:id="Gbh.07">
+  <l>यमेकाक्षरं निर्मलं निर्विकल्पं</l>
+  <l>गुणातीतमानन्दमाकारशून्यम् ।</l>
+  <l>परं पारमोंकारमानायगर्भं</l>
+  <l>वदन्ति प्रगल्भं पुराणं तमीडे ॥ ७ ॥</l>
+</lg>
+<lg xml:id="Gbh.08">
+  <l>चिदानन्दसान्द्राय शान्ताय तुभ्यं</l>
+  <l>नमो विश्वकर्त्रे च हर्त्रे च तुभ्यम् ।</l>
+  <l>नमोऽनन्तलीलाय कैवल्यभासे</l>
+  <l>नमो विश्वबीज प्रसीदेशसूनो ॥ ८ ॥</l>
+</lg>
+<lg xml:id="Gbh.09">
+  <l>इमं सुस्तवं प्रातरुत्थाय भक्त्या</l>
+  <l>पठेद्यस्तु मर्त्यो लभेत्सर्वकामान् ।</l>
+  <l>गणेशप्रसादेन सिध्यन्ति वाचो</l>
+  <l>गणेशे विभौ दुर्लभं किं प्रसन्ने ॥ ९ ॥</l>
+</lg>
+
+</body></text></TEI>
