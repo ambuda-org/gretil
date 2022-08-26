@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Gpa" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Ganesha Pancaratnam</title>
+        <title type="sub">A machine-readable edition</title>
+        <author>Sankara</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ambuda</publisher>
+        <availability status="free">
+          <license target="https://creativecommons.org/publicdomain/zero/1.0/">Dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.</license>
+
+          This content is originally from <ref target="https://archive.org/details/CompleteWorksOfSriSankaracharyaIn20Volumes1910Edition/WorksOfSriSankaracharya17-Stotras1/page/n7/mode/2up">this book.</ref>
+        </availability>
+        <date>2022</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>The Works of Sri Sankaracharya</title>
+          <author>Sankara</author>
+          <editor></editor>
+          <publisher>Sri Vani Vilas Press</publisher>
+          <pubPlace>Srirangam</pubPlace>
+          <date>1910</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Produced through the distributed proofreading interface on Ambuda.</p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change when-iso="2022-08-26" who="Ashwin Ramaswami">Initially created TEI file from <ref target="https://ambuda.org/proofing/worksofsrisankaracharya17-stotras1-text/">Ambuda proofing project.</ref></change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Deva">
+    <body>
+
+<lg xml:id="Gpa.01">
+  <l>मुदा करात्तमोदकं सदा विमुक्तिसाधकं</l>
+  <l>कलाधरावतंसकं विलासिलोकरक्षकम् ।</l>
+  <l>अनायकैकनायकं विनाशितेभदैत्यक</l>
+  <l>नताशुभाशुनाशकं नमामि तं विनायकम् ॥ १ ॥</l>
+</lg>
+<lg xml:id="Gpa.02">
+  <l>नतेतरातिभीकरं नवोदितार्कभास्वरं</l>
+  <l>नमत्सुरारिनिर्जरं नताधिकापदुद्धरम् ।</l>
+  <l>सुरेश्वरं निधीश्वरं गजेश्वरं गणेश्वरं</l>
+  <l>महेश्वरं तमाश्रये परात्परं निरन्तरम् ॥ २ ॥</l>
+</lg>
+<lg xml:id="Gpa.03">
+  <l>समस्तलोकशंकरं निरस्तदैत्यकुञ्जरं</l>
+  <l>दरेतरोदरं वरं वरेभवक्त्रमक्षरम् ।</l>
+  <l>कृपाकरं क्षमाकरं मुदाकरं यशस्करं</l>
+  <l>मनस्करं नमस्कृतां नमस्करोमि भास्वरम् ॥ ३ ॥</l>
+</lg>
+<lg xml:id="Gpa.04">
+  <l>अकिंचनार्तिमार्जनं चिरंतनोक्तिभाजनं</l>
+  <l>पुरारिपूर्वनन्दनं सुरारिगर्वचर्वणम् ।</l>
+  <l>प्रपञ्चनाशभीषणं धनंजयादिभूषणं</l>
+  <l>कपोलदानवारणं भजे पुराणवारणम् ॥ ४ ॥</l>
+</lg>
+<lg xml:id="Gpa.05">
+  <l>नितान्तकान्तदन्तकान्तिमन्तकान्तकात्मजम्</l>
+  <l>अचिन्त्यरूपमन्तहीनमन्तरायकृन्तनम् ।</l>
+  <l>हृदन्तरे निरन्तरं वसन्तमेव योगिनां</l>
+  <l>तमेकदन्तमेव तं विचिन्तयामि संततम् ॥ ५ ॥</l>
+</lg>
+<lg xml:id="Gpa.06">
+  <l>महागणेशपञ्चरत्नमादरेण योऽन्वहं</l>
+  <l>प्रजल्पति प्रभातके हृदि स्मरन्गणेश्वरम् ।</l>
+  <l>अरोगतामदोषतां सुसाहितीं सुपुत्रतां</l>
+  <l>समाहितायुरष्टभूतिमभ्युपैति सोऽचिरात् ॥ ६ ॥</l>
+</lg>
+
+</body></text></TEI>
