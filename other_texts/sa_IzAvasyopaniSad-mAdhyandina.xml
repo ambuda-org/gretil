@@ -34,7 +34,7 @@
       </projectDesc>
     </encodingDesc>
     <revisionDesc>
-      <change when-iso="2022-08-25" who="Ashwin Ramaswami">Initially created TEI file from Ambuda proofing.</change>
+      <change when-iso="2022-08-25" who="Ashwin Ramaswami">Initially created TEI file from <ref target="https://ambuda.org/proofing/isavasyopanishad-text-only/">Ambuda proofing project.</ref></change>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="sa-Deva">
