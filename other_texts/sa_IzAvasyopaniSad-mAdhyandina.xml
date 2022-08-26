@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Isa" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Isavasyopanishad (Madhyandina)</title>
+        <title type="sub">A machine-readable edition</title>
+        <author>Unknown</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ambuda</publisher>
+        <!-- "free" or "restricted" depending on the license-->
+        <availability status="free">
+          <license target="https://creativecommons.org/publicdomain/zero/1.0/">Dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.</license>
+
+          This content is originally from <ref target="https://archive.org/details/suklayajurveda/page/n611/mode/2up">this book.</ref>
+        </availability>
+        <date>2022</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Shukla Yajurveda (Madhyandina Samhita) with two commentaries (with appendices and index of mantras)</title>
+          <author>Unknown</author>
+          <editor>Wasudev Laxman Shastri Panshikar</editor>
+          <publisher>Pandurang Jawaji</publisher>
+          <pubPlace>Nirnay Sagar Press, Bombay</pubPlace>
+          <date>1929</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Produced through the distributed proofreading interface on Ambuda.</p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change when-iso="2022-08-25" who="Ashwin Ramaswami">Initially created TEI file from Ambuda proofing.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Deva">
+    <body>
+
+
+<lg xml:id="Isa.01">
+  <l>ई॒शा वा॒स्य॒मि॒दꣳ सर्वें॒ यत्कंच॒ जग॑त्यां॒ जग॑त् ।</l>
+  <l>तेन॑ त्य॒क्तेन॑ भुञ्जीथा॒ मा गृ॑धः॒ कस्य॑स्व॒द्धन॑म् ॥ १ ॥</l>
+</lg>
+
+<lg xml:id="Isa.02">
+  <l>कु॒र्वन्ने॒वेह॒ कर्मा॑णि जिजीवि॒षेच्छ॒तꣳ समाः॑ ।</l>
+  <l>ए॒वं त्वयि॒ नान्यथो॒तो॒ऽस्ति॒ न कर्म॑ लिप्यते॒ नरे॑ ॥ २ ॥</l>
+</lg>
+
+<lg xml:id="Isa.03">
+  <l>अ॒सु॒र्या नाम॒ ते लो॒का अ॒न्धेन॒ तम॒सावृ॑ताः ।</l>
+  <l>तांस्ते प्रेत्यापि॑गच्छन्ति॒ ये के चा॑त्म॒हनो॒ जनाः॑ ॥ ३ ॥</l>
+</lg>
+
+<lg xml:id="Isa.04">
+  <l>अने॑ज॒देकं॒ मन॑सो॒ जवी॑यो॒ नैन॑द्दे॒वा आ॑प्नुव॒न्पूर्व॒मर्स्श॑त् ।</l>
+  <l>तद्धाव॑तो॒ऽन्यानत्ये॑ति॒ तिष्ठ॒त्तस्मि॑न्न॒पो मा॑त॒रिश्वा॑ दधाति ॥ ४ ॥</l>
+</lg>
+
+<lg xml:id="Isa.05">
+  <l>तदे॑जति॒ तन्नैज॑ति॒ तद्दू॒रे तद्व्॑न्ति॒के ।</l>
+  <l>तद॒न्तर॑स्य॒ सर्व॑स्य॒ तदु॒ सर्व॑स्यास्य बाह्य॒तः ॥ ५ ॥</l>
+</lg>
+
+<lg xml:id="Isa.06">
+  <l>यस्तु सर्वा॑णि भू॒तान्या॒स्मन्ने॒त्रानु॒पश्य॑ति ।</l>
+  <l>स॒र्व॒भू॒तेषु॑ चा॒त्मानं॒ ततो॒ न विचि॑कित्सति ॥ ६ ॥</l>
+</lg>
+
+<lg xml:id="Isa.07">
+  <l>यस्मि॒न्सर्वा॑णि भू॒तान्या॒त्मैवाभू॑द्विजान॒तः ।</l>
+  <l>तत्र॒ को मोहः॒ कः शोक॑ एक॒त्वम॑नु॒पश्य॑तः ॥ ७ ॥</l>
+</lg>
+
+<lg xml:id="Isa.08">
+  <l>स पर्य॑गाच्छु॒क्रम॑का॒यम॑व्र॒णम॑स्नावि॒रꣳ शु॒द्धमपा॑पविद्धम् ।</l>
+  <l>क॒विर्म॑नी॒षी प॑रि॒भूः स्व॑यं॒भूर्या॑थातथ्य॒तोऽर्था॒न्व्य॒दधाच्छाश्व॒तीभ्यः॒ स॒मा॑भ्यः ॥ ८ ॥</l>
+</lg>
+
+<lg xml:id="Isa.09">
+  <l>अ॒न्धं तमः॒ प्रवि॑शन्ति॒ येऽसं॑ भूतिमु॒पास॑ते ।</l>
+  <l>ततो॒ भूय॑ इव॒ ते तमो॒ य उ॒ संभू॑त्याꣳ र॒ताः ॥ ९ ॥</l>
+</lg>
+
+<lg xml:id="Isa.10">
+  <l>अ॒न्यदे॒वाहुः स॑भ॒वाद॒न्यदा॑हु॒रसं॑भवात् ।</l>
+  <l>इति शुश्रुम॒ धीरा॑णां॒ ये न॒स्तद्वि॑चचक्ष॒रे ॥ १० ॥</l>
+</lg>
+
+<lg xml:id="Isa.11">
+  <l>संभू॑तिं च विना॒शं च॒ यस्तद्वेदो॒भयꣳ स॒ह ।</l>
+  <l>वि॒ना॒शेन॑ मृ॒त्युं ती॒र्त्वा संभू॑त्या॒मृत॑मश्नुते ॥ ११ ॥</l>
+</lg>
+
+<lg xml:id="Isa.12">
+  <l>अ॒न्धं तमः॒ प्रवि॑शन्ति॒ येऽवि॑द्यामु॒पास॑ते ।</l>
+  <l>ततो॒ भूय॑ इव॒ ते तमो॒ य उ॑ वि॒द्याया॑ꣳ र॒ताः ॥ १२ ॥</l>
+</lg>
+
+<lg xml:id="Isa.13">
+  <l>अ॒न्यदे॒वाहुर्वि॒द्याया॑ अ॒न्यदा॑हु॒रवि॑द्यायाः ।</l>
+  <l>इति॑ शुश्रुम॒ धीरा॑णां॒ ये न॒स्तद्वि॑चचक्ष॒रे ॥ १३ ॥</l>
+</lg>
+
+<lg xml:id="Isa.14">
+  <l>वि॒द्यां चावि॑द्यां च॒ यस्तद्वेदो॒भयꣳ स॒ह ।</l>
+  <l>अवि॑द्यया मृत्युं ती॒र्त्वा वि॒द्यया॒मृत॑मश्नुते ॥ १४ ॥</l>
+</lg>
+
+<lg xml:id="Isa.15">
+  <l>वा॒युरनि॑लम॒मृत॒मथे॒दं भस्मा॑न्त॒ꣳ शरी॑रम्</l>
+  <l>ओ३म् क्रतो॑ स्मर क्लि॒बे स्म॑र कृ॒तꣳ स्मर॑ ॥ १५ ॥</l>
+</lg>
+
+<lg xml:id="Isa.16">
+  <l>अग्ने॒ नय॑ सु॒पथा॑ रा॒ये अ॒स्मान्विश्वा॑नि देव व॒युना॑नि वि॒द्वान् ।</l>
+  <l>यु॒योध्य॒स्मज्जु॑हुरा॒णमेनो॒ भूयि॑ष्ठां ते॒ नम॑उक्तिं विधेम ॥ १६ ॥</l>
+  <l></l>
+</lg>
+
+<lg xml:id="Isa.17">
+  <l>हि॒र॒ण्मये॑न॒ पात्रे॑ण स॒त्यस्यापि॑हितं॒ मुख॑म् ।</l>
+  <l>यो॒ऽसा वा॑दि॒त्ये पुरु॑षः॒ सोऽसाव॒हम् ॥ १७ ॥</l>
+</lg>
+
+</body></text></TEI>
