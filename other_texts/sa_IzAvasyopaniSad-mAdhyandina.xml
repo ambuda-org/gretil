@@ -9,7 +9,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher>Ambuda</publisher>
-        <!-- "free" or "restricted" depending on the license-->
         <availability status="free">
           <license target="https://creativecommons.org/publicdomain/zero/1.0/">Dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.</license>
 
