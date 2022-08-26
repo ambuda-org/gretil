@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="Nas" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Nasadiya Suktam</title>
+        <title type="sub">A machine-readable edition</title>
+        <author>Unknown</author>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Ambuda</publisher>
+        <!-- "free" or "restricted" depending on the license-->
+        <availability status="free">
+          <license target="https://creativecommons.org/publicdomain/zero/1.0/">Dedicated to the public domain under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.</license>
+
+          This content is originally from <ref target="https://archive.org/details/1_20210709_20210709_1152/4/page/n725/mode/2up">this book.</ref>
+        </availability>
+        <date>2022</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Rgveda-Samhita with the Commentary of Sayanacharya</title>
+          <author>Unknown</author>
+          <editor></editor>
+          <publisher>N.S. Sontakke and O.G. Kashkar, Vaidika Samsodhana Mandala</publisher>
+          <pubPlace>Poona</pubPlace>
+          <date>1946</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Produced through the distributed proofreading interface on Ambuda.</p>
+      </projectDesc>
+    </encodingDesc>
+    <revisionDesc>
+      <change when-iso="2022-08-26" who="Ashwin Ramaswami">Initially created TEI file from Ambuda proofing.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="sa-Deva">
+    <body>
+
+
+<lg xml:id="Nas.01">
+  <l>नास॑दासी॒न्नो सदा॑सत्त॒दानीं॒ नासी॒द्रजो॒ नो व्यो॑मा प॒रो यत् ।</l>
+  <l>किमाव॑रीवः॒ कुह॒ कस्य॒ शर्म॒न्नम्भः॒ किमा॑सी॒द्नह॑नं गभी॒रम् ॥ १ ॥</l>
+</lg>
+
+<lg xml:id="Nas.02">
+  <l>न मृ॒त्युरा॑सीद॒मृतं॒ न तर्हि॒ न रात्र्या॒ अह्न॑ आसीत्प्रके॒तः ।</l>
+  <l>आनी॑दवा॒तं स्व॒धया॒ तदेकं॒ तस्मा॑द्धा॒न्यन्न प॒रः किं च॒नास॑ ॥ २ ॥</l>
+</lg>
+
+<lg xml:id="Nas.03">
+  <l>तम॑ आसी॒त्तम॑सा गू॒ळ्हमग्ने॑ऽप्रके॒तं स॑लि॒लं सर्व॑मा इ॒दम् ।</l>
+  <l>तु॒च्छ्येना॒भ्वपि॑हितं॒ यदासी॒त्तप॑स॒स्तन्म॑हि॒नाजा॑य॒तैक॑म् ॥ ३ ॥</l>
+</lg>
+
+<lg xml:id="Nas.04">
+  <l>काम॒स्तदग्रे॒ सम॑वर्त॒ताधि॒ मन॑सो॒ रेतः॑ प्रथ॒मं यदासी॑त् ।</l>
+  <l>स॒तो बन्धु॒मस॑ति॒ निर॑विन्दन् हृ॒दि प्र॒तीष्या॑ क॒वयो॑ मनी॒षा ॥ ४ ॥</l>
+</lg>
+
+<lg xml:id="Nas.05">
+  <l>ति॒र॒श्चीनो॒ वित॑तो र॒श्मिरे॑षाम॒धः स्विदा॒सी३दु॒परि॑ स्विदासी३त् ।</l>
+  <l>रे॒तो॒धा आ॑सन्महि॒मान॑ आसन्त्स्व॒धा अ॒वस्ता॒त्प्रय॑तिः प॒रस्ता॑त् ॥ ५ ॥</l>
+</lg>
+
+<lg xml:id="Nas.06">
+  <l>को अ॒द्धा वे॑द॒ क इ॒ह प्र वो॑च॒त्कुत॒ आजा॑ता॒ कुत॑ इ॒यं विसृ॑ष्टिः ।</l>
+  <l>अ॒र्वाग्दे॒वा अ॒स्य वि॒सर्ज॑ने॒नाथा॒ को वे॑द॒ यत॑ आब॒भूव॑ ॥ ६ ॥</l>
+</lg>
+
+<lg xml:id="Nas.07">
+  <l>इ॒यं विसृ॑ष्टि॒र्यत॑ आब॒भूव॒ यदि॑ वा द॒धे यदि॑ वा॒ न ।</l>
+  <l>यो अ॒स्याध्य॑क्षः पर॒मे व्यो॑म॒न्त्सो अ॒ङ्ग वे॑द॒ यदि॑ वा॒ न वेद॑ ॥ ७ ॥</l>
+</lg>
+
+</body></text></TEI>
